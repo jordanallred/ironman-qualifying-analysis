@@ -21,13 +21,6 @@
       "men_slots": 65,
       "women_slots": 35
     },
-    "IRONMAN Switzerland, Thun": {
-      "date": "2025-08-24",
-      "location": "Thun, Switzerland",
-      "total_slots": 40,
-      "men_slots": null,
-      "women_slots": null
-    },
     "IRONMAN Wisconsin": {
       "date": "2024-09-08",
       "location": "Madison, Wisconsin",
@@ -45,9 +38,9 @@
     "IRONMAN Italy Emilia-Romagna": {
       "date": "2024-09-21",
       "location": "Emilia-Romagna, Italy",
-      "total_slots": 40,
-      "men_slots": null,
-      "women_slots": null
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
     },
     "IRONMAN Maryland": {
       "date": "2024-09-21",
