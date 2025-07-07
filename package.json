@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "./scripts/build-with-validation.sh",
+    "build": "prisma generate && prisma migrate deploy && next build",
     "build-old": "prisma generate && prisma migrate deploy && tsx scripts/import-race-data.ts && tsx scripts/generate-correct-analyses.ts && tsx scripts/import-missing-races.ts && tsx scripts/import-full-results.ts && next build",
     "validate": "tsx scripts/data-validation-suite.ts",
     "cleanup": "tsx scripts/cleanup-and-validate.ts",

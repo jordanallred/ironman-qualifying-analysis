@@ -70,7 +70,7 @@ async function regenerateEmiliaAnalysis() {
       .filter(r => r.ageGradedTime !== null && r.ageGradedTime !== undefined)
       .sort((a, b) => (a.ageGradedTime || 0) - (b.ageGradedTime || 0))
     
-    const system2026TotalQualified = Math.min(race.totalSlots || 0, ageGradedResults.length)
+    const system2026TotalQualified = Math.min(race.totalSlots2026 || 0, ageGradedResults.length)
     const qualified2026 = ageGradedResults.slice(0, system2026TotalQualified)
     
     const system2026MenQualified = qualified2026.filter(r => r.gender === 'M').length
