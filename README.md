@@ -39,19 +39,20 @@ cd ironman-nextjs
 npm install
 ```
 
-3. Set up environment variables:
+3. Start local PostgreSQL (mirrors production):
 ```bash
-cp .env.example .env
-```
-Edit `.env` and add your database URL:
-```
-DATABASE_URL="postgresql://username:password@localhost:5432/ironman_comparison?schema=public"
+docker-compose up -d
 ```
 
-4. Set up the database:
+4. Set up environment variables:
 ```bash
-npm run db:migrate
-npm run db:generate
+cp .env.example .env.local
+```
+
+5. Set up the database:
+```bash
+npx prisma migrate dev
+npx prisma generate
 ```
 
 5. Migrate data (if you have existing prefetched data):
