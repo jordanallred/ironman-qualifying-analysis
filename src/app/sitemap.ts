@@ -6,14 +6,19 @@ const prisma = new PrismaClient()
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://ironman-analysis.com'
   
-  // Get all races for dynamic race pages
-  const races = await prisma.race.findMany({
-    select: {
-      id: true,
-      name: true,
-      date: true
-    }
-  })
+  // Get all races for dynamic race pages (handle case where DB doesn't exist yet)
+  let races: Array<{ id: string; name: string; date: Date }> = []
+  try {
+    races = await prisma.race.findMany({
+      select: {
+        id: true,
+        name: true,
+        date: true
+      }
+    })
+  } catch (error) {
+    console.warn('Database not available during build, skipping dynamic race pages in sitemap')
+  }
 
   // Static pages
   const staticPages = [
