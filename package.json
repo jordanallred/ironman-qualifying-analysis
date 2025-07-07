@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "prisma generate && prisma migrate deploy && tsx scripts/import-race-data.ts && tsx scripts/clear-analyses.ts && next build",
+    "build": "prisma generate && prisma migrate deploy && tsx scripts/import-race-data.ts && tsx scripts/generate-correct-analyses.ts && next build",
     "start": "next start",
     "lint": "next lint",
     "db:migrate": "prisma migrate dev",
