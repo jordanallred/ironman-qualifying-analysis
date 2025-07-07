@@ -1,0 +1,76 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Race {
+  id             String              @id @default(cuid())
+  name           String              @unique
+  date           DateTime
+  location       String
+  distance       String
+  totalSlots     Int                 @map("total_slots")
+  menSlots       Int?                @map("men_slots")
+  womenSlots     Int?                @map("women_slots")
+  totalSlots2026 Int?                @map("total_slots_2026")
+  menSlots2026   Int?                @map("men_slots_2026")
+  womenSlots2026 Int?                @map("women_slots_2026")
+  createdAt      DateTime            @default(now()) @map("created_at")
+  updatedAt      DateTime            @updatedAt @map("updated_at")
+  analysis       QualifyingAnalysis?
+  results        RaceResult[]
+
+  @@map("races")
+}
+
+model RaceResult {
+  id            String  @id @default(cuid())
+  raceId        String  @map("race_id")
+  athleteName   String  @map("athlete_name")
+  ageGroup      String  @map("age_group")
+  gender        String
+  finishTime    String  @map("finish_time")
+  place         Int
+  country       String?
+  timeSeconds   Int?    @map("time_seconds")
+  ageGradedTime Int?    @map("age_graded_time")
+  race          Race    @relation(fields: [raceId], references: [id], onDelete: Cascade)
+
+  @@map("race_results")
+}
+
+model QualifyingAnalysis {
+  id                       String   @id @default(cuid())
+  raceId                   String   @unique @map("race_id")
+  totalParticipants        Int      @map("total_participants")
+  menParticipants          Int      @map("men_participants")
+  womenParticipants        Int      @map("women_participants")
+  totalSlots               Int      @map("total_slots")
+  system2025MenQualified   Int      @map("system_2025_men_qualified")
+  system2025WomenQualified Int      @map("system_2025_women_qualified")
+  system2025TotalQualified Int      @map("system_2025_total_qualified")
+  system2026MenQualified   Int      @map("system_2026_men_qualified")
+  system2026WomenQualified Int      @map("system_2026_women_qualified")
+  system2026TotalQualified Int      @map("system_2026_total_qualified")
+  menDifference            Int      @map("men_difference")
+  womenDifference          Int      @map("women_difference")
+  ageGroupAnalysis         Json     @map("age_group_analysis")
+  detailedResults          Json?    @map("detailed_results")
+  createdAt                DateTime @default(now()) @map("created_at")
+  updatedAt                DateTime @updatedAt @map("updated_at")
+  race                     Race     @relation(fields: [raceId], references: [id], onDelete: Cascade)
+
+  @@map("qualifying_analysis")
+}
+
+model AgeGroupStandard {
+  id         String @id @default(cuid())
+  ageGroup   String @unique @map("age_group")
+  multiplier Float
+
+  @@map("age_group_standards")
+}

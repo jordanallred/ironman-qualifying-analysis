@@ -1,0 +1,45 @@
+{
+  "name": "ironman-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "prisma generate && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:migrate": "prisma migrate dev",
+    "db:generate": "prisma generate",
+    "db:studio": "prisma studio",
+    "migrate-data": "tsx scripts/migrate-data.ts",
+    "quick-migrate": "tsx scripts/quick-migrate.ts",
+    "fix-2026-system": "tsx scripts/fix-2026-system.ts",
+    "debug-migration": "tsx scripts/debug-migration.ts",
+    "update-qualifying-times": "tsx scripts/update-qualifying-times.ts",
+    "regenerate-with-times": "tsx scripts/regenerate-with-times.ts",
+    "postinstall": "prisma generate"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.11.1",
+    "chart.js": "^4.5.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.525.0",
+    "next": "15.3.5",
+    "prisma": "^6.11.1",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.4",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "tailwindcss": "^4",
+    "tsx": "^4.20.3",
+    "typescript": "^5"
+  }
+}

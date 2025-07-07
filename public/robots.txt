@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ironman-analysis.com/sitemap.xml
+
+# Block crawling of API routes (optional)
+Disallow: /api/
+
+# Allow crawling of all public pages
+Allow: /
+Allow: /race/
+Allow: /trends/
+Allow: /system-2026/

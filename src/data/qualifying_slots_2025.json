@@ -1,0 +1,566 @@
+{
+  "full_distance": {
+    "IRONMAN Kalmar": {
+      "date": "2024-08-17",
+      "location": "Kalmar, Sweden",
+      "total_slots": 85,
+      "men_slots": 65,
+      "women_slots": 20
+    },
+    "IRONMAN Copenhagen": {
+      "date": "2024-08-18",
+      "location": "Copenhagen, Denmark",
+      "total_slots": 85,
+      "men_slots": 65,
+      "women_slots": 20
+    },
+    "IRONMAN Tallinn": {
+      "date": "2024-08-24",
+      "location": "Tallinn, Estonia",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Switzerland, Thun": {
+      "date": "2025-08-24",
+      "location": "Thun, Switzerland",
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Wisconsin": {
+      "date": "2024-09-08",
+      "location": "Madison, Wisconsin",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Japan South Hokkaido": {
+      "date": "2024-09-15",
+      "location": "Hokkaido, Japan",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Italy Emilia-Romagna": {
+      "date": "2024-09-21",
+      "location": "Emilia-Romagna, Italy",
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Maryland": {
+      "date": "2024-09-21",
+      "location": "Cambridge, Maryland, USA",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Wales": {
+      "date": "2024-09-22",
+      "location": "Pembrokeshire, Wales",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Chattanooga": {
+      "date": "2024-09-29",
+      "location": "Chattanooga, Tennessee, USA",
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
+    },
+    "IRONMAN Gurye Korea": {
+      "date": "2024-09-29",
+      "location": "Gurye, Korea",
+      "total_slots": 100,
+      "men_slots": 65,
+      "women_slots": 35
+    },
+    "IRONMAN Calella-Barcelona": {
+      "date": "2024-10-06",
+      "location": "Calella, Spain",
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
+    },
+    "IRONMAN Malaysia": {
+      "date": "2024-10-12",
+      "location": "Langkawi, Malaysia",
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
+    },
+    "IRONMAN Portugal - Cascais": {
+      "date": "2024-10-19",
+      "location": "Cascais, Portugal",
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
+    },
+    "IRONMAN California": {
+      "date": "2024-10-27",
+      "location": "Sacramento, California",
+      "total_slots": 120,
+      "men_slots": 75,
+      "women_slots": 45
+    },
+    "IRONMAN Florida": {
+      "date": "2024-11-02",
+      "location": "Panama City Beach, Florida, USA",
+      "total_slots": 120,
+      "men_slots": 75,
+      "women_slots": 45
+    },
+    "IRONMAN Arizona": {
+      "date": "2024-11-17",
+      "location": "Tempe, Arizona",
+      "total_slots": 110,
+      "men_slots": 70,
+      "women_slots": 40
+    },
+    "IRONMAN Cozumel - Latin American Championship": {
+      "date": "2024-11-24",
+      "location": "Cozumel, Mexico",
+      "total_slots": 160,
+      "men_slots": 85,
+      "women_slots": 75
+    },
+    "IRONMAN Western Australia - Asia-Pacific Championship": {
+      "date": "2024-12-01",
+      "location": "Busselton, WA, Australia",
+      "total_slots": 105,
+      "men_slots": 65,
+      "women_slots": 40
+    }
+  },
+  "70.3": {
+    "IRONMAN 70.3 Jönköping - European Championship": {
+      "date": "2025-07-06",
+      "location": "Jönköping, Sweden",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Muskoka": {
+      "date": "2025-07-06",
+      "location": "Huntsville, Ontario, Canada",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Muncie": {
+      "date": "2025-07-12",
+      "location": "Muncie, Indiana, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Swansea": {
+      "date": "2025-07-12",
+      "location": "Swansea, Wales",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Musselman": {
+      "date": "2025-07-13",
+      "location": "Geneva, New York, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Luxembourg": {
+      "date": "2025-07-13",
+      "location": "Remich, Luxembourg",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Oregon": {
+      "date": "2025-07-20",
+      "location": "Salem, Oregon, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Ecuador": {
+      "date": "2025-07-20",
+      "location": "Manta, Ecuador",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Ohio": {
+      "date": "2025-07-20",
+      "location": "Sandusky, Ohio, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Boise": {
+      "date": "2025-07-26",
+      "location": "Boise, Idaho, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Calgary": {
+      "date": "2025-07-27",
+      "location": "Calgary, Alberta, Canada",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Maine": {
+      "date": "2025-07-27",
+      "location": "Augusta, Maine, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Krakow": {
+      "date": "2025-08-03",
+      "location": "Krakow, Poland",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Davao": {
+      "date": "2025-08-10",
+      "location": "Lapu Lapu City, Philippines",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Rio de Janeiro": {
+      "date": "2025-08-10",
+      "location": "Rio de Janeiro, Brazil",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Hradec Králové": {
+      "date": "2025-08-17",
+      "location": "Hradec Králové, Czech Republic",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Louisville": {
+      "date": "2025-08-17",
+      "location": "Louisville, Kentucky, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Tallinn": {
+      "date": "2025-08-24",
+      "location": "Tallinn, Estonia",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Vichy": {
+      "date": "2025-08-24",
+      "location": "Vichy, France",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Zell am See-Kaprun": {
+      "date": "2025-08-31",
+      "location": "Zell am See-Kaprun, Austria",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Wisconsin": {
+      "date": "2025-09-06",
+      "location": "Madison, Wisconsin, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Knokke-Heist": {
+      "date": "2025-09-07",
+      "location": "Knokke-Heist, Flanders, Belgium",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Duisburg": {
+      "date": "2025-09-07",
+      "location": "Duisburg, Germany",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Poznan": {
+      "date": "2025-09-07",
+      "location": "Poznan, Poland",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Santa Cruz": {
+      "date": "2025-09-07",
+      "location": "Santa Cruz, California, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Sunshine Coast": {
+      "date": "2025-09-14",
+      "location": "Mooloolaba, QLD, Australia",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Weymouth": {
+      "date": "2025-09-14",
+      "location": "Dorset, England",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Michigan": {
+      "date": "2025-09-14",
+      "location": "Frankfort, Michigan, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Erkner": {
+      "date": "2025-09-14",
+      "location": "Erkner, Germany",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 New York": {
+      "date": "2025-09-20",
+      "location": "Jones Beach, New York, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Western Sydney": {
+      "date": "2025-09-21",
+      "location": "Penrith, NSW, Australia",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Washington Tri-Cities": {
+      "date": "2025-09-21",
+      "location": "Richland, Washington, USA",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Cozumel": {
+      "date": "2025-09-21",
+      "location": "Cozumel, Mexico",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 São Paulo": {
+      "date": "2025-09-21",
+      "location": "São Paulo, Brazil",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Emilia-Romagna": {
+      "date": "2025-09-21",
+      "location": "Emilia-Romagna, Italy",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Augusta": {
+      "date": "2025-09-28",
+      "location": "Augusta, Georgia, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Encarnacion": {
+      "date": "2025-09-28",
+      "location": "Encarnacion, Paraguay",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Waco": {
+      "date": "2025-10-05",
+      "location": "Waco, Texas, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Portugal-Cascais": {
+      "date": "2025-10-18",
+      "location": "Cascais, Portugal",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Poreč": {
+      "date": "2025-10-19",
+      "location": "Porec, Croatia",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Salalah": {
+      "date": "2025-10-25",
+      "location": "Salalah, Oman",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 North Carolina": {
+      "date": "2025-10-25",
+      "location": "Wilmington, North Carolina, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Greece": {
+      "date": "2025-10-26",
+      "location": "Peloponnese, Greece",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Florianopolis - Latin America Championship": {
+      "date": "2025-10-26",
+      "location": "Florianopolis, Brazil",
+      "total_slots": 80,
+      "men_slots": 40,
+      "women_slots": 40
+    },
+    "IRONMAN 70.3 Agadir": {
+      "date": "2025-10-26",
+      "location": "Agadir, Morocco",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Langkawi": {
+      "date": "2025-11-01",
+      "location": "Langkawi, Malaysia",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Buenos Aires": {
+      "date": "2025-11-02",
+      "location": "Buenos Aires, Argentina",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Kenting": {
+      "date": "2025-11-02",
+      "location": "Kenting, Taiwan",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Türkiye": {
+      "date": "2025-11-02",
+      "location": "Belek, Turkey",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Goa": {
+      "date": "2025-11-09",
+      "location": "Goa, India",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Melbourne": {
+      "date": "2025-11-09",
+      "location": "St. Kilda, Victoria, Australia",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Acapulco": {
+      "date": "2025-11-09",
+      "location": "Acapulco, Mexico",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Phu Quoc": {
+      "date": "2025-11-16",
+      "location": "Phu Quoc, Vietnam",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Mossel Bay": {
+      "date": "2025-11-16",
+      "location": "Mossel Bay, South Africa",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Valdivia": {
+      "date": "2025-11-30",
+      "location": "Valdivia, Chile",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Cartagena": {
+      "date": "2025-11-30",
+      "location": "Cartagena, Colombia",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Aracaju-Sergipe": {
+      "date": "2025-11-30",
+      "location": "Aracaju-Sergipe, Brazil",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 Riviera Nayarit": {
+      "date": "2025-12-07",
+      "location": "Riviera Nayarit, Mexico",
+      "total_slots": 50,
+      "men_slots": 25,
+      "women_slots": 25
+    },
+    "IRONMAN 70.3 La Quinta": {
+      "date": "2025-12-07",
+      "location": "La Quinta, California, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    },
+    "IRONMAN 70.3 Western Australia": {
+      "date": "2025-12-07",
+      "location": "Busselton, WA, Australia",
+      "total_slots": 60,
+      "men_slots": 30,
+      "women_slots": 30
+    },
+    "IRONMAN 70.3 Florida": {
+      "date": "2025-12-14",
+      "location": "Haines City, Florida, USA",
+      "total_slots": 70,
+      "men_slots": 35,
+      "women_slots": 35
+    }
+  }
+}

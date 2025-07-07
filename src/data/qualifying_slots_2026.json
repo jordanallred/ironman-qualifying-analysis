@@ -1,0 +1,91 @@
+{
+  "full_distance": {
+    "IRONMAN Kalmar": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Copenhagen": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Tallinn": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Wisconsin": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Japan South Hokkaido": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Maryland": {
+      "total_slots": 55,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Wales": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Chattanooga": {
+      "total_slots": 55,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Gurye Korea": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Calella-Barcelona": {
+      "total_slots": 55,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Malaysia": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Portugal - Cascais": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN California": {
+      "total_slots": 55,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Florida": {
+      "total_slots": 55,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Arizona": {
+      "total_slots": 40,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Cozumel - Latin American Championship": {
+      "total_slots": 100,
+      "men_slots": null,
+      "women_slots": null
+    },
+    "IRONMAN Western Australia - Asia-Pacific Championship": {
+      "total_slots": 75,
+      "men_slots": null,
+      "women_slots": null
+    }
+  },
+  "70.3": {
+  }
+}
