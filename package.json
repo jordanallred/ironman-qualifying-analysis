@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "prisma generate && prisma migrate deploy && tsx scripts/import-race-data.ts && next build",
+    "build": "prisma generate && prisma migrate deploy && tsx scripts/import-race-data.ts && tsx scripts/import-prefetched-data.ts && next build",
     "start": "next start",
     "lint": "next lint",
     "db:migrate": "prisma migrate dev",
@@ -17,6 +17,7 @@
     "update-qualifying-times": "tsx scripts/update-qualifying-times.ts",
     "regenerate-with-times": "tsx scripts/regenerate-with-times.ts",
     "import-data": "tsx scripts/import-race-data.ts",
+    "import-analyses": "tsx scripts/import-prefetched-data.ts",
     "postinstall": "prisma generate"
   },
   "dependencies": {

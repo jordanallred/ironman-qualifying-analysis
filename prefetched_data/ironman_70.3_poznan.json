@@ -1,0 +1,6763 @@
+{
+  "analysis": {
+    "race_name": "IRONMAN 70.3 Poznan",
+    "total_participants": 641,
+    "men_participants": 533,
+    "women_participants": 108,
+    "total_slots": 40,
+    "system_2025": {
+      "men_qualified": 11,
+      "women_qualified": 39,
+      "total_qualified": 50
+    },
+    "system_2026": {
+      "men_qualified": 32,
+      "women_qualified": 8,
+      "total_qualified": 40
+    },
+    "changes": {
+      "men_difference": 21,
+      "women_difference": -31
+    },
+    "age_group_analysis": {
+      "M30-34": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 4,
+          "women": 0,
+          "total": 4
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "M25-29": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 4,
+          "women": 0,
+          "total": 4
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "M35-39": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M50-54": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 6,
+          "women": 0,
+          "total": 6
+        },
+        "difference": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        }
+      },
+      "M45-49": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 6,
+          "women": 0,
+          "total": 6
+        },
+        "difference": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        }
+      },
+      "M40-44": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 4,
+          "women": 0,
+          "total": 4
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "F35-39": {
+        "system_2025": {
+          "men": 0,
+          "women": 9,
+          "total": 9
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -8,
+          "total": -8
+        }
+      },
+      "F40-44": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -5,
+          "total": -5
+        }
+      },
+      "F30-34": {
+        "system_2025": {
+          "men": 0,
+          "women": 7,
+          "total": 7
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -6,
+          "total": -6
+        }
+      },
+      "M55-59": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "difference": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        }
+      },
+      "F18-24": {
+        "system_2025": {
+          "men": 0,
+          "women": 2,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -1,
+          "total": -1
+        }
+      },
+      "F25-29": {
+        "system_2025": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -4,
+          "total": -4
+        }
+      },
+      "M60-64": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F45-49": {
+        "system_2025": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -4,
+          "total": -4
+        }
+      },
+      "M18-24": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F50-54": {
+        "system_2025": {
+          "men": 0,
+          "women": 3,
+          "total": 3
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -2,
+          "total": -2
+        }
+      },
+      "M65-69": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F55-59": {
+        "system_2025": {
+          "men": 0,
+          "women": 2,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -1,
+          "total": -1
+        }
+      },
+      "M70-74": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      }
+    },
+    "detailed_results": [
+      {
+        "place": 22,
+        "name": "Ludovic Roussel",
+        "age_group": "M30-34",
+        "raw_time_seconds": 14027,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 14027,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 28,
+        "name": "Maciej Sk\u00f3rnicki",
+        "age_group": "M25-29",
+        "raw_time_seconds": 14612,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 14496,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 30,
+        "name": "Gediminas Pajeda",
+        "age_group": "M30-34",
+        "raw_time_seconds": 14746,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 14746,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 31,
+        "name": "Andrzej Michalski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 14814,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 14658,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 32,
+        "name": "Mateusz Gajewski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 14826,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 14708,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 35,
+        "name": "Felix Schulz",
+        "age_group": "M25-29",
+        "raw_time_seconds": 14887,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 14769,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 36,
+        "name": "Chris Leu",
+        "age_group": "M30-34",
+        "raw_time_seconds": 14901,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 14901,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 37,
+        "name": "Michal Liberadzki",
+        "age_group": "M30-34",
+        "raw_time_seconds": 14929,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 14929,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 40,
+        "name": "Wojciech Szyp",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15031,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15031,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 41,
+        "name": "Martin Dobkowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15044,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15044,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 42,
+        "name": "Jakub Pag\u00f3rski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15068,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 14948,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 44,
+        "name": "Angus Pollard",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15152,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15032,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 45,
+        "name": "Mateusz Grzybek",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15158,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 14998,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 46,
+        "name": "Kai Witzlack-Makarevich",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15194,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 13677,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 47,
+        "name": "Marcel Kratzer",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15196,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15196,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 48,
+        "name": "Michael Andersen",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15208,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 13690,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 49,
+        "name": "Filip Inglot",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15210,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15050,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 50,
+        "name": "Martin Riedl",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15232,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15232,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 51,
+        "name": "Przemyslaw Szuder",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15234,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14321,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 52,
+        "name": "Aleksander Piotrowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15238,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15238,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 53,
+        "name": "Vincent Lete",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15278,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15117,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 54,
+        "name": "Michal Stopa",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15280,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15119,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 55,
+        "name": "Flemming Bjerregaard",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15282,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 14797,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 57,
+        "name": "Philipp Hofmann",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15336,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15336,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 59,
+        "name": "Marcin Chojnacki",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15357,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 13824,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 60,
+        "name": "Bas De Man",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15364,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15364,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 61,
+        "name": "Artur Rybicki",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15385,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15263,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 62,
+        "name": "Mariusz Pirek",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15423,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15261,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 62,
+        "name": "Tobias Ulrich",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15423,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14499,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 64,
+        "name": "Bram Philips",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15428,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 14938,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 65,
+        "name": "Piotr Kulbicki",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15449,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 14959,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 66,
+        "name": "Arek Podziewski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15456,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 13913,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 67,
+        "name": "Michal Kosmowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15457,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 14967,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 68,
+        "name": "Marc Gispert Segura",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15463,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 14972,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 69,
+        "name": "Jan Kundr\u00e1t",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15482,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15319,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 70,
+        "name": "Lukasz Szalkowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15493,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15001,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 72,
+        "name": "David Dufek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15551,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15058,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 73,
+        "name": "Sergejs Dauksts",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15590,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15590,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 74,
+        "name": "Walter Kaspirowitsch",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15618,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14682,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 75,
+        "name": "Krzysztof Godlewski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15628,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15132,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 77,
+        "name": "Roberto Briffa",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15635,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15511,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 78,
+        "name": "Wojciech W\u00f3jtowicz",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15658,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15493,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 80,
+        "name": "Adam Darebn\u00edk",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15707,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15582,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 82,
+        "name": "Mateusz Szala",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15725,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15226,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 83,
+        "name": "Wojciech Banaszewski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15737,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15238,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 84,
+        "name": "Dennis Soisch",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15761,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15761,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 85,
+        "name": "Ingo Kl\u00fcnner",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15788,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 14212,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 85,
+        "name": "Timo Ziegenbein",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15788,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14842,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 87,
+        "name": "Neal Bailey",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15794,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14847,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 88,
+        "name": "Walter Hermes",
+        "age_group": "M45-49",
+        "raw_time_seconds": 15798,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 14851,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 89,
+        "name": "Piotr Iwanowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15803,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15302,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 90,
+        "name": "Pawel Kampa",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15815,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15313,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 91,
+        "name": "Krystian Tomczak",
+        "age_group": "M30-34",
+        "raw_time_seconds": 15869,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 15869,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 92,
+        "name": "Glen Osmond",
+        "age_group": "M50-54",
+        "raw_time_seconds": 15873,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 14288,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 93,
+        "name": "Jerzy Kuczma",
+        "age_group": "M25-29",
+        "raw_time_seconds": 15883,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15757,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 94,
+        "name": "Jonasz Stelmaszyk",
+        "age_group": "M35-39",
+        "raw_time_seconds": 15891,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15724,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 95,
+        "name": "Marcin Jachimek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15948,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15442,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 97,
+        "name": "Mateusz Ciura",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15981,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15474,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 98,
+        "name": "Arkadiusz Sawicki",
+        "age_group": "M40-44",
+        "raw_time_seconds": 15987,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15480,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99,
+        "name": "Artur Hankiewicz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16005,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15046,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 100,
+        "name": "Blazej Pietrzak",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16006,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15498,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 101,
+        "name": "Pavel Bro\u017e",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16024,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16024,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 102,
+        "name": "Georg Glavanovits",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16041,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15532,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 103,
+        "name": "Bartlomiej Trzebinski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16042,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15081,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 104,
+        "name": "Blazej Kaczor",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16047,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15878,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 105,
+        "name": "Jaroslaw Sosnowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16057,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15547,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 106,
+        "name": "Kamil Jasinski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 16098,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 15970,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 107,
+        "name": "Michael Zolcer",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16113,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15943,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 108,
+        "name": "Lukasz Jarzab",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16132,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15620,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 109,
+        "name": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0443\u043d\u0442\u044f\u043d",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16154,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 15984,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 110,
+        "name": "Michal Borkowy",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16167,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15198,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 111,
+        "name": "Ewelina Wolos",
+        "age_group": "F35-39",
+        "raw_time_seconds": 16170,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 14336,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 112,
+        "name": "Maciej Fraczek",
+        "age_group": "M25-29",
+        "raw_time_seconds": 16213,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 16084,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 113,
+        "name": "Marek Kotas",
+        "age_group": "M25-29",
+        "raw_time_seconds": 16220,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 16091,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 114,
+        "name": "Rafal Sawicki",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16223,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15708,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 115,
+        "name": "Konrad Tabak",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16226,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15711,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 116,
+        "name": "Neil Falzon",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16243,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15270,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 117,
+        "name": "Marcin Celmer",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16247,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15731,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 117,
+        "name": "Piotr Lachowicz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16247,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15273,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 119,
+        "name": "Ilya Melender",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16248,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16248,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 120,
+        "name": "Mikhail Shemetau",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16256,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16256,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 121,
+        "name": "Thomas Rollnik",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16275,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 15759,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 122,
+        "name": "Marek Joachimiak",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16277,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16277,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 123,
+        "name": "Joshua Hough",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16279,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16279,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 124,
+        "name": "Bartlomiej Waszak",
+        "age_group": "M25-29",
+        "raw_time_seconds": 16361,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 16231,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 125,
+        "name": "Antonino Alpha Olefs",
+        "age_group": "M25-29",
+        "raw_time_seconds": 16366,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 16236,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 126,
+        "name": "Kai Biermann",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16377,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16205,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 127,
+        "name": "Tomasz Zajac",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16388,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15406,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 128,
+        "name": "Michal Adamczyk",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16393,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16393,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 129,
+        "name": "Jacek G\u00f3rniak",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16402,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16229,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 130,
+        "name": "Piotr Myslak",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16411,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16411,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 131,
+        "name": "Karolina Jahnz",
+        "age_group": "F40-44",
+        "raw_time_seconds": 16443,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 14316,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 132,
+        "name": "Maciej Ryfa",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16447,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16447,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 133,
+        "name": "Alan Szywalski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16469,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16296,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 134,
+        "name": "Magdalena Mickiewicz",
+        "age_group": "F30-34",
+        "raw_time_seconds": 16473,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 14787,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 135,
+        "name": "Jacek Kluzniak",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16494,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15506,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 136,
+        "name": "Gints Ermanis",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16511,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15521,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 137,
+        "name": "Maciej Pilch",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16512,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16512,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 138,
+        "name": "Mykyta Rasnovsky",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16515,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16515,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 139,
+        "name": "Marcel Ratzel",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16536,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16536,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 140,
+        "name": "Nikodem Przybylko",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16542,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16368,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 141,
+        "name": "Johan Ewald",
+        "age_group": "M55-59",
+        "raw_time_seconds": 16571,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 14362,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 142,
+        "name": "Pawel Markowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16587,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15593,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 143,
+        "name": "Armin Ross",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16592,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16066,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 144,
+        "name": "Angel Sinue Sanchez Alfonso",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16599,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16424,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 145,
+        "name": "Maciej Walich",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16600,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16425,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 146,
+        "name": "Christopher Fenech",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16611,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16436,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 147,
+        "name": "Rickard Olsen Pella",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16615,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16615,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 148,
+        "name": "Dariusz Epelbaum",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16620,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15624,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 149,
+        "name": "Waldemar Nowak",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16631,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15634,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 150,
+        "name": "Mariusz Czech",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16640,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16112,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 151,
+        "name": "Neil Mcloughlin",
+        "age_group": "M55-59",
+        "raw_time_seconds": 16671,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 14448,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 152,
+        "name": "Maciej Kotas",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16678,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16678,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 153,
+        "name": "Malin Ehlers",
+        "age_group": "F18-24",
+        "raw_time_seconds": 16761,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 14359,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 154,
+        "name": "Adam Gryzel",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16764,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16232,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 155,
+        "name": "Grzegorz Wolodko",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16790,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15784,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 156,
+        "name": "Eoghan Fox",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16799,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16799,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 157,
+        "name": "Damian Chandler",
+        "age_group": "M50-54",
+        "raw_time_seconds": 16835,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15154,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 158,
+        "name": "Marcin Pisarski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16858,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16323,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 159,
+        "name": "Krista Kuusijarvi",
+        "age_group": "F30-34",
+        "raw_time_seconds": 16875,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 15148,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 160,
+        "name": "Maciej Mackowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 16887,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16351,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 161,
+        "name": "Raphael H\u00f6rnle",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16925,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16747,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 162,
+        "name": "Marcin Szczesny",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16937,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16759,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 163,
+        "name": "Karol Glowacki",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16959,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16780,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 164,
+        "name": "Radoslaw Andrzejewski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 16966,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 16966,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 165,
+        "name": "Michal Gruszka",
+        "age_group": "M45-49",
+        "raw_time_seconds": 16976,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 15959,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 166,
+        "name": "Krzysztof Kubasiak",
+        "age_group": "M50-54",
+        "raw_time_seconds": 16979,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15284,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 167,
+        "name": "Rub\u00e9n Gonz\u00e1lez Hoyos",
+        "age_group": "M35-39",
+        "raw_time_seconds": 16997,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16818,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 168,
+        "name": "Mateusz W\u00f3jtowicz",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17017,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17017,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 169,
+        "name": "Rafal Sztenderewicz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17029,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16008,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 170,
+        "name": "Przemyslaw Kozlowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17035,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17035,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 171,
+        "name": "Miroslaw Pedrys",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17040,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 14768,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 172,
+        "name": "Marek Fordonski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17073,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15369,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 173,
+        "name": "Kerttu-Liis Laane",
+        "age_group": "F25-29",
+        "raw_time_seconds": 17081,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 15306,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 174,
+        "name": "Dieter Okken",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17082,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16058,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 175,
+        "name": "Mariusz Gnoinski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17086,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15380,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 176,
+        "name": "Janusz Szmidt",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17098,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15391,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 177,
+        "name": "Emmanuel Bordeau",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17102,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17102,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 178,
+        "name": "Slawomir Pruchniewski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17121,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16095,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 179,
+        "name": "Jakub Birecki",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17124,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 16944,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 180,
+        "name": "Dmytro Polyakov",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17135,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17135,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 181,
+        "name": "Marcin Cekiera",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17150,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16122,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 182,
+        "name": "Adam Rogulski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17205,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17024,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 183,
+        "name": "Christian Provenziani",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17214,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15496,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 184,
+        "name": "Krystian Biernacki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17260,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16226,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 185,
+        "name": "Robert Kuraj",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17261,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17261,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 185,
+        "name": "Artur Zawadzki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17261,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16227,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 187,
+        "name": "Tomasz Rudnik",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17267,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16232,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 188,
+        "name": "Mark Wilson",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17269,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15545,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 189,
+        "name": "Malgorzata Pszczolowska",
+        "age_group": "F30-34",
+        "raw_time_seconds": 17270,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 15503,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 190,
+        "name": "Rafal Kampa",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17272,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17272,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 191,
+        "name": "Sebastian Labedzki",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17306,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16757,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 192,
+        "name": "Piotr Dominikowski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17307,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17125,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 193,
+        "name": "Rafa\u0142 Klasa",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17339,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16789,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 194,
+        "name": "Jeremy Hall",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17348,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15035,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 195,
+        "name": "Tomasz Podwysocki",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17365,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17182,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 196,
+        "name": "Jakub Kazieczko",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17369,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17369,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 197,
+        "name": "Wojciech Kieczur",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17374,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17191,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 198,
+        "name": "Wiktoria Gibiec-Opyrchal",
+        "age_group": "F25-29",
+        "raw_time_seconds": 17390,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 15583,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 199,
+        "name": "Thomas Posner",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17400,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16357,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 200,
+        "name": "Sylwester Hawrot",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17402,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15082,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 201,
+        "name": "Leif Marquardt",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17410,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17410,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 202,
+        "name": "Tomasz Pielak",
+        "age_group": "M25-29",
+        "raw_time_seconds": 17420,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 17282,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 203,
+        "name": "Krystian Piatek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17428,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16875,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 204,
+        "name": "Lars Hartmann",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17430,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16385,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 205,
+        "name": "Stephen Taylor",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17446,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15120,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 206,
+        "name": "Adrian Sloma",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17451,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17451,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 207,
+        "name": "Ewa Piotrowicz",
+        "age_group": "F35-39",
+        "raw_time_seconds": 17496,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 15511,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 208,
+        "name": "Tomek Slaby",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17506,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15758,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 209,
+        "name": "Christoph Landvogt",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17518,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 16962,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 210,
+        "name": "Wojciech Pekrul",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17520,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17520,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 211,
+        "name": "Thomas Storm",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17553,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16501,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 212,
+        "name": "Thilo Krause",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17572,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15229,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 213,
+        "name": "Kacper Czarnota",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17583,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17398,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 214,
+        "name": "Tomasz Przybylski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17593,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16539,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 215,
+        "name": "Robert Gerula",
+        "age_group": "M55-59",
+        "raw_time_seconds": 17595,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15249,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 216,
+        "name": "Oleksandr Verbitskyi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17602,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17417,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 217,
+        "name": "Francisco Giacosa",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17619,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17434,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 218,
+        "name": "Kacper Kirkiewicz",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17632,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17632,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 219,
+        "name": "Emily Bogen",
+        "age_group": "F18-24",
+        "raw_time_seconds": 17659,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 15128,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 220,
+        "name": "Piotr Wasilewski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17664,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16605,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 221,
+        "name": "Przemyslaw Prokopiuk",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17665,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17105,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 222,
+        "name": "Sebastian Zaremba",
+        "age_group": "M50-54",
+        "raw_time_seconds": 17668,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 15904,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 223,
+        "name": "Piotr Kapela",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17680,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16620,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 224,
+        "name": "Michal Rowinski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17715,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17153,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 225,
+        "name": "Adrian Cauchi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17734,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17547,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 226,
+        "name": "Maryna Straltsova",
+        "age_group": "F30-34",
+        "raw_time_seconds": 17755,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 15938,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 226,
+        "name": "Maja Debska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 17755,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 15459,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 228,
+        "name": "Jean-Michel Dziedzic",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17772,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17772,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 229,
+        "name": "Diego D Accico",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17782,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17595,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 230,
+        "name": "Bartlomiej Magiera",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17809,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17622,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 231,
+        "name": "Pawel Tomczak",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17811,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17811,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 232,
+        "name": "Kees Van De Wetering",
+        "age_group": "M60-64",
+        "raw_time_seconds": 17813,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 14717,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 233,
+        "name": "Marcin Bielski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17816,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17251,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 234,
+        "name": "Andzelina Malinowska",
+        "age_group": "F35-39",
+        "raw_time_seconds": 17819,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 15798,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 235,
+        "name": "Marcin Matuszewski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 17824,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 17683,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 236,
+        "name": "Sebastian Gorczowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17849,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17283,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 237,
+        "name": "Wojciech Knop",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17859,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17671,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 238,
+        "name": "Maciej Mawlichan\u00f3w",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17866,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17866,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 239,
+        "name": "Jascha Breithaupt",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17880,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17880,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 240,
+        "name": "Olga Mostova",
+        "age_group": "F35-39",
+        "raw_time_seconds": 17882,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 15854,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 241,
+        "name": "Michal Kulik",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17883,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16811,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 242,
+        "name": "Uladzislau Piuneu",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17886,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17886,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 243,
+        "name": "Tomasz Krakowiak",
+        "age_group": "M45-49",
+        "raw_time_seconds": 17909,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16836,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 244,
+        "name": "Patryk Prybinski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17914,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17725,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 245,
+        "name": "Kai Hagenbucher",
+        "age_group": "M40-44",
+        "raw_time_seconds": 17919,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17350,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 246,
+        "name": "Matthew Agius",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17933,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17744,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 247,
+        "name": "Jedrzej Pacak",
+        "age_group": "M25-29",
+        "raw_time_seconds": 17942,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 17800,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 248,
+        "name": "Jonathan Caruana",
+        "age_group": "M35-39",
+        "raw_time_seconds": 17960,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 17771,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 249,
+        "name": "Maciej Pokladnik",
+        "age_group": "M30-34",
+        "raw_time_seconds": 17991,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 17991,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 250,
+        "name": "Joanna Zmich-F\u00f3rmaniak",
+        "age_group": "F45-49",
+        "raw_time_seconds": 18007,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 15307,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 251,
+        "name": "Gerben Tolkamp",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18045,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18045,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 252,
+        "name": "Denys Teslenko",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18053,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 16971,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 253,
+        "name": "Angelika Mync",
+        "age_group": "F30-34",
+        "raw_time_seconds": 18073,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 16224,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 254,
+        "name": "Christian Chambarelli",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18096,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16290,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 255,
+        "name": "Maciej Miszkurka",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18108,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17533,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 256,
+        "name": "Rafal Ruzik",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18113,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17028,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 257,
+        "name": "Pawel Stapf",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18143,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16332,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 258,
+        "name": "Jildaz Pithois",
+        "age_group": "M18-24",
+        "raw_time_seconds": 18161,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 17612,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 259,
+        "name": "Fernando Bellod Valle",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18162,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17586,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 260,
+        "name": "Krystian Lezala",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18179,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17602,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 261,
+        "name": "Malgorzata Szpakowska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 18183,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 15831,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 262,
+        "name": "Przemyslaw Adamowicz",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18185,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17608,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 263,
+        "name": "Ireneusz St\u0119pie\u0144",
+        "age_group": "M55-59",
+        "raw_time_seconds": 18188,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 15763,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 264,
+        "name": "Emil Andre Breivik",
+        "age_group": "M25-29",
+        "raw_time_seconds": 18202,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 18058,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 265,
+        "name": "Michael Ziemann",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18204,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17626,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 266,
+        "name": "Kamil Strusz",
+        "age_group": "M18-24",
+        "raw_time_seconds": 18225,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 17674,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 267,
+        "name": "Justyna Szweda",
+        "age_group": "F30-34",
+        "raw_time_seconds": 18242,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 16375,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 268,
+        "name": "Sara Owczarczak-Garstecka",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18253,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16183,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 269,
+        "name": "Mateusz Nejman",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18259,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17680,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 270,
+        "name": "Fabian Mewes",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18270,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17690,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 271,
+        "name": "Wojciech Urowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18320,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17222,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 272,
+        "name": "Krystyna Macioszek",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18332,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16253,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 273,
+        "name": "sarah hashagen",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18333,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16254,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 274,
+        "name": "Shawn Alexander Pullicino",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18334,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18141,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 275,
+        "name": "Manon Peters",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18343,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16262,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 276,
+        "name": "Kinga Gibiec-Kuraj",
+        "age_group": "F30-34",
+        "raw_time_seconds": 18368,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 16488,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 277,
+        "name": "Marcin Blaszczyk",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18372,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17789,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 278,
+        "name": "Andrzej Naskretski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18394,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17292,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 279,
+        "name": "Aleksander Bartnicki",
+        "age_group": "M18-24",
+        "raw_time_seconds": 18403,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 17847,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 280,
+        "name": "Marcin Rusin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18414,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17830,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 281,
+        "name": "Piotr Kluska",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18422,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16583,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 282,
+        "name": "Marek Gizicki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18437,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17332,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 283,
+        "name": "Rafal Dadej",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18443,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17338,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 284,
+        "name": "Aliaksandr Kaspiarovich",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18474,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17367,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 285,
+        "name": "Otakar Luc\u00e1k",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18477,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18477,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 286,
+        "name": "Jarom\u00edr Kor\u00edstka",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18479,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18284,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 287,
+        "name": "Krzysztof Czajkowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18484,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17376,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 288,
+        "name": "Grzegorz Kukorowki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18490,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17382,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 288,
+        "name": "Agnieszka Wronska",
+        "age_group": "F45-49",
+        "raw_time_seconds": 18490,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 15718,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 290,
+        "name": "Kacper Madajczak",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18495,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18495,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 291,
+        "name": "Jakub Burski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 18498,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 18351,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 292,
+        "name": "Lukasz Kunicki",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18510,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18315,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 292,
+        "name": "Marek Plawgo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18510,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17923,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 294,
+        "name": "Artur Olesinski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18519,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17931,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 295,
+        "name": "Hubert Piotrowicz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18523,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17413,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 296,
+        "name": "Pawel Napierala",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18542,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 17954,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 297,
+        "name": "Lars Kiene",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18550,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18355,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 298,
+        "name": "Jacek Podsiadlo",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18553,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18358,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 299,
+        "name": "Dariusz Pietyszuk",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18559,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17447,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 300,
+        "name": "J\u00f6rg Schmidt",
+        "age_group": "M55-59",
+        "raw_time_seconds": 18561,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 16086,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 301,
+        "name": "Robert Cekiera",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18564,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17452,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 302,
+        "name": "Malgorzata Czuba",
+        "age_group": "F25-29",
+        "raw_time_seconds": 18572,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 16642,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 303,
+        "name": "Damian Labasz",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18604,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18604,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 304,
+        "name": "Joanna Tywczynski",
+        "age_group": "F50-54",
+        "raw_time_seconds": 18616,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 15125,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 305,
+        "name": "Yury Paulenka",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18622,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18031,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 306,
+        "name": "Bartlomiej Dmoch",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18635,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18439,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 307,
+        "name": "Wojciech Nosal",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18641,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18641,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 308,
+        "name": "Pawel Dygdon",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18651,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17533,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 309,
+        "name": "Sebastien Baucher",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18654,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18458,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 310,
+        "name": "Rafal Szatkowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18667,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18667,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 311,
+        "name": "Joanna Kossak",
+        "age_group": "F30-34",
+        "raw_time_seconds": 18680,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 16769,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 312,
+        "name": "Jakub Zalewski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18685,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18092,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 313,
+        "name": "Piotr Starzynski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18686,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17566,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 314,
+        "name": "Jacek Luczak",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18710,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16842,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 315,
+        "name": "Marta Rayss",
+        "age_group": "F40-44",
+        "raw_time_seconds": 18723,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 16302,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 315,
+        "name": "Olek Lakomski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18723,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17601,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 315,
+        "name": "Marit Lorenzen",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18723,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16599,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 318,
+        "name": "Tomasz Grewling",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18732,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18138,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 319,
+        "name": "Maciej Kr\u00f3l",
+        "age_group": "M55-59",
+        "raw_time_seconds": 18737,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 16239,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 320,
+        "name": "Jaroslaw Bator",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18743,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18148,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 321,
+        "name": "Rafal Wysmolinski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18744,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17621,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 322,
+        "name": "Kaue Pepe Nicola Da Silva",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18753,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18556,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 323,
+        "name": "Pavel David",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18782,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16907,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 324,
+        "name": "Pawel Kotas",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18785,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18587,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 325,
+        "name": "Weronika Glaubert",
+        "age_group": "F18-24",
+        "raw_time_seconds": 18797,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 16103,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 326,
+        "name": "Edwin Mooney",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18808,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18808,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 327,
+        "name": "Sylwester Madejski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18817,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16939,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 328,
+        "name": "Marek Smolinski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18819,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18222,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 329,
+        "name": "Daniel Babor",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18828,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17700,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 330,
+        "name": "Dariusz Lapawa",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18833,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18235,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 331,
+        "name": "Daniela Havranov\u00e1",
+        "age_group": "F25-29",
+        "raw_time_seconds": 18840,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 16882,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 332,
+        "name": "Pierre Buteau",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18856,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18856,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 333,
+        "name": "Piotr Jarmuszczak",
+        "age_group": "M25-29",
+        "raw_time_seconds": 18857,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 18708,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 334,
+        "name": "Jan Grymin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 18869,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18270,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 335,
+        "name": "Przemyslaw Kubiak",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18875,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 16991,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 336,
+        "name": "Frank Pototzki",
+        "age_group": "M55-59",
+        "raw_time_seconds": 18885,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 16367,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 337,
+        "name": "Kirsten Brandenburger",
+        "age_group": "F50-54",
+        "raw_time_seconds": 18902,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 15357,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 338,
+        "name": "Michal Durkalec",
+        "age_group": "M30-34",
+        "raw_time_seconds": 18907,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 18907,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 339,
+        "name": "Marcin Holobut",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18915,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18716,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 340,
+        "name": "Jean-Louis Martin",
+        "age_group": "M65-69",
+        "raw_time_seconds": 18918,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 14286,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 341,
+        "name": "Michal Szafranski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18926,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17792,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 342,
+        "name": "Piotr Partyka",
+        "age_group": "M55-59",
+        "raw_time_seconds": 18927,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 16404,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 343,
+        "name": "Glinkowski Zbigniew",
+        "age_group": "M60-64",
+        "raw_time_seconds": 18935,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 15644,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 344,
+        "name": "Remigiusz Konieczny",
+        "age_group": "M45-49",
+        "raw_time_seconds": 18936,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 17801,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 345,
+        "name": "Agata Widynska",
+        "age_group": "F35-39",
+        "raw_time_seconds": 18967,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16816,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 346,
+        "name": "Tomasz Lukasz Tokarski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 18970,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18770,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 347,
+        "name": "Piotr Konczak",
+        "age_group": "M50-54",
+        "raw_time_seconds": 18985,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17090,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 348,
+        "name": "Sonja Palm",
+        "age_group": "F45-49",
+        "raw_time_seconds": 19005,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 16156,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 349,
+        "name": "Pavel Beer Werdan",
+        "age_group": "M55-59",
+        "raw_time_seconds": 19010,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 16475,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 350,
+        "name": "Piotr Chodorowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19012,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18409,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 351,
+        "name": "Aleksander Czarnozynski",
+        "age_group": "M60-64",
+        "raw_time_seconds": 19013,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 15708,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 352,
+        "name": "Anna Wieczorek",
+        "age_group": "F25-29",
+        "raw_time_seconds": 19014,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 17038,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 353,
+        "name": "Tomasz Wojciechowski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19050,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17148,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 354,
+        "name": "Krystian Guziejko",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19068,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 18917,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 355,
+        "name": "Piotr Bia\u0142ek",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19104,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19104,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 356,
+        "name": "Matthieu Klinker",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19125,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18518,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 357,
+        "name": "Przemyslaw Wanski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19131,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18524,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 358,
+        "name": "Karolina Wojtowicz",
+        "age_group": "F35-39",
+        "raw_time_seconds": 19149,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 16977,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 359,
+        "name": "Tobiasz Slowioczek",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19153,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19001,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 360,
+        "name": "Andrzej Tomaszewski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19163,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18961,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 361,
+        "name": "Marcus Booster Ziemann",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19169,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17255,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 362,
+        "name": "Sebastian Bobola",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19193,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 18991,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 363,
+        "name": "Valeriya Semenova",
+        "age_group": "F30-34",
+        "raw_time_seconds": 19198,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 17234,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 364,
+        "name": "Piotr Szrajner",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19216,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17298,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 365,
+        "name": "Michal Bisaga",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19238,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18085,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 366,
+        "name": "Szczepan Kopczynski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19251,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19098,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 367,
+        "name": "Wouter Schulz",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19254,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19254,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 368,
+        "name": "Ewa Ozdoba",
+        "age_group": "F40-44",
+        "raw_time_seconds": 19264,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 16773,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 369,
+        "name": "Jordan Moore",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19277,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19124,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 369,
+        "name": "Wiktor Ka\u017amierczak",
+        "age_group": "M18-24",
+        "raw_time_seconds": 19277,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 18694,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 371,
+        "name": "Michal Podskarbi",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19287,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19287,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 372,
+        "name": "Tom Chochol",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19297,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18141,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 373,
+        "name": "Grzegorz Kado",
+        "age_group": "M60-64",
+        "raw_time_seconds": 19312,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 15955,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 374,
+        "name": "Joanna Janicka-Jawor",
+        "age_group": "F45-49",
+        "raw_time_seconds": 19314,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 16418,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 375,
+        "name": "Karsten Handrick",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19319,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17390,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 376,
+        "name": "Zofia Dura",
+        "age_group": "F25-29",
+        "raw_time_seconds": 19334,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 17325,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 377,
+        "name": "Robert Hayman",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19339,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18180,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 378,
+        "name": "Dawid Zbroja",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19346,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18732,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 379,
+        "name": "Michal Dacej",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19402,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19402,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 380,
+        "name": "Pawel Nadstoga",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19428,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18812,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 381,
+        "name": "Jean-Paul Arismendi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19440,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18823,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 382,
+        "name": "Dariusz Swiderski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19464,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17521,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 383,
+        "name": "Yury Matusevich",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19478,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19478,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 384,
+        "name": "Maria Pankow",
+        "age_group": "F40-44",
+        "raw_time_seconds": 19489,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 16969,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 385,
+        "name": "Dariusz Mr\u00f3z",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19491,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17545,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 386,
+        "name": "Torsten F\u00e4hnrich",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19526,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 18907,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 387,
+        "name": "Matthew Webb",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19580,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19580,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 388,
+        "name": "Jan Jakubowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19581,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19581,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 389,
+        "name": "Luis Casado",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19601,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17644,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 390,
+        "name": "Wieslaw Wojdyla",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19641,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19018,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 391,
+        "name": "Kamil Pastor",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19643,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19436,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 392,
+        "name": "Kamil Treder",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19646,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19646,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 393,
+        "name": "Marcin Mizera",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19652,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19029,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 394,
+        "name": "Marcin Gajewski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19657,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19450,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 395,
+        "name": "Paulina Kawka",
+        "age_group": "F30-34",
+        "raw_time_seconds": 19660,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 17648,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 396,
+        "name": "Damian Jerzynski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19668,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 17705,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 397,
+        "name": "Wojciech Plawiak",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19703,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19496,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 398,
+        "name": "Anna Pawlok",
+        "age_group": "F35-39",
+        "raw_time_seconds": 19713,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 17477,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 399,
+        "name": "David Meier",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19718,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18536,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 400,
+        "name": "Michal Merk",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19731,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19575,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 401,
+        "name": "Daniel Mallia",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19736,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19736,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 402,
+        "name": "Andrzej Kula",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19739,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18556,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 403,
+        "name": "Oskar Szczepanski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19740,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19114,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 404,
+        "name": "Agnieszka Kotlarska",
+        "age_group": "F45-49",
+        "raw_time_seconds": 19761,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 16798,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 405,
+        "name": "Urszula Lapawa",
+        "age_group": "F40-44",
+        "raw_time_seconds": 19766,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17210,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 406,
+        "name": "Joanna Drop",
+        "age_group": "F55-59",
+        "raw_time_seconds": 19771,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 15377,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 407,
+        "name": "Linda Kenrick",
+        "age_group": "F45-49",
+        "raw_time_seconds": 19776,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 16811,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 408,
+        "name": "Artur Jurkowski",
+        "age_group": "M55-59",
+        "raw_time_seconds": 19787,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 17149,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 409,
+        "name": "Sylwia Szpocinska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 19815,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17252,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 410,
+        "name": "Lukasz Kosieradzki",
+        "age_group": "M30-34",
+        "raw_time_seconds": 19827,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 19827,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 411,
+        "name": "Oliver Hymas",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19840,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19631,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 412,
+        "name": "Robert Paul",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19888,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19679,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 413,
+        "name": "Ewelina Woda",
+        "age_group": "F40-44",
+        "raw_time_seconds": 19907,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17333,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 414,
+        "name": "Wojciech Krynicki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19911,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18718,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 415,
+        "name": "Pawel Biniak",
+        "age_group": "M18-24",
+        "raw_time_seconds": 19917,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19315,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 415,
+        "name": "Krzysztof Bednarek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19917,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19285,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 417,
+        "name": "Iko Stubinski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 19923,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19765,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 418,
+        "name": "Miroslaw Julkowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 19924,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18730,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 419,
+        "name": "Kazimierz Niemczyk",
+        "age_group": "M60-64",
+        "raw_time_seconds": 19926,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 16462,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 420,
+        "name": "Radoslaw Trzos",
+        "age_group": "M35-39",
+        "raw_time_seconds": 19934,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19724,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 421,
+        "name": "Lukasz Sz\u00f3stak",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19971,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19337,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 422,
+        "name": "Karim Sekkat",
+        "age_group": "M40-44",
+        "raw_time_seconds": 19987,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19353,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 423,
+        "name": "Marek Relich",
+        "age_group": "M50-54",
+        "raw_time_seconds": 19996,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18000,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 424,
+        "name": "Agnieszka Pigula",
+        "age_group": "F45-49",
+        "raw_time_seconds": 20002,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 17003,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 425,
+        "name": "Abdelkrim Mouline",
+        "age_group": "M35-39",
+        "raw_time_seconds": 20007,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19796,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 426,
+        "name": "Marta Godlewska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 20051,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17458,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 427,
+        "name": "Ortwin Ruland",
+        "age_group": "M70-74",
+        "raw_time_seconds": 20060,
+        "age_standard": 0.6876,
+        "age_graded_time_seconds": 13793,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 428,
+        "name": "Elzbieta Pohl - Duczmal",
+        "age_group": "F50-54",
+        "raw_time_seconds": 20065,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 16302,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 429,
+        "name": "Jens Bremer",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20066,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18864,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 430,
+        "name": "Emily Andruszko",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20067,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 17791,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 431,
+        "name": "Wojciech Misztal",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20074,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19915,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 432,
+        "name": "Silvia Capelli",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20075,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 17798,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 433,
+        "name": "Adriana Jasielska",
+        "age_group": "F45-49",
+        "raw_time_seconds": 20081,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 17070,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 434,
+        "name": "Alexandre Puisais",
+        "age_group": "M35-39",
+        "raw_time_seconds": 20087,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 19876,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 435,
+        "name": "Kevin Briffa",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20093,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19456,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 436,
+        "name": "Ryszard Kmiec",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20105,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19467,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 437,
+        "name": "Huziy Vasyl",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20121,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19483,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 438,
+        "name": "Dariusz Malicki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20148,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 18941,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 439,
+        "name": "Rico Zwanzig",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20158,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 19998,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 440,
+        "name": "Richard Barber",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20163,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19523,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 441,
+        "name": "Dariusz Drapella",
+        "age_group": "M65-69",
+        "raw_time_seconds": 20164,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 15227,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 442,
+        "name": "Carlo Vassallo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20172,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19532,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 443,
+        "name": "Pawel Tomala",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20180,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19570,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 444,
+        "name": "Gabriel Banasiuk",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20206,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19595,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 445,
+        "name": "Greta Grigaleviciute-Leme\u0161ove",
+        "age_group": "F30-34",
+        "raw_time_seconds": 20218,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 18149,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 446,
+        "name": "Darragh Martin",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20241,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19028,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 447,
+        "name": "Algis Lukaszewicz",
+        "age_group": "M30-34",
+        "raw_time_seconds": 20296,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 20296,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 448,
+        "name": "D\u00e1ire Power",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20313,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20152,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 449,
+        "name": "Karol Stanula",
+        "age_group": "M30-34",
+        "raw_time_seconds": 20354,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 20354,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 450,
+        "name": "Andrzej Maciejczyk",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20358,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19712,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 451,
+        "name": "Karl Abela",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20378,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20217,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 452,
+        "name": "Patryk Mr\u00f3z",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20380,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20218,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 453,
+        "name": "Gabriela Sraga",
+        "age_group": "F18-24",
+        "raw_time_seconds": 20392,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 17469,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 454,
+        "name": "Angelika Bialek",
+        "age_group": "F30-34",
+        "raw_time_seconds": 20401,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 18313,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 455,
+        "name": "Carolina Alves",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20405,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18091,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 456,
+        "name": "Andrew Rice",
+        "age_group": "M30-34",
+        "raw_time_seconds": 20409,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 20409,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 457,
+        "name": "Bernice Mercieca",
+        "age_group": "F25-29",
+        "raw_time_seconds": 20450,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 18325,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 458,
+        "name": "Sven Toedtloff",
+        "age_group": "M55-59",
+        "raw_time_seconds": 20454,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 17727,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 459,
+        "name": "Katarzyna Kolaczyk",
+        "age_group": "F40-44",
+        "raw_time_seconds": 20469,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17822,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 460,
+        "name": "Jacek Stradomski",
+        "age_group": "M55-59",
+        "raw_time_seconds": 20483,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 17752,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 461,
+        "name": "V\u00e1clav Kurel",
+        "age_group": "M50-54",
+        "raw_time_seconds": 20488,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18443,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 462,
+        "name": "Fran\u00e7ois Mar\u00e9chal",
+        "age_group": "M35-39",
+        "raw_time_seconds": 20510,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 20294,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 463,
+        "name": "Michal Kina",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20525,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19905,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 464,
+        "name": "Filip Juszczyk",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20526,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19906,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 465,
+        "name": "Michal Ciszek",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20549,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 19928,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 466,
+        "name": "Maciej Zarzeczny",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20561,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20398,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 467,
+        "name": "Mateusz Rogalski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20575,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20412,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 468,
+        "name": "Tomasz Czechowicz",
+        "age_group": "M50-54",
+        "raw_time_seconds": 20577,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18523,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 469,
+        "name": "Anna Rewicka",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20583,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18248,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 470,
+        "name": "Fabian Filipiak",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20626,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 20003,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 471,
+        "name": "Pavel Dziakonski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20629,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 19975,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 472,
+        "name": "Monika Florek Wojtalik",
+        "age_group": "F40-44",
+        "raw_time_seconds": 20657,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 17986,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 473,
+        "name": "Marcin Debski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20661,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20497,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 474,
+        "name": "Marcin Kasperowicz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20668,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19429,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 475,
+        "name": "Franziska Eisfeldt",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20672,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18327,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 475,
+        "name": "Przemyslaw Krzywiec",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20672,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20016,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 477,
+        "name": "Karolina Kamionka",
+        "age_group": "F25-29",
+        "raw_time_seconds": 20709,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 18557,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 478,
+        "name": "Kamil Szpich",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20718,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20061,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 479,
+        "name": "Mateusz Niedzwiecki",
+        "age_group": "M35-39",
+        "raw_time_seconds": 20727,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 20509,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 480,
+        "name": "Michal Bartela",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20749,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20091,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 481,
+        "name": "Krzysztof Owczarek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20759,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20100,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 482,
+        "name": "Paulina Tatara",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20777,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18420,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 483,
+        "name": "Pawel Wasniowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20840,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19591,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 484,
+        "name": "Dovile Rimute",
+        "age_group": "F30-34",
+        "raw_time_seconds": 20841,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 18708,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 485,
+        "name": "Daphne Gatt",
+        "age_group": "F35-39",
+        "raw_time_seconds": 20846,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18482,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 485,
+        "name": "Roberta Sciberras",
+        "age_group": "F25-29",
+        "raw_time_seconds": 20846,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 18680,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 487,
+        "name": "Lukasz Foryt",
+        "age_group": "M25-29",
+        "raw_time_seconds": 20854,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20689,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 488,
+        "name": "Anna Wlodarczyk",
+        "age_group": "F45-49",
+        "raw_time_seconds": 20863,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 17735,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 489,
+        "name": "Sebastian Uchnast",
+        "age_group": "M45-49",
+        "raw_time_seconds": 20866,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19616,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 490,
+        "name": "Kristi\u00e1n Jul\u00ednek",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20869,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 20238,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 491,
+        "name": "Lukasz Chlewicki",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20896,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20233,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 492,
+        "name": "Adam Jackowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20910,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20247,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 493,
+        "name": "Eric Sciberras",
+        "age_group": "M50-54",
+        "raw_time_seconds": 20918,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18830,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 494,
+        "name": "Wojciech Migdalek",
+        "age_group": "M18-24",
+        "raw_time_seconds": 20933,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 20300,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 495,
+        "name": "Michael St\u00f6rk",
+        "age_group": "M55-59",
+        "raw_time_seconds": 20934,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 18143,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 496,
+        "name": "Mark Galea",
+        "age_group": "M50-54",
+        "raw_time_seconds": 20957,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18865,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 497,
+        "name": "Gracjan Tylicki",
+        "age_group": "M30-34",
+        "raw_time_seconds": 20965,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 20965,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 498,
+        "name": "Kendra Hall",
+        "age_group": "F50-54",
+        "raw_time_seconds": 20972,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 17039,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 499,
+        "name": "Lukasz Skibinski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 20973,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20308,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 500,
+        "name": "Thomas Hopp",
+        "age_group": "M55-59",
+        "raw_time_seconds": 20990,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 18192,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 501,
+        "name": "Tomasz Kiszkowski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21022,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20855,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 502,
+        "name": "Mohamed Al Sharji",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21025,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20358,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 503,
+        "name": "Eimantas Tiju\u0161as",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21035,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20868,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 504,
+        "name": "Maciej Kowalik",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21045,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21045,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 505,
+        "name": "Jaroslaw Wardynski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21049,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 18948,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 506,
+        "name": "David Dev\u00e1t\u00fd",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21075,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21075,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 507,
+        "name": "Natalia Piusinska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 21086,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 18359,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 508,
+        "name": "Peter Korbacka",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21099,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20932,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 509,
+        "name": "Andrzej Kalisz",
+        "age_group": "M60-64",
+        "raw_time_seconds": 21117,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 17446,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 510,
+        "name": "Dominik Kedziora",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21131,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19022,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 511,
+        "name": "Jedrzej Ciesielski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21137,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 20970,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 512,
+        "name": "Lukasz Rajkowski",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21151,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 20928,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 513,
+        "name": "Marco Wiegel",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21178,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19909,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 514,
+        "name": "Przemyslaw Marcinkowski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21187,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19072,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 515,
+        "name": "Maciej Spychala",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21199,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21031,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 516,
+        "name": "Luke Roche",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21215,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21047,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 517,
+        "name": "Tomasz Chalamonski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21222,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 19950,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 518,
+        "name": "Lukasz Kawik",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21242,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20568,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 519,
+        "name": "Piotr Piechota",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21249,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21249,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 520,
+        "name": "Aliaksandr Pazharanka",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21254,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21086,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 521,
+        "name": "Piotr Sulkowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21263,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20588,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 522,
+        "name": "Dzmitry Khlopyanikov",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21271,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21102,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 523,
+        "name": "Przemyslaw Markowski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21312,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19185,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 524,
+        "name": "Bartlomiej Stawski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21321,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20645,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 525,
+        "name": "Gregory Dreux",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21340,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20061,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 526,
+        "name": "Mateusz Szkodziak",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21368,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 21143,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 527,
+        "name": "Magdalena Behrendt",
+        "age_group": "F45-49",
+        "raw_time_seconds": 21370,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 18166,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 528,
+        "name": "Vince Hendrikus Beekmans",
+        "age_group": "M18-24",
+        "raw_time_seconds": 21379,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 20733,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 529,
+        "name": "Daniel Christ",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21388,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20106,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 530,
+        "name": "Bruno Azevedo",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21392,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21223,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 531,
+        "name": "Krzysztof Swigon",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21401,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 21176,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 532,
+        "name": "Michal Wasilewski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21421,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20741,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 533,
+        "name": "Marta Prysiazhniuk",
+        "age_group": "F35-39",
+        "raw_time_seconds": 21429,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 18998,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 534,
+        "name": "Patryk Wojciechowski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21433,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21263,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 535,
+        "name": "To Mayya Vu",
+        "age_group": "F25-29",
+        "raw_time_seconds": 21443,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 19215,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 536,
+        "name": "B\u00e5rd Johnson",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21444,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19303,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 537,
+        "name": "Bastian Hirthe",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21446,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21446,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 538,
+        "name": "Milo\u0161 Brckalo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21454,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20773,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 539,
+        "name": "Mateusz Kosinski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21468,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21468,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 540,
+        "name": "Konrad Kompa",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21493,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 21267,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 541,
+        "name": "Adam Doroba",
+        "age_group": "M18-24",
+        "raw_time_seconds": 21495,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 20845,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 542,
+        "name": "Bartlomiej Paprocki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21503,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20214,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 543,
+        "name": "Adrian Pakura",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21505,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20823,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 544,
+        "name": "Daniel Golec",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21528,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20238,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 545,
+        "name": "Pawel Skonieczny",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21532,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20242,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 546,
+        "name": "Przemyslaw Rajmann",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21554,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20870,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 547,
+        "name": "David Veitch",
+        "age_group": "M55-59",
+        "raw_time_seconds": 21570,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 18694,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 548,
+        "name": "Jaroslaw Otocki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 21572,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 20279,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 549,
+        "name": "Pawel Bugajny",
+        "age_group": "M60-64",
+        "raw_time_seconds": 21580,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 17829,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 550,
+        "name": "Wojciech Sobanski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 21588,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19433,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 551,
+        "name": "David Dunne",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21600,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 20915,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 552,
+        "name": "Konrad Chojnacki",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21614,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21614,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 553,
+        "name": "Theresa O Connell",
+        "age_group": "F45-49",
+        "raw_time_seconds": 21615,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 18374,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 554,
+        "name": "Weronika Woinska",
+        "age_group": "F18-24",
+        "raw_time_seconds": 21623,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 18524,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 555,
+        "name": "Dee Rice",
+        "age_group": "F40-44",
+        "raw_time_seconds": 21632,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 18834,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 556,
+        "name": "Lukasz Maslanka",
+        "age_group": "M30-34",
+        "raw_time_seconds": 21692,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 21692,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 557,
+        "name": "Dorota First",
+        "age_group": "F55-59",
+        "raw_time_seconds": 21695,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 16874,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 558,
+        "name": "Geoffrey Reinaers",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21705,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 21477,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 559,
+        "name": "Olga Kida",
+        "age_group": "F35-39",
+        "raw_time_seconds": 21710,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 19248,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 560,
+        "name": "Patrick Provenaz",
+        "age_group": "M65-69",
+        "raw_time_seconds": 21746,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 16422,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 561,
+        "name": "Dariusz Rudkowski",
+        "age_group": "M60-64",
+        "raw_time_seconds": 21756,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 17974,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 562,
+        "name": "Grzegorz Trzebiatowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21767,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 21076,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 563,
+        "name": "Miriam Borg Saydon",
+        "age_group": "F45-49",
+        "raw_time_seconds": 21792,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 18525,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 564,
+        "name": "Michal Pszona",
+        "age_group": "M35-39",
+        "raw_time_seconds": 21835,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 21605,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 565,
+        "name": "Tomasz Mr\u00f3z",
+        "age_group": "M40-44",
+        "raw_time_seconds": 21857,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 21164,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 566,
+        "name": "Jacek Nawrot",
+        "age_group": "M60-64",
+        "raw_time_seconds": 21923,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 18112,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 567,
+        "name": "Tin Brendel",
+        "age_group": "M25-29",
+        "raw_time_seconds": 21961,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 21787,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 568,
+        "name": "Katarzyna Paplicka",
+        "age_group": "F40-44",
+        "raw_time_seconds": 21978,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 19136,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 569,
+        "name": "Tomasz Zielinski",
+        "age_group": "M50-54",
+        "raw_time_seconds": 22006,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19809,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 570,
+        "name": "Marcel Dudek",
+        "age_group": "M30-34",
+        "raw_time_seconds": 22014,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 22014,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 571,
+        "name": "Grzegorz Kopplinger",
+        "age_group": "M50-54",
+        "raw_time_seconds": 22073,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 19870,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 572,
+        "name": "Elisa Planicka",
+        "age_group": "F25-29",
+        "raw_time_seconds": 22154,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 19852,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 573,
+        "name": "Maciej Mazur",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22160,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 21490,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 574,
+        "name": "Kacper Mamla",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22180,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 21510,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 575,
+        "name": "Oliver Al-Nasrawi",
+        "age_group": "M25-29",
+        "raw_time_seconds": 22216,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22040,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 576,
+        "name": "Pawel Goebel",
+        "age_group": "M35-39",
+        "raw_time_seconds": 22238,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 22004,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 577,
+        "name": "Marika Frankowska",
+        "age_group": "F35-39",
+        "raw_time_seconds": 22277,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 19750,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 578,
+        "name": "Ernest Misiejuk",
+        "age_group": "M50-54",
+        "raw_time_seconds": 22288,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 20063,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 579,
+        "name": "Edmond Friggieri",
+        "age_group": "M60-64",
+        "raw_time_seconds": 22342,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 18458,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 580,
+        "name": "Michael Landers",
+        "age_group": "M45-49",
+        "raw_time_seconds": 22465,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21119,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 581,
+        "name": "Holger Rothenberger",
+        "age_group": "M50-54",
+        "raw_time_seconds": 22477,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 20233,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 582,
+        "name": "Beata Wojdyla",
+        "age_group": "F35-39",
+        "raw_time_seconds": 22525,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 19970,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 583,
+        "name": "Hubert Cichomski",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22530,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 21849,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 584,
+        "name": "Bartosz Klimza",
+        "age_group": "M25-29",
+        "raw_time_seconds": 22542,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22363,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 585,
+        "name": "Karol Berner",
+        "age_group": "M35-39",
+        "raw_time_seconds": 22585,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 22347,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 586,
+        "name": "Radek Tadajewski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 22616,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 21899,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 587,
+        "name": "Jan Hlad\u00edk",
+        "age_group": "M45-49",
+        "raw_time_seconds": 22628,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21272,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 588,
+        "name": "Kamil Dankowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 22638,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 22638,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 589,
+        "name": "Artur Zdanowski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 22639,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21282,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 590,
+        "name": "Robert Motyka",
+        "age_group": "M50-54",
+        "raw_time_seconds": 22749,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 20478,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 591,
+        "name": "Jakub Palka",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22757,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 22069,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 592,
+        "name": "Damian Markowski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 22774,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22594,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 593,
+        "name": "Jacek Wnuk",
+        "age_group": "M30-34",
+        "raw_time_seconds": 22776,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 22776,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 594,
+        "name": "Karolina Lubnicka",
+        "age_group": "F35-39",
+        "raw_time_seconds": 22779,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 20195,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 594,
+        "name": "Janina Seyfert",
+        "age_group": "F35-39",
+        "raw_time_seconds": 22779,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 20195,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 596,
+        "name": "Isaac Galea",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22781,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 22093,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 597,
+        "name": "Jan Lobacz",
+        "age_group": "M25-29",
+        "raw_time_seconds": 22799,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22618,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 598,
+        "name": "Norbert Zareba",
+        "age_group": "M40-44",
+        "raw_time_seconds": 22800,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 22077,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 599,
+        "name": "Mieszko Mikulski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 22825,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22644,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 600,
+        "name": "Kathrin Hartmann",
+        "age_group": "F45-49",
+        "raw_time_seconds": 22849,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 19423,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 601,
+        "name": "Bartlomiej Cialon",
+        "age_group": "M18-24",
+        "raw_time_seconds": 22875,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 22184,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 602,
+        "name": "Damian Szafran",
+        "age_group": "M30-34",
+        "raw_time_seconds": 22876,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 22876,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 603,
+        "name": "William Agius",
+        "age_group": "M35-39",
+        "raw_time_seconds": 22889,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 22648,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 604,
+        "name": "Przemyslaw Wawrzyniak",
+        "age_group": "M55-59",
+        "raw_time_seconds": 22901,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 19848,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 605,
+        "name": "Pawel Durnowski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 22936,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 22208,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 606,
+        "name": "Jakub Dostaw",
+        "age_group": "M30-34",
+        "raw_time_seconds": 22984,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 22984,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 607,
+        "name": "Maciej Brzezicki",
+        "age_group": "M45-49",
+        "raw_time_seconds": 22994,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21616,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 608,
+        "name": "Bartosz Sliwa",
+        "age_group": "M25-29",
+        "raw_time_seconds": 23012,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22830,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 608,
+        "name": "Robert Spiteri",
+        "age_group": "M50-54",
+        "raw_time_seconds": 23012,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 20715,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 610,
+        "name": "Pedro Pinto",
+        "age_group": "M18-24",
+        "raw_time_seconds": 23013,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 22318,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 611,
+        "name": "Jemima Dickinson",
+        "age_group": "F30-34",
+        "raw_time_seconds": 23017,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 20662,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 612,
+        "name": "Pablo Quero",
+        "age_group": "M25-29",
+        "raw_time_seconds": 23021,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 22839,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 613,
+        "name": "Elisa Rauer",
+        "age_group": "F25-29",
+        "raw_time_seconds": 23045,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 20650,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 614,
+        "name": "Michal Dymek",
+        "age_group": "M45-49",
+        "raw_time_seconds": 23108,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21723,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 615,
+        "name": "Damian Brychcy",
+        "age_group": "M35-39",
+        "raw_time_seconds": 23119,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 22876,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 616,
+        "name": "Piotr Papierz",
+        "age_group": "M60-64",
+        "raw_time_seconds": 23136,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 19114,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 617,
+        "name": "Manuel Bartolo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 23204,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 21814,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 618,
+        "name": "Izabela Zajac",
+        "age_group": "F50-54",
+        "raw_time_seconds": 23234,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 18877,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 619,
+        "name": "Tomasz Krysztofowicz",
+        "age_group": "M35-39",
+        "raw_time_seconds": 23274,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 23029,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 620,
+        "name": "Pawel Jurczyk",
+        "age_group": "M35-39",
+        "raw_time_seconds": 23308,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 23063,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 621,
+        "name": "Rey Stiegler",
+        "age_group": "F30-34",
+        "raw_time_seconds": 23329,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 20942,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 622,
+        "name": "Kamil Karnowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 23400,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 23400,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 623,
+        "name": "Bartosz Wierzchowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 23418,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 23418,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 624,
+        "name": "Michalis Agiasmatis",
+        "age_group": "M35-39",
+        "raw_time_seconds": 23455,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 23208,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 625,
+        "name": "Marta Kasprzyk",
+        "age_group": "F30-34",
+        "raw_time_seconds": 23534,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 21126,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 626,
+        "name": "Eva Maria Orthuber",
+        "age_group": "F55-59",
+        "raw_time_seconds": 23549,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 18316,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 627,
+        "name": "Klaus Buder",
+        "age_group": "M55-59",
+        "raw_time_seconds": 23561,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 20420,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 628,
+        "name": "Pawel Kaszynski",
+        "age_group": "M45-49",
+        "raw_time_seconds": 23562,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 22150,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 629,
+        "name": "Agnieszka Cwirko-Gross",
+        "age_group": "F45-49",
+        "raw_time_seconds": 23572,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 20038,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 630,
+        "name": "Yulian Skoropadyk",
+        "age_group": "M25-29",
+        "raw_time_seconds": 23573,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 23386,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 631,
+        "name": "Fr\u00e9d\u00e9ric Moncomble",
+        "age_group": "M45-49",
+        "raw_time_seconds": 23619,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 22204,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 632,
+        "name": "Remy Pazzottu",
+        "age_group": "M50-54",
+        "raw_time_seconds": 23626,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 21268,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 633,
+        "name": "Monika Suwart",
+        "age_group": "F45-49",
+        "raw_time_seconds": 23654,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 20108,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 634,
+        "name": "Pawel Kruk",
+        "age_group": "M30-34",
+        "raw_time_seconds": 23728,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 23728,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 635,
+        "name": "Marcin Rokosz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 23744,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 22321,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 636,
+        "name": "Adrian Jaruga",
+        "age_group": "M25-29",
+        "raw_time_seconds": 23790,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 23602,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 637,
+        "name": "Sergiy Syzonenko",
+        "age_group": "M50-54",
+        "raw_time_seconds": 23800,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 21424,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 638,
+        "name": "Tomasz Misiak",
+        "age_group": "M18-24",
+        "raw_time_seconds": 23832,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 23112,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 639,
+        "name": "Marta Demianowska",
+        "age_group": "F40-44",
+        "raw_time_seconds": 24004,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 20900,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 640,
+        "name": "Marcel Makaloey",
+        "age_group": "M55-59",
+        "raw_time_seconds": 24015,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 20813,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 641,
+        "name": "Michal Gryciuk",
+        "age_group": "M40-44",
+        "raw_time_seconds": 24053,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 23290,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 642,
+        "name": "Szymon Roszyk",
+        "age_group": "M18-24",
+        "raw_time_seconds": 24117,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 23388,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 643,
+        "name": "Daniel Saar",
+        "age_group": "M45-49",
+        "raw_time_seconds": 24119,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 22674,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 644,
+        "name": "Aleksandra Nawrocka",
+        "age_group": "F40-44",
+        "raw_time_seconds": 24205,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 21075,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 645,
+        "name": "Natalia Kolodziejczyk",
+        "age_group": "F25-29",
+        "raw_time_seconds": 24244,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 21725,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 646,
+        "name": "Pawel Skrobski",
+        "age_group": "M25-29",
+        "raw_time_seconds": 24246,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 24054,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 647,
+        "name": "Krzysztof Schmidt",
+        "age_group": "M35-39",
+        "raw_time_seconds": 24406,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 24149,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 648,
+        "name": "John Goodall",
+        "age_group": "M40-44",
+        "raw_time_seconds": 24479,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 23703,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 649,
+        "name": "Piotr Czernic",
+        "age_group": "M40-44",
+        "raw_time_seconds": 24480,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 23703,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 650,
+        "name": "Konrad Borkowski",
+        "age_group": "M30-34",
+        "raw_time_seconds": 24538,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 24538,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 651,
+        "name": "Inez Janiak",
+        "age_group": "F30-34",
+        "raw_time_seconds": 24649,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 22127,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 652,
+        "name": "Jaroslaw Szymczyk",
+        "age_group": "M30-34",
+        "raw_time_seconds": 24707,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 24707,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 653,
+        "name": "Michal Bryzek",
+        "age_group": "M35-39",
+        "raw_time_seconds": 24710,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 24450,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 654,
+        "name": "Aled Thomas",
+        "age_group": "M25-29",
+        "raw_time_seconds": 24720,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 24524,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 655,
+        "name": "Leonie Rijk",
+        "age_group": "F50-54",
+        "raw_time_seconds": 24733,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 20095,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 656,
+        "name": "Dawid Penkala",
+        "age_group": "M25-29",
+        "raw_time_seconds": 24757,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 24561,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 657,
+        "name": "Samanta Krazinska-Pekrul",
+        "age_group": "F30-34",
+        "raw_time_seconds": 24761,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 22227,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 658,
+        "name": "Rafal Pluta",
+        "age_group": "M40-44",
+        "raw_time_seconds": 24906,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 24116,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 659,
+        "name": "Michal Wachowiak",
+        "age_group": "M40-44",
+        "raw_time_seconds": 25053,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 24258,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 660,
+        "name": "Marek Frenkel",
+        "age_group": "M55-59",
+        "raw_time_seconds": 25054,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 21714,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 661,
+        "name": "Peter Brychcy",
+        "age_group": "M60-64",
+        "raw_time_seconds": 25234,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 20848,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 662,
+        "name": "Hannah Sidorko",
+        "age_group": "F30-34",
+        "raw_time_seconds": 25307,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 22718,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 663,
+        "name": "Damian Cenarski",
+        "age_group": "M40-44",
+        "raw_time_seconds": 25309,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 24506,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 664,
+        "name": "Charles Dunn",
+        "age_group": "M40-44",
+        "raw_time_seconds": 25311,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 24508,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 665,
+        "name": "Belen Ripoll Douton",
+        "age_group": "F35-39",
+        "raw_time_seconds": 25421,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 22538,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 666,
+        "name": "J\u00f3zefina Dobrowolska",
+        "age_group": "F25-29",
+        "raw_time_seconds": 25617,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 22955,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 667,
+        "name": "Michael Kiernan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 25819,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 23242,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 668,
+        "name": "Camille Bourneuf",
+        "age_group": "F30-34",
+        "raw_time_seconds": 25910,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 23259,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 669,
+        "name": "Pavlo Marynich",
+        "age_group": "M18-24",
+        "raw_time_seconds": 26304,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 25509,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 670,
+        "name": "Piotr Fogiel",
+        "age_group": "M45-49",
+        "raw_time_seconds": 26863,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 25253,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 671,
+        "name": "Eryk Niciejewski",
+        "age_group": "M18-24",
+        "raw_time_seconds": 26896,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 26083,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 672,
+        "name": "Filip Lubisz",
+        "age_group": "M35-39",
+        "raw_time_seconds": 27336,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 27048,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 673,
+        "name": "Eryk Szymkowiak",
+        "age_group": "M35-39",
+        "raw_time_seconds": 27406,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 27118,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 674,
+        "name": "Sascha Einhorn",
+        "age_group": "M50-54",
+        "raw_time_seconds": 27754,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 24984,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 675,
+        "name": "Rosie Nash",
+        "age_group": "F35-39",
+        "raw_time_seconds": 27766,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 24617,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 676,
+        "name": "Laura Burns",
+        "age_group": "F25-29",
+        "raw_time_seconds": 27908,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 25008,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 677,
+        "name": "Antoni Kanski",
+        "age_group": "M18-24",
+        "raw_time_seconds": 28341,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 27485,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 678,
+        "name": "Max Teuchtmann",
+        "age_group": "M18-24",
+        "raw_time_seconds": 28621,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 27756,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 679,
+        "name": "Lukasz Marciniak",
+        "age_group": "M40-44",
+        "raw_time_seconds": 29493,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 28558,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 680,
+        "name": "Ruslan Ukrainskyi",
+        "age_group": "M18-24",
+        "raw_time_seconds": 29756,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 28857,
+        "qualified_2025": false,
+        "qualified_2026": false
+      }
+    ]
+  },
+  "last_updated": "2025-07-03T14:49:26.666129",
+  "url": "https://www.ironman.com/races/im703-poznan/results",
+  "participant_count": 680
+}

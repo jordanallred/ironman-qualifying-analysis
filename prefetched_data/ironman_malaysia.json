@@ -1,0 +1,4574 @@
+{
+  "analysis": {
+    "race_name": "IRONMAN Malaysia",
+    "total_participants": 417,
+    "men_participants": 335,
+    "women_participants": 82,
+    "total_slots": 105,
+    "system_2025": {
+      "men_qualified": 64,
+      "women_qualified": 39,
+      "total_qualified": 103
+    },
+    "system_2026": {
+      "men_qualified": 66,
+      "women_qualified": 39,
+      "total_qualified": 105
+    },
+    "changes": {
+      "men_difference": 2,
+      "women_difference": 0
+    },
+    "age_group_analysis": {
+      "M35-39": {
+        "system_2025": {
+          "men": 12,
+          "women": 0,
+          "total": 12
+        },
+        "system_2026": {
+          "men": 8,
+          "women": 0,
+          "total": 8
+        },
+        "difference": {
+          "men": -4,
+          "women": 0,
+          "total": -4
+        }
+      },
+      "M50-54": {
+        "system_2025": {
+          "men": 9,
+          "women": 0,
+          "total": 9
+        },
+        "system_2026": {
+          "men": 14,
+          "women": 0,
+          "total": 14
+        },
+        "difference": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        }
+      },
+      "M40-44": {
+        "system_2025": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "system_2026": {
+          "men": 9,
+          "women": 0,
+          "total": 9
+        },
+        "difference": {
+          "men": -2,
+          "women": 0,
+          "total": -2
+        }
+      },
+      "M30-34": {
+        "system_2025": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "difference": {
+          "men": -2,
+          "women": 0,
+          "total": -2
+        }
+      },
+      "F18-24": {
+        "system_2025": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F40-44": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F35-39": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M25-29": {
+        "system_2025": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "system_2026": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F30-34": {
+        "system_2025": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "difference": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        }
+      },
+      "M60-64": {
+        "system_2025": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "system_2026": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        },
+        "difference": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        }
+      },
+      "F25-29": {
+        "system_2025": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F50-54": {
+        "system_2025": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M45-49": {
+        "system_2025": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "system_2026": {
+          "men": 9,
+          "women": 0,
+          "total": 9
+        },
+        "difference": {
+          "men": -2,
+          "women": 0,
+          "total": -2
+        }
+      },
+      "M55-59": {
+        "system_2025": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 8,
+          "women": 0,
+          "total": 8
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "F45-49": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "difference": {
+          "men": 0,
+          "women": -2,
+          "total": -2
+        }
+      },
+      "M18-24": {
+        "system_2025": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": -1,
+          "women": 0,
+          "total": -1
+        }
+      },
+      "M65-69": {
+        "system_2025": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "difference": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        }
+      },
+      "F55-59": {
+        "system_2025": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "difference": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        }
+      },
+      "F60-64": {
+        "system_2025": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F65-69": {
+        "system_2025": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M70-74": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        },
+        "difference": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        }
+      },
+      "F70-74": {
+        "system_2025": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      }
+    },
+    "detailed_results": [
+      {
+        "place": 22,
+        "name": "Duncan Bullock",
+        "age_group": "M35-39",
+        "raw_time_seconds": 34732,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 34367,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 29,
+        "name": "Maksim Orlov",
+        "age_group": "M50-54",
+        "raw_time_seconds": 36519,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 32874,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 32,
+        "name": "Guilherme Goncalves",
+        "age_group": "M35-39",
+        "raw_time_seconds": 36916,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 36528,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 37,
+        "name": "Kim Hatton",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38049,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 36842,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 38,
+        "name": "Ahmed Almessabi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38419,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37201,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 39,
+        "name": "Robbin van de Geer",
+        "age_group": "M30-34",
+        "raw_time_seconds": 38584,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 38584,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 40,
+        "name": "Chelsea Seymour",
+        "age_group": "F18-24",
+        "raw_time_seconds": 38753,
+        "age_standard": 0.8567,
+        "age_graded_time_seconds": 33199,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 41,
+        "name": "Mohd Fawwaz Mohd Fauzi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38862,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38453,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 42,
+        "name": "Muhd Hafiz Bin Md Yusup",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38926,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38517,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 44,
+        "name": "Yosuke Tanaka",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39077,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37838,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 45,
+        "name": "Muhammad Azmir Mohd Taib",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39374,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 38125,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 46,
+        "name": "Markus List",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39826,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 38563,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 47,
+        "name": "Kimiko Uji",
+        "age_group": "F40-44",
+        "raw_time_seconds": 39921,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 34759,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 48,
+        "name": "Krisztina Vaczi",
+        "age_group": "F35-39",
+        "raw_time_seconds": 39974,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 35440,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 49,
+        "name": "Titan Webster",
+        "age_group": "M25-29",
+        "raw_time_seconds": 39990,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 39674,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 50,
+        "name": "Aleksei Kozhevnikov",
+        "age_group": "M40-44",
+        "raw_time_seconds": 40296,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39018,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 51,
+        "name": "Tzu Hao Lin",
+        "age_group": "M35-39",
+        "raw_time_seconds": 40759,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 40331,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 52,
+        "name": "Hon Man Tang",
+        "age_group": "M25-29",
+        "raw_time_seconds": 40826,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 40503,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 53,
+        "name": "Elisa Zwerus",
+        "age_group": "F30-34",
+        "raw_time_seconds": 41029,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 36831,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 54,
+        "name": "Nico Ng",
+        "age_group": "M30-34",
+        "raw_time_seconds": 41127,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 41127,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 55,
+        "name": "Rudi Van Aelst",
+        "age_group": "M60-64",
+        "raw_time_seconds": 41230,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 34064,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 56,
+        "name": "Uli Vogt",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41246,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39938,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 57,
+        "name": "Adriaan Wooding",
+        "age_group": "M35-39",
+        "raw_time_seconds": 41294,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 40860,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 58,
+        "name": "Emily Burton",
+        "age_group": "F25-29",
+        "raw_time_seconds": 41311,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 37018,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 59,
+        "name": "Mohammad Shamsuzzaman",
+        "age_group": "M30-34",
+        "raw_time_seconds": 41457,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 41457,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 60,
+        "name": "Daniela Rodriguez",
+        "age_group": "F35-39",
+        "raw_time_seconds": 41518,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 36809,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 61,
+        "name": "Chia Ling Pow",
+        "age_group": "F25-29",
+        "raw_time_seconds": 41621,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 37296,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 62,
+        "name": "Sabine Claudia Egger-Weickhardt",
+        "age_group": "F50-54",
+        "raw_time_seconds": 41734,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 33908,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 63,
+        "name": "NORIKO ICHIKAWA",
+        "age_group": "F40-44",
+        "raw_time_seconds": 41905,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 36486,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 64,
+        "name": "Thomas Schuetz",
+        "age_group": "M45-49",
+        "raw_time_seconds": 41911,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 39400,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 65,
+        "name": "Shu-Wei Kuo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41999,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40667,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 66,
+        "name": "Victoria Hill",
+        "age_group": "F50-54",
+        "raw_time_seconds": 42146,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 34243,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 67,
+        "name": "Sun Yiming",
+        "age_group": "M25-29",
+        "raw_time_seconds": 42180,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 41846,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 68,
+        "name": "Eigen Israel Rara",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42313,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 41868,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 69,
+        "name": "Mohd Ridwan Bin Mustafa",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42517,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 42070,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 70,
+        "name": "Nigel Anthony Lim Tat Wai",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42624,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40070,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 71,
+        "name": "Qian Chueng",
+        "age_group": "F25-29",
+        "raw_time_seconds": 42816,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 38367,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 72,
+        "name": "Takayuki Minagawa",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42919,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40348,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 73,
+        "name": "Matt Oblak",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42997,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 42545,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 74,
+        "name": "Satoshi Waku",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43175,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40588,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 75,
+        "name": "Manel Merino Perez",
+        "age_group": "M35-39",
+        "raw_time_seconds": 43309,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 42854,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 76,
+        "name": "Darren Lee",
+        "age_group": "M30-34",
+        "raw_time_seconds": 43332,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 43332,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 77,
+        "name": "shingo tajima",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43463,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39125,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 78,
+        "name": "Zakira Zulrimi",
+        "age_group": "F30-34",
+        "raw_time_seconds": 43470,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 39023,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 79,
+        "name": "Dino Syafitri",
+        "age_group": "M40-44",
+        "raw_time_seconds": 43538,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42157,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 80,
+        "name": "Yalin Zhang",
+        "age_group": "F40-44",
+        "raw_time_seconds": 43538,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 37908,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 81,
+        "name": "Taizo Takemoto",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43684,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39324,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 82,
+        "name": "Kuniyuki Ohtsuka",
+        "age_group": "M55-59",
+        "raw_time_seconds": 43760,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 37926,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 83,
+        "name": "Kim Woo Il",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43836,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41210,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 84,
+        "name": "Taku Kashiwagi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43898,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39516,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 85,
+        "name": "Kazuhiro Nagata",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44050,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41411,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 86,
+        "name": "Michael Johnpaul Benito Labao",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44121,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41478,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 87,
+        "name": "Nadzrul Salim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44279,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42875,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 88,
+        "name": "Takeshi Onodera",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44319,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39895,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 89,
+        "name": "Yen Chia",
+        "age_group": "F30-34",
+        "raw_time_seconds": 44367,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 39828,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 90,
+        "name": "Christopher Lim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44434,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41772,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 91,
+        "name": "Mohd Nowawi Osman",
+        "age_group": "M35-39",
+        "raw_time_seconds": 44443,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 43976,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 92,
+        "name": "Atsushi Imai",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44533,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40088,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 93,
+        "name": "Yen Chan",
+        "age_group": "F30-34",
+        "raw_time_seconds": 44691,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 40119,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 94,
+        "name": "Makoto Ikeda",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44721,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40257,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 95,
+        "name": "Arifur Rahman",
+        "age_group": "M35-39",
+        "raw_time_seconds": 44815,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44344,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 96,
+        "name": "Shi-Hua Chin",
+        "age_group": "F30-34",
+        "raw_time_seconds": 44859,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 40269,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 97,
+        "name": "Samuel Cheong",
+        "age_group": "M25-29",
+        "raw_time_seconds": 44926,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 44571,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 98,
+        "name": "Jason Tan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44927,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40443,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 99,
+        "name": "Dieter Velter",
+        "age_group": "M35-39",
+        "raw_time_seconds": 44963,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44490,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 100,
+        "name": "Cynthia May Ras",
+        "age_group": "F25-29",
+        "raw_time_seconds": 44965,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 40293,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 101,
+        "name": "Sergej Kunz",
+        "age_group": "M40-44",
+        "raw_time_seconds": 45013,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43586,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 102,
+        "name": "Hanley Lu",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45049,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44575,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 103,
+        "name": "Sandra Br\u00fcggershemke",
+        "age_group": "F35-39",
+        "raw_time_seconds": 45064,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 39953,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 104,
+        "name": "Marlon Ancheta",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45069,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42369,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 105,
+        "name": "Keigo Shigeta",
+        "age_group": "M50-54",
+        "raw_time_seconds": 45379,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40850,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 106,
+        "name": "Jin Shawn Lai",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45406,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44929,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 107,
+        "name": "Tamaki Okabayashi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 45533,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40988,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 108,
+        "name": "Mimi Ruslan",
+        "age_group": "F35-39",
+        "raw_time_seconds": 45594,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 40423,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 109,
+        "name": "Youngju Lee",
+        "age_group": "F45-49",
+        "raw_time_seconds": 45810,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 38943,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 110,
+        "name": "Minoru Yamauchi",
+        "age_group": "M55-59",
+        "raw_time_seconds": 45871,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 39756,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 111,
+        "name": "Adrian Carlos Ruben",
+        "age_group": "M40-44",
+        "raw_time_seconds": 45952,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44495,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 112,
+        "name": "Gezer Laborada",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45977,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43222,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 113,
+        "name": "Alireza Mohammadi",
+        "age_group": "M25-29",
+        "raw_time_seconds": 45982,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 45618,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 114,
+        "name": "Katsuyuki Takiguchi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46054,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41457,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 115,
+        "name": "Wadcharapon Lawanwong",
+        "age_group": "M18-24",
+        "raw_time_seconds": 46117,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 44724,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 116,
+        "name": "Sacha Cheong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46213,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41600,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 117,
+        "name": "Vito Tagliente",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46290,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41670,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 118,
+        "name": "Alex Manson",
+        "age_group": "M55-59",
+        "raw_time_seconds": 46290,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40119,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 119,
+        "name": "Kazuha Sato",
+        "age_group": "F35-39",
+        "raw_time_seconds": 46333,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 41078,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 120,
+        "name": "Vishal Pandey",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46389,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44918,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 121,
+        "name": "John Ensor",
+        "age_group": "M60-64",
+        "raw_time_seconds": 46412,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 38345,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 122,
+        "name": "Nicholas Ong",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46438,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45950,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 123,
+        "name": "Clarence Chan",
+        "age_group": "M60-64",
+        "raw_time_seconds": 46444,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 38372,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 124,
+        "name": "Simon Ensor",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46446,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45958,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 125,
+        "name": "Ryan Sherlock",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46447,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44974,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 126,
+        "name": "Eduardo Villar",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46565,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41917,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 127,
+        "name": "Azhar Anuar",
+        "age_group": "M45-49",
+        "raw_time_seconds": 46604,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43812,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 128,
+        "name": "Mengru Pang",
+        "age_group": "F35-39",
+        "raw_time_seconds": 46854,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 41540,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 129,
+        "name": "Sviatoslav Novgorodtcev",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46869,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46376,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 130,
+        "name": "Tomoji Maru",
+        "age_group": "M65-69",
+        "raw_time_seconds": 46894,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 35414,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 131,
+        "name": "Masao Osuka",
+        "age_group": "M55-59",
+        "raw_time_seconds": 46895,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40643,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 132,
+        "name": "Mohd Irwan Abdullah",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47028,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46534,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 133,
+        "name": "Ellie Garrett",
+        "age_group": "F30-34",
+        "raw_time_seconds": 47204,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 42375,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 134,
+        "name": "Takashi Makino",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47284,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42565,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 135,
+        "name": "Zi Yang Tan",
+        "age_group": "M40-44",
+        "raw_time_seconds": 47404,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45901,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 136,
+        "name": "Wan Muhammad Akmal Wan Muhammad Najeeb",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47470,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46971,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 137,
+        "name": "Yeok Koon Quak",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47482,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42743,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 138,
+        "name": "Takayasu Hirai",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47513,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41179,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 139,
+        "name": "Yasutaka Ueki",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47530,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41194,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 140,
+        "name": "Chee Kiang Ang",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47533,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41196,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 141,
+        "name": "June Bastida",
+        "age_group": "M30-34",
+        "raw_time_seconds": 47582,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 47582,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 142,
+        "name": "Masayuki Kawasaki",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47600,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42849,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 143,
+        "name": "Syed Saddiq Syed Abdul Rahman",
+        "age_group": "M30-34",
+        "raw_time_seconds": 47619,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 47619,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 144,
+        "name": "Miyuki Matsumura",
+        "age_group": "F40-44",
+        "raw_time_seconds": 47665,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 41501,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 145,
+        "name": "Hennecke Holger",
+        "age_group": "M60-64",
+        "raw_time_seconds": 47701,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 39410,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 146,
+        "name": "Tomoko Ohmura",
+        "age_group": "F55-59",
+        "raw_time_seconds": 47705,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 37104,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 147,
+        "name": "Chan Jun Shen",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47763,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47261,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 148,
+        "name": "Mako Ichizono",
+        "age_group": "F25-29",
+        "raw_time_seconds": 47774,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 42810,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 149,
+        "name": "Mohamad Akram Ghazali",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47784,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47282,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 150,
+        "name": "Randall R F Kadayum",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47801,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47299,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 151,
+        "name": "Donrey Lopez",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47834,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47331,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 152,
+        "name": "Muhammad Fauzi Othman",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47871,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43093,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 153,
+        "name": "Lok Man Katherine Pang",
+        "age_group": "F35-39",
+        "raw_time_seconds": 48084,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 42631,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 154,
+        "name": "Keith Chua",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48094,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45213,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 155,
+        "name": "Khairul Danish",
+        "age_group": "M18-24",
+        "raw_time_seconds": 48156,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 46701,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 156,
+        "name": "Andy Lordianto",
+        "age_group": "M35-39",
+        "raw_time_seconds": 48166,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47660,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 157,
+        "name": "Hashem Alharbi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48187,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43377,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 158,
+        "name": "Waki Tanaka",
+        "age_group": "F40-44",
+        "raw_time_seconds": 48208,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 41974,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 159,
+        "name": "Wiwik Pujiati",
+        "age_group": "F45-49",
+        "raw_time_seconds": 48209,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 40982,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 160,
+        "name": "Hironori Miyagi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48249,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43433,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 161,
+        "name": "Ket Voon Liew",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48313,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46781,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 162,
+        "name": "Teng Ee Teoh",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48329,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45434,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 163,
+        "name": "Britta Falkenstein",
+        "age_group": "F55-59",
+        "raw_time_seconds": 48350,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 37606,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 164,
+        "name": "Chun Yi Khor",
+        "age_group": "M25-29",
+        "raw_time_seconds": 48376,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 47993,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 165,
+        "name": "Aden Foong",
+        "age_group": "M25-29",
+        "raw_time_seconds": 48388,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 48005,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 166,
+        "name": "Mazlan Hassan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48425,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43592,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 167,
+        "name": "Harum Delima",
+        "age_group": "F40-44",
+        "raw_time_seconds": 48606,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 42321,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 168,
+        "name": "Tengku Ahmad Masirin Tengku Mahmud",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48636,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47094,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 169,
+        "name": "Josef Svoboda",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48702,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45784,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 170,
+        "name": "Chloe Thomas",
+        "age_group": "F50-54",
+        "raw_time_seconds": 48727,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 39590,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 171,
+        "name": "Aaron Paggabao",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48768,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47222,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 172,
+        "name": "\u5bfa\u7530 \u79c0\u8def",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48769,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45847,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 173,
+        "name": "Kamonphorn Buranasiri",
+        "age_group": "F25-29",
+        "raw_time_seconds": 48794,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 43724,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 174,
+        "name": "Nobuyuki Kikuchi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48821,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43948,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 175,
+        "name": "KOTA SUDA",
+        "age_group": "M30-34",
+        "raw_time_seconds": 48850,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 48850,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 176,
+        "name": "Yin Sang Yau",
+        "age_group": "M55-59",
+        "raw_time_seconds": 48890,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42372,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 177,
+        "name": "Chee Choong Tan",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48908,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45978,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 178,
+        "name": "Yu Kawane",
+        "age_group": "M35-39",
+        "raw_time_seconds": 48925,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 48411,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 179,
+        "name": "Rajat Gupta",
+        "age_group": "M18-24",
+        "raw_time_seconds": 49011,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 47530,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 180,
+        "name": "Shinji Shimada",
+        "age_group": "M60-64",
+        "raw_time_seconds": 49011,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 40492,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 181,
+        "name": "Naoki Fujimoto",
+        "age_group": "M55-59",
+        "raw_time_seconds": 49028,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42492,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 182,
+        "name": "Bonnie Holmes",
+        "age_group": "F40-44",
+        "raw_time_seconds": 49096,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 42747,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 183,
+        "name": "Masami Suzuki",
+        "age_group": "F45-49",
+        "raw_time_seconds": 49190,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 41816,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 184,
+        "name": "Sean Josiah Lin",
+        "age_group": "M25-29",
+        "raw_time_seconds": 49254,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 48864,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 185,
+        "name": "Sandeep Chikhale",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49276,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47713,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 186,
+        "name": "Hau Ket Alvin Thien",
+        "age_group": "M35-39",
+        "raw_time_seconds": 49277,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 48759,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 187,
+        "name": "Kien Lam Ooi",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49303,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46349,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 188,
+        "name": "Hung Tran",
+        "age_group": "M50-54",
+        "raw_time_seconds": 49358,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 44432,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 189,
+        "name": "Yuhua Tao",
+        "age_group": "F60-64",
+        "raw_time_seconds": 49500,
+        "age_standard": 0.7218,
+        "age_graded_time_seconds": 35729,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 190,
+        "name": "Patrick Gerdes",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49505,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46539,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 191,
+        "name": "Meiting Jong",
+        "age_group": "F45-49",
+        "raw_time_seconds": 49536,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 42110,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 192,
+        "name": "Kenny Tan Kian Yong",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49594,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48021,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 193,
+        "name": "Mohamad Ridhwan Bin Ismail",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49627,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48053,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 194,
+        "name": "Poh Wai Thoo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49648,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46674,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 195,
+        "name": "Chee Yong (Cadmon) Ho",
+        "age_group": "M55-59",
+        "raw_time_seconds": 49761,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43127,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 196,
+        "name": "Faiz Rusli",
+        "age_group": "M35-39",
+        "raw_time_seconds": 49765,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 49242,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 197,
+        "name": "Dave Vincent Jamago",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49857,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48276,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 198,
+        "name": "Chrissy Kra Krang",
+        "age_group": "F35-39",
+        "raw_time_seconds": 49952,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 44287,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 199,
+        "name": "Jerry Ong",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50020,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48434,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 200,
+        "name": "Josephine Tay",
+        "age_group": "F50-54",
+        "raw_time_seconds": 50031,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 40650,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 201,
+        "name": "Yuki Ando",
+        "age_group": "F55-59",
+        "raw_time_seconds": 50076,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 38949,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 202,
+        "name": "Takayuki Miura",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50085,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43408,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 203,
+        "name": "IGNACIO BLANCO PORTA",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50106,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47104,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 204,
+        "name": "Erdei S\u00e1ndor",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50182,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45173,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 205,
+        "name": "James Redshaw",
+        "age_group": "M35-39",
+        "raw_time_seconds": 50201,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 49673,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 206,
+        "name": "Chee Song Chan",
+        "age_group": "M35-39",
+        "raw_time_seconds": 50252,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 49724,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 207,
+        "name": "Rochelle Youngson",
+        "age_group": "F45-49",
+        "raw_time_seconds": 50257,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 42723,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 208,
+        "name": "Jhunel Arian Arroyo",
+        "age_group": "M30-34",
+        "raw_time_seconds": 50294,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 50294,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 209,
+        "name": "Pornteera Sethsompope",
+        "age_group": "F30-34",
+        "raw_time_seconds": 50340,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 45190,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 210,
+        "name": "Ahmad Shahir Mawardi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50393,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48795,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 211,
+        "name": "Chan Hock Yin",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50460,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43733,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 212,
+        "name": "Eri Ogi",
+        "age_group": "F55-59",
+        "raw_time_seconds": 50520,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 39294,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 213,
+        "name": "Nani Hidayah",
+        "age_group": "F40-44",
+        "raw_time_seconds": 50547,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 44011,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 214,
+        "name": "Hong Seng Tay",
+        "age_group": "M35-39",
+        "raw_time_seconds": 50700,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 50167,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 215,
+        "name": "Marcus Ho Peng Yang",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50765,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47724,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 216,
+        "name": "Sato Tomonori",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50786,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 44016,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 217,
+        "name": "Nur Syahariah Jusoh",
+        "age_group": "F45-49",
+        "raw_time_seconds": 50801,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 43185,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 218,
+        "name": "Praowpan Tansitpong",
+        "age_group": "F35-39",
+        "raw_time_seconds": 50805,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 45043,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 219,
+        "name": "Nam Nguy\u1ec5n H\u1eefu",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50916,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47866,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 220,
+        "name": "SHI YONG TAN",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51004,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47948,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 221,
+        "name": "Noorazni Abdul Jabar",
+        "age_group": "F40-44",
+        "raw_time_seconds": 51062,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 44459,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 222,
+        "name": "Yuta Watabe",
+        "age_group": "M25-29",
+        "raw_time_seconds": 51097,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 50693,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 223,
+        "name": "En Lin Foo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51133,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48070,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 224,
+        "name": "Swee Hau Keng",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51182,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49559,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 225,
+        "name": "Ramzulhakim Ramli",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51256,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48185,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 226,
+        "name": "Gerrit Bartels",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51311,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 50772,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 227,
+        "name": "Lee Yao Qing",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51317,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49690,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 228,
+        "name": "\ubcd1\ub960 \uc815",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51371,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46244,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 229,
+        "name": "Mohd Safzan Mohd Mukhtar",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51408,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49778,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 230,
+        "name": "Joshua Nonis",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51471,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49839,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 231,
+        "name": "Ting Wei Chen",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51498,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48413,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 232,
+        "name": "Mitsutoshi Fujikawa",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51532,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49898,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 233,
+        "name": "Muhammad Fairuz Ali",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51590,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51048,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 234,
+        "name": "Kwang Liang (Michael) Tan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51632,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46479,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 235,
+        "name": "Ammar Zakwan Abdul Nasser",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51674,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51131,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 236,
+        "name": "Wan Kheat Gavin Loh",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51826,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46653,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 237,
+        "name": "David Wui Ming Ng",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51866,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50221,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 238,
+        "name": "Claudia Lim",
+        "age_group": "F25-29",
+        "raw_time_seconds": 51916,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 46521,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 239,
+        "name": "Abhijeet Abhyankar",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51969,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51423,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 240,
+        "name": "Mohd Sahrin Izwan",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51979,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50331,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 241,
+        "name": "Dennis Kong",
+        "age_group": "M40-44",
+        "raw_time_seconds": 52071,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50420,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 242,
+        "name": "Yoong Kai Xiang",
+        "age_group": "M25-29",
+        "raw_time_seconds": 52076,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 51664,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 243,
+        "name": "Shigeru Fujimoto",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52106,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45160,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 244,
+        "name": "Eka Indrajaya",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52178,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49052,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 245,
+        "name": "Hans-J\u00fcrgen Amann",
+        "age_group": "M60-64",
+        "raw_time_seconds": 52214,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 43139,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 246,
+        "name": "Muhammad Yazid\u2069 Mohd Usope",
+        "age_group": "M40-44",
+        "raw_time_seconds": 52420,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50758,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 247,
+        "name": "Tun Guan Der",
+        "age_group": "M35-39",
+        "raw_time_seconds": 52425,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51874,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 248,
+        "name": "Yasunori Kobori",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52447,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47212,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 249,
+        "name": "Chua Siong Tat",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52455,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49312,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 250,
+        "name": "Jeff Dorrill",
+        "age_group": "M60-64",
+        "raw_time_seconds": 52463,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 43344,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 251,
+        "name": "Azman Sulaiman",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52498,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45500,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 252,
+        "name": "Adam Jasni",
+        "age_group": "M30-34",
+        "raw_time_seconds": 52523,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 52523,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 253,
+        "name": "Annemarie Kilshaw",
+        "age_group": "F55-59",
+        "raw_time_seconds": 52614,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 40923,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 254,
+        "name": "Maryfel Aumentado",
+        "age_group": "F40-44",
+        "raw_time_seconds": 52623,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 45818,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 255,
+        "name": "Robyn Johns",
+        "age_group": "F50-54",
+        "raw_time_seconds": 52642,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 42771,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 256,
+        "name": "Weng Siang Ong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52659,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47403,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 257,
+        "name": "Muhammad Faisal Yunus",
+        "age_group": "M35-39",
+        "raw_time_seconds": 52738,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 52184,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 258,
+        "name": "Wai Ho Choi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52801,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47531,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 259,
+        "name": "Hirofumi Hayama",
+        "age_group": "M65-69",
+        "raw_time_seconds": 52836,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 39901,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 260,
+        "name": "Rusydina A Rashid",
+        "age_group": "F35-39",
+        "raw_time_seconds": 52913,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 46912,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 261,
+        "name": "Mohammad Hafidz Jamaluddin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 52918,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 51240,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 262,
+        "name": "Denis Iskusnykh",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53050,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 52492,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 263,
+        "name": "Azral Azizan",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53086,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 51403,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 264,
+        "name": "Muhamad Sahrizan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 53088,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47789,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 265,
+        "name": "Faizal Ali",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53101,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49920,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 266,
+        "name": "Nikolay Ovcharenko",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53102,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 52544,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 267,
+        "name": "Mohd Shafiq Hafifi Marizan",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53104,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 52546,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 268,
+        "name": "Pei Chun Shen",
+        "age_group": "F40-44",
+        "raw_time_seconds": 53109,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 46242,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 269,
+        "name": "Konstantin Mamonov",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53150,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 52591,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 270,
+        "name": "NGAN LAM TUC",
+        "age_group": "F30-34",
+        "raw_time_seconds": 53183,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 47742,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 271,
+        "name": "Benjamin Wee",
+        "age_group": "M30-34",
+        "raw_time_seconds": 53229,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 53229,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 272,
+        "name": "Atsushi Yoshida",
+        "age_group": "M30-34",
+        "raw_time_seconds": 53241,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 53241,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 273,
+        "name": "Cheng Kwong Fu",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53288,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 51598,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 274,
+        "name": "Nao Katayama",
+        "age_group": "F45-49",
+        "raw_time_seconds": 53291,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 45302,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 275,
+        "name": "alvin Foo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53338,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50143,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 276,
+        "name": "Hiroko Maru",
+        "age_group": "F65-69",
+        "raw_time_seconds": 53512,
+        "age_standard": 0.6828,
+        "age_graded_time_seconds": 36537,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 277,
+        "name": "Effarezan Abdul Rahman",
+        "age_group": "F45-49",
+        "raw_time_seconds": 53576,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 45544,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 278,
+        "name": "Mohamed Masri",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53576,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50366,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 279,
+        "name": "Choo Wai Yi",
+        "age_group": "F30-34",
+        "raw_time_seconds": 53601,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 48117,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 280,
+        "name": "Mohammad Zaidi Osman",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53641,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 51940,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 281,
+        "name": "Andrew Choa Hon Hsien",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53657,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 51956,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 282,
+        "name": "Muhammad Atif Zaiaami",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53716,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53151,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 283,
+        "name": "Chee Hui Tee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 53724,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53159,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 284,
+        "name": "Taeyun Jeong",
+        "age_group": "M18-24",
+        "raw_time_seconds": 53770,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 52146,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 285,
+        "name": "Takahiro Sato",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53845,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50619,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 286,
+        "name": "Minh Qu\u1ed1c Mai",
+        "age_group": "M30-34",
+        "raw_time_seconds": 54000,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 54000,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 287,
+        "name": "Simon Cross",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54004,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46805,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 288,
+        "name": "Sachin Patil",
+        "age_group": "M35-39",
+        "raw_time_seconds": 54006,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53438,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 289,
+        "name": "Wenkai Wong",
+        "age_group": "M35-39",
+        "raw_time_seconds": 54007,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53439,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 290,
+        "name": "Jamie Kam Yee Chook",
+        "age_group": "F45-49",
+        "raw_time_seconds": 54022,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 45924,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 291,
+        "name": "Jamie Goh",
+        "age_group": "F35-39",
+        "raw_time_seconds": 54115,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 47978,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 292,
+        "name": "Norkhairil Mohamad",
+        "age_group": "M45-49",
+        "raw_time_seconds": 54136,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50893,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 293,
+        "name": "Kai Mun Chee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54174,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46952,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 294,
+        "name": "HIDEKI NAGAI",
+        "age_group": "M45-49",
+        "raw_time_seconds": 54182,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50936,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 295,
+        "name": "Constance Ho",
+        "age_group": "F45-49",
+        "raw_time_seconds": 54210,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 46083,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 296,
+        "name": "Benedikt Pauli",
+        "age_group": "M30-34",
+        "raw_time_seconds": 54285,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 54285,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 297,
+        "name": "Carly Balmforth",
+        "age_group": "F30-34",
+        "raw_time_seconds": 54720,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 49122,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 298,
+        "name": "Xavi Sanz Garcia",
+        "age_group": "M40-44",
+        "raw_time_seconds": 54759,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53023,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 299,
+        "name": "Park Dongin",
+        "age_group": "M65-69",
+        "raw_time_seconds": 54798,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 41383,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 300,
+        "name": "Shwe Ying Lim",
+        "age_group": "F35-39",
+        "raw_time_seconds": 54848,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 48628,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 301,
+        "name": "Chan Yian Kit",
+        "age_group": "M40-44",
+        "raw_time_seconds": 54937,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53195,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 302,
+        "name": "Wee-Li Chong",
+        "age_group": "M30-34",
+        "raw_time_seconds": 54944,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 54944,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 303,
+        "name": "Muhamad Hamdan Bani Hashim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 55025,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53280,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 304,
+        "name": "Muhammad Huzaifah Ab. Rahim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 55097,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53350,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 305,
+        "name": "Soon Thung Tiew",
+        "age_group": "M45-49",
+        "raw_time_seconds": 55166,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 51861,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 306,
+        "name": "Daven Chioh",
+        "age_group": "M50-54",
+        "raw_time_seconds": 55241,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 49727,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 307,
+        "name": "L\u00ea Hi\u1ec7u",
+        "age_group": "M40-44",
+        "raw_time_seconds": 55269,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53516,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 308,
+        "name": "Julin Tan",
+        "age_group": "F35-39",
+        "raw_time_seconds": 55281,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 49012,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 309,
+        "name": "Jason Ng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 55296,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 51983,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 310,
+        "name": "Andrew Law Teck Peng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 55373,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 52056,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 311,
+        "name": "Mohd Fihr Kamal Ahmad",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55374,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 54792,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 312,
+        "name": "Shaun Chin",
+        "age_group": "M30-34",
+        "raw_time_seconds": 55394,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 55394,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 313,
+        "name": "Fumio Kida",
+        "age_group": "M70-74",
+        "raw_time_seconds": 55589,
+        "age_standard": 0.6876,
+        "age_graded_time_seconds": 38222,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 314,
+        "name": "Ahmad Firdaus Nordin",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55637,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55052,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 315,
+        "name": "Sachiko Kabashima",
+        "age_group": "F45-49",
+        "raw_time_seconds": 55637,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 47297,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 316,
+        "name": "Philip Sow",
+        "age_group": "M45-49",
+        "raw_time_seconds": 55708,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 52371,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 317,
+        "name": "Christopher Schroeder",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55816,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55229,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 318,
+        "name": "Yogesh Patil",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55820,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55233,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 319,
+        "name": "Samuel Wee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55838,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55251,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 320,
+        "name": "Zalihar Mohd Arshad",
+        "age_group": "F40-44",
+        "raw_time_seconds": 55869,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 48645,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 321,
+        "name": "Hiroki Harada",
+        "age_group": "M55-59",
+        "raw_time_seconds": 55945,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 48487,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 322,
+        "name": "Eduard Pieters",
+        "age_group": "M50-54",
+        "raw_time_seconds": 55956,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 50371,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 323,
+        "name": "Devashish Pansare",
+        "age_group": "M25-29",
+        "raw_time_seconds": 56054,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 55611,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 324,
+        "name": "Teik Kheng Tan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56061,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 50466,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 325,
+        "name": "Aditya Fulia",
+        "age_group": "M35-39",
+        "raw_time_seconds": 56077,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55488,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 326,
+        "name": "Devi Erizal",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56100,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 50501,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 327,
+        "name": "Peeraphat Sirireung",
+        "age_group": "M30-34",
+        "raw_time_seconds": 56139,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 56139,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 328,
+        "name": "Adi Mulyadi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56151,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 54371,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 329,
+        "name": "Sunilkumar Kurup",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56207,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 50597,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 330,
+        "name": "Lokman Mohd Noh",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56285,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 54500,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 331,
+        "name": "sumi kang",
+        "age_group": "F55-59",
+        "raw_time_seconds": 56490,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 43937,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 332,
+        "name": "Leonard Ng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 56554,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 53166,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 333,
+        "name": "Luis E Rubio",
+        "age_group": "M60-64",
+        "raw_time_seconds": 56603,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 46765,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 334,
+        "name": "Wai Mun Toh",
+        "age_group": "M55-59",
+        "raw_time_seconds": 56624,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 49076,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 335,
+        "name": "Vincent Hah",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56669,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 54872,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 336,
+        "name": "Ahmad Fuad Rahmat",
+        "age_group": "M35-39",
+        "raw_time_seconds": 56753,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 56157,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 337,
+        "name": "Mohamad Faizal Bin Mohamad Nor",
+        "age_group": "M45-49",
+        "raw_time_seconds": 56781,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 53379,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 338,
+        "name": "Muhamad Hafiz Abd Hamid",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56823,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55021,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 339,
+        "name": "Ayyappan Nair Kumara Krishnan Nair Padmakumar",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56828,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51156,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 340,
+        "name": "Chiou Hao Chan",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56924,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51242,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 341,
+        "name": "Ay Bing Tan",
+        "age_group": "M65-69",
+        "raw_time_seconds": 57089,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 43113,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 342,
+        "name": "D\u01af\u01a0NG HO\u00c0NG PHAN NH\u1eacT",
+        "age_group": "M30-34",
+        "raw_time_seconds": 57144,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 57144,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 343,
+        "name": "Yao Zhang",
+        "age_group": "F25-29",
+        "raw_time_seconds": 57150,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 51212,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 344,
+        "name": "Tasuke Takeda",
+        "age_group": "M50-54",
+        "raw_time_seconds": 57223,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51512,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 345,
+        "name": "Tajudin Bin Mustaffa",
+        "age_group": "M60-64",
+        "raw_time_seconds": 57263,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 47310,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 346,
+        "name": "Mohd Sarji Bin Hassan",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57284,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55468,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 347,
+        "name": "Khairul Shahrudin",
+        "age_group": "M25-29",
+        "raw_time_seconds": 57314,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 56861,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 348,
+        "name": "Paul Arden",
+        "age_group": "M50-54",
+        "raw_time_seconds": 57341,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51618,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 349,
+        "name": "Razali Hamat",
+        "age_group": "M30-34",
+        "raw_time_seconds": 57369,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 57369,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 350,
+        "name": "Belle Long",
+        "age_group": "F35-39",
+        "raw_time_seconds": 57406,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 50896,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 351,
+        "name": "Pamela Williams",
+        "age_group": "F70-74",
+        "raw_time_seconds": 57429,
+        "age_standard": 0.6439,
+        "age_graded_time_seconds": 36978,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 352,
+        "name": "Mohd Irwan Mihat",
+        "age_group": "M45-49",
+        "raw_time_seconds": 57435,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 53994,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 353,
+        "name": "Wichan Puangmaha",
+        "age_group": "M55-59",
+        "raw_time_seconds": 57499,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 49834,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 354,
+        "name": "Juares Rizal Mohd Farit",
+        "age_group": "M35-39",
+        "raw_time_seconds": 57514,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 56910,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 355,
+        "name": "Lee Chin Pheng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 57521,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54075,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 356,
+        "name": "Chinnapong Trakuldist",
+        "age_group": "M35-39",
+        "raw_time_seconds": 57531,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 56926,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 357,
+        "name": "Sitaram Nandoskar",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57620,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55793,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 358,
+        "name": "Nik Suharto",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57658,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55830,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 359,
+        "name": "Veerachai Salaenoy",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57742,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55911,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 360,
+        "name": "Nguyen Huy",
+        "age_group": "M45-49",
+        "raw_time_seconds": 57753,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54293,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 361,
+        "name": "Gim Siong Ong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 57789,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 50085,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 362,
+        "name": "Dang Dung Hai",
+        "age_group": "M45-49",
+        "raw_time_seconds": 57798,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54335,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 363,
+        "name": "Keng Boon Edmund Koh",
+        "age_group": "M45-49",
+        "raw_time_seconds": 57812,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54349,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 364,
+        "name": "Chee Leong Lai",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57813,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55980,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 365,
+        "name": "Richie Tan Peng Hooi",
+        "age_group": "M18-24",
+        "raw_time_seconds": 57862,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 56114,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 366,
+        "name": "Muhammad Zaid Mohamad Nasir",
+        "age_group": "M30-34",
+        "raw_time_seconds": 57883,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 57883,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 367,
+        "name": "Erika Murofushi",
+        "age_group": "F25-29",
+        "raw_time_seconds": 57955,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 51933,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 368,
+        "name": "Chien Sean Chee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57982,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56143,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 369,
+        "name": "Wee Yan Chia",
+        "age_group": "M30-34",
+        "raw_time_seconds": 57988,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 57988,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 370,
+        "name": "Lee Lian Chong",
+        "age_group": "F40-44",
+        "raw_time_seconds": 57990,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 50491,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 371,
+        "name": "Matthew Chan",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58039,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56199,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 372,
+        "name": "Hiroki Sawai",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58045,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57435,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 373,
+        "name": "Hud Ansari Mohamad Norizam",
+        "age_group": "M30-34",
+        "raw_time_seconds": 58061,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 58061,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 374,
+        "name": "Abdul Kadir Abdul Karim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58153,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 52349,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 375,
+        "name": "Weerapon Noothae",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58174,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 52368,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 376,
+        "name": "Mohd Hafiz Amir",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58195,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57583,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 377,
+        "name": "Yap Kian Fei",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58195,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57583,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 378,
+        "name": "Toto Ong",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58200,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54713,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 379,
+        "name": "Byung Kyu Jung",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58225,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 52414,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 380,
+        "name": "Avinash St",
+        "age_group": "M25-29",
+        "raw_time_seconds": 58236,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 57775,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 381,
+        "name": "Kuvendran Sukumaran",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58242,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56395,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 382,
+        "name": "Wai Men Chia",
+        "age_group": "F45-49",
+        "raw_time_seconds": 58244,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 49513,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 383,
+        "name": "Jing Nee Yeap",
+        "age_group": "F55-59",
+        "raw_time_seconds": 58446,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 45459,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 384,
+        "name": "Sitthisin Wansanoh",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58482,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54978,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 385,
+        "name": "Abdul Hai Bin Salleh",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58483,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57868,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 386,
+        "name": "Asrof Abd Rauf",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58499,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54994,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 387,
+        "name": "Raymond Chai",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58634,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56775,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 388,
+        "name": "Mohd Shah B. Abd Rashid",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58669,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 58052,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 389,
+        "name": "Phea Weng Seng",
+        "age_group": "M70-74",
+        "raw_time_seconds": 58673,
+        "age_standard": 0.6876,
+        "age_graded_time_seconds": 40343,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 390,
+        "name": "Lay-Ling Leow",
+        "age_group": "F50-54",
+        "raw_time_seconds": 58703,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 47696,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 391,
+        "name": "Chew Chin Kuen",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58713,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56851,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 392,
+        "name": "Antonio Jr Ebron",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58742,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56879,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 393,
+        "name": "Mohd Muhaimin Fitri Yunus",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58825,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 58207,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 394,
+        "name": "Bernard Hor",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58914,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 57046,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 395,
+        "name": "Goh Lian Boon Wilson",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58939,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55408,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 396,
+        "name": "Md Samiul Hasan",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58941,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 58322,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 397,
+        "name": "Tet Sean Lee",
+        "age_group": "M25-29",
+        "raw_time_seconds": 58961,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 58495,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 398,
+        "name": "Minsyeh Kimin",
+        "age_group": "F45-49",
+        "raw_time_seconds": 58988,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 50145,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 399,
+        "name": "Kenya Ichihara",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59046,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53153,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 400,
+        "name": "Dominic Egger",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59079,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53182,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 401,
+        "name": "TENG-YU WANG",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59080,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55541,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 402,
+        "name": "Keat Chin Boo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59111,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 57237,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 403,
+        "name": "mun seng liew",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59162,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55618,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 404,
+        "name": "Kenneth Yap",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59165,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55621,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 405,
+        "name": "Mahendra Pawar",
+        "age_group": "M35-39",
+        "raw_time_seconds": 59206,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 58584,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 406,
+        "name": "Girish Khosla",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59318,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55764,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 407,
+        "name": "Siu Keung Ho",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59377,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53451,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 408,
+        "name": "Michael Smith",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59422,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 57538,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 409,
+        "name": "Yoshio Fujimura",
+        "age_group": "M70-74",
+        "raw_time_seconds": 59431,
+        "age_standard": 0.6876,
+        "age_graded_time_seconds": 40864,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 410,
+        "name": "Chetan Chaube",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59470,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 57584,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 411,
+        "name": "Jun Xiong Darren Loke",
+        "age_group": "M35-39",
+        "raw_time_seconds": 59540,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 58914,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 412,
+        "name": "Leonard Sim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59621,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56049,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 413,
+        "name": "Kean Mun Choong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59624,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53673,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 414,
+        "name": "Marcus Westling",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59646,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56073,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 415,
+        "name": "Willehard Wortelboer",
+        "age_group": "M65-69",
+        "raw_time_seconds": 59669,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 45062,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 416,
+        "name": "V\u0103n Ch\u1ee7 Nguy\u1ec5n",
+        "age_group": "M35-39",
+        "raw_time_seconds": 59681,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 59054,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 417,
+        "name": "Yusran Yusoff",
+        "age_group": "M60-64",
+        "raw_time_seconds": 59754,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 49368,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 418,
+        "name": "Wee Chun Yee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59761,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56181,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 419,
+        "name": "Jeffery Lim Swee Eu",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59810,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53840,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 420,
+        "name": "Chin Wei Leong",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59816,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56233,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 421,
+        "name": "Hideo Tanaka",
+        "age_group": "M65-69",
+        "raw_time_seconds": 59859,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 45205,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 422,
+        "name": "Syahreezal Kamaruddin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59917,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 58017,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 423,
+        "name": "Gerhard Ott",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59931,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53949,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 424,
+        "name": "Jeremy Sebastian",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59954,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 58053,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 425,
+        "name": "Mohd Ikhwan Bin Mazlan",
+        "age_group": "M35-39",
+        "raw_time_seconds": 59961,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 59331,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 426,
+        "name": "Maulana Hardi",
+        "age_group": "M45-49",
+        "raw_time_seconds": 59980,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56387,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 427,
+        "name": "Yong Heng Chin",
+        "age_group": "M55-59",
+        "raw_time_seconds": 60026,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 52024,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 428,
+        "name": "Rachel Ang",
+        "age_group": "F35-39",
+        "raw_time_seconds": 60130,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 53311,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 429,
+        "name": "Prithu Yash",
+        "age_group": "M30-34",
+        "raw_time_seconds": 60134,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 60134,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 430,
+        "name": "Abdul Rahman Noor Hisham",
+        "age_group": "M35-39",
+        "raw_time_seconds": 60194,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 59561,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 431,
+        "name": "Pei Lin Low",
+        "age_group": "F50-54",
+        "raw_time_seconds": 60231,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 48937,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 432,
+        "name": "Kyounghee Kim",
+        "age_group": "F50-54",
+        "raw_time_seconds": 60269,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 48968,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 433,
+        "name": "Sheek Hian Foo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 60272,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 54256,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 434,
+        "name": "Chau Chun Poon",
+        "age_group": "M60-64",
+        "raw_time_seconds": 60311,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 49828,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 435,
+        "name": "Kashinath Khadake",
+        "age_group": "M35-39",
+        "raw_time_seconds": 60411,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 59776,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 436,
+        "name": "Au Yeong Kin Moon",
+        "age_group": "M55-59",
+        "raw_time_seconds": 60417,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 52363,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 437,
+        "name": "Wonseok Jang",
+        "age_group": "M55-59",
+        "raw_time_seconds": 60435,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 52379,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 438,
+        "name": "Rahayu Ahmad",
+        "age_group": "F45-49",
+        "raw_time_seconds": 60549,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 51472,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 439,
+        "name": "Adam Beal",
+        "age_group": "M45-49",
+        "raw_time_seconds": 60586,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56956,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 440,
+        "name": "Suparno Ahmad",
+        "age_group": "M45-49",
+        "raw_time_seconds": 60590,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56960,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 441,
+        "name": "Mohd Azman Mansor",
+        "age_group": "M45-49",
+        "raw_time_seconds": 60594,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 56964,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 442,
+        "name": "Dong Tran Dinh",
+        "age_group": "M40-44",
+        "raw_time_seconds": 60614,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 58692,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 443,
+        "name": "Edwin Ng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 60636,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 57003,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 444,
+        "name": "Ming Yao Tan",
+        "age_group": "M30-34",
+        "raw_time_seconds": 60818,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 60818,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 445,
+        "name": "Lay Hong Chua",
+        "age_group": "F45-49",
+        "raw_time_seconds": 60832,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 51713,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 446,
+        "name": "Andrea Chee",
+        "age_group": "F55-59",
+        "raw_time_seconds": 60872,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 47346,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 447,
+        "name": "Edwin Chiew",
+        "age_group": "M50-54",
+        "raw_time_seconds": 60917,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 54837,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 448,
+        "name": "Abdul Jalil Bin Anwari",
+        "age_group": "M55-59",
+        "raw_time_seconds": 60927,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 52805,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 449,
+        "name": "Eng Hin Chew",
+        "age_group": "M65-69",
+        "raw_time_seconds": 61177,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 46200,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99999,
+        "name": "Lee Teck Keong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 61363,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 53183,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99999,
+        "name": "Cassim Parak",
+        "age_group": "M55-59",
+        "raw_time_seconds": 61425,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 53237,
+        "qualified_2025": false,
+        "qualified_2026": false
+      }
+    ]
+  },
+  "last_updated": "2025-07-06T22:16:34.153011",
+  "url": "https://www.ironman.com/races/im-malaysia/results",
+  "participant_count": 451
+}

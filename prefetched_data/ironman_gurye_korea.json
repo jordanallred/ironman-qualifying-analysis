@@ -1,0 +1,5600 @@
+{
+  "analysis": {
+    "race_name": "IRONMAN Gurye Korea",
+    "total_participants": 523,
+    "men_participants": 457,
+    "women_participants": 66,
+    "total_slots": 100,
+    "system_2025": {
+      "men_qualified": 66,
+      "women_qualified": 35,
+      "total_qualified": 101
+    },
+    "system_2026": {
+      "men_qualified": 77,
+      "women_qualified": 23,
+      "total_qualified": 100
+    },
+    "changes": {
+      "men_difference": 11,
+      "women_difference": -12
+    },
+    "age_group_analysis": {
+      "M40-44": {
+        "system_2025": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "system_2026": {
+          "men": 13,
+          "women": 0,
+          "total": 13
+        },
+        "difference": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        }
+      },
+      "M50-54": {
+        "system_2025": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "system_2026": {
+          "men": 12,
+          "women": 0,
+          "total": 12
+        },
+        "difference": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        }
+      },
+      "M30-34": {
+        "system_2025": {
+          "men": 4,
+          "women": 0,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": -3,
+          "women": 0,
+          "total": -3
+        }
+      },
+      "M35-39": {
+        "system_2025": {
+          "men": 9,
+          "women": 0,
+          "total": 9
+        },
+        "system_2026": {
+          "men": 12,
+          "women": 0,
+          "total": 12
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "M25-29": {
+        "system_2025": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F25-29": {
+        "system_2025": {
+          "men": 0,
+          "women": 2,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -1,
+          "total": -1
+        }
+      },
+      "F35-39": {
+        "system_2025": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "difference": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        }
+      },
+      "M45-49": {
+        "system_2025": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "system_2026": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M55-59": {
+        "system_2025": {
+          "men": 8,
+          "women": 0,
+          "total": 8
+        },
+        "system_2026": {
+          "men": 11,
+          "women": 0,
+          "total": 11
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "M18-24": {
+        "system_2025": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": -1,
+          "women": 0,
+          "total": -1
+        }
+      },
+      "F30-34": {
+        "system_2025": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 3,
+          "total": 3
+        },
+        "difference": {
+          "men": 0,
+          "women": -1,
+          "total": -1
+        }
+      },
+      "M60-64": {
+        "system_2025": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        },
+        "system_2026": {
+          "men": 8,
+          "women": 0,
+          "total": 8
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "F45-49": {
+        "system_2025": {
+          "men": 0,
+          "women": 7,
+          "total": 7
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 5,
+          "total": 5
+        },
+        "difference": {
+          "men": 0,
+          "women": -2,
+          "total": -2
+        }
+      },
+      "F40-44": {
+        "system_2025": {
+          "men": 0,
+          "women": 3,
+          "total": 3
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -2,
+          "total": -2
+        }
+      },
+      "M65-69": {
+        "system_2025": {
+          "men": 2,
+          "women": 0,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 5,
+          "women": 0,
+          "total": 5
+        },
+        "difference": {
+          "men": 3,
+          "women": 0,
+          "total": 3
+        }
+      },
+      "F55-59": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 4,
+          "total": 4
+        },
+        "difference": {
+          "men": 0,
+          "women": -2,
+          "total": -2
+        }
+      },
+      "F60-64": {
+        "system_2025": {
+          "men": 0,
+          "women": 2,
+          "total": 2
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 2,
+          "total": 2
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "F50-54": {
+        "system_2025": {
+          "men": 0,
+          "women": 6,
+          "total": 6
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": -5,
+          "total": -5
+        }
+      },
+      "F65-69": {
+        "system_2025": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 0,
+          "women": 1,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      },
+      "M70-74": {
+        "system_2025": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "system_2026": {
+          "men": 1,
+          "women": 0,
+          "total": 1
+        },
+        "difference": {
+          "men": 0,
+          "women": 0,
+          "total": 0
+        }
+      }
+    },
+    "detailed_results": [
+      {
+        "place": 1,
+        "name": "Sergei Khazov",
+        "age_group": "M40-44",
+        "raw_time_seconds": 31405,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 30409,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 2,
+        "name": "Sangwhan Oh",
+        "age_group": "M50-54",
+        "raw_time_seconds": 31957,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 28767,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 3,
+        "name": "Brenteson John",
+        "age_group": "M30-34",
+        "raw_time_seconds": 32766,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 32766,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 4,
+        "name": "Evgeniy Perevalov",
+        "age_group": "M35-39",
+        "raw_time_seconds": 33761,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 33406,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 5,
+        "name": "Zijie Chen",
+        "age_group": "M25-29",
+        "raw_time_seconds": 33798,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 33530,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 6,
+        "name": "Hyungeun Kang",
+        "age_group": "M35-39",
+        "raw_time_seconds": 33922,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 33565,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 7,
+        "name": "Diana Trubkovich",
+        "age_group": "F25-29",
+        "raw_time_seconds": 34246,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 30687,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 8,
+        "name": "Tsuyoshi Ohno",
+        "age_group": "M35-39",
+        "raw_time_seconds": 34524,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 34161,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 9,
+        "name": "Yong Jin Kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 34864,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 33758,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 10,
+        "name": "? ??",
+        "age_group": "M40-44",
+        "raw_time_seconds": 35217,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 34100,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 11,
+        "name": "XINWEI QIAN",
+        "age_group": "M35-39",
+        "raw_time_seconds": 35382,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 35010,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 12,
+        "name": "Hyeonsu Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 35411,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 34288,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 13,
+        "name": "Dong Kyu Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 35634,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 35259,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 14,
+        "name": "\u9e4f\u98de \u738b",
+        "age_group": "M35-39",
+        "raw_time_seconds": 36205,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 35824,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 15,
+        "name": "Ling Er Choo",
+        "age_group": "F35-39",
+        "raw_time_seconds": 36344,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 32222,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 16,
+        "name": "Seung Hwan Lee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 36506,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 36122,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 17,
+        "name": "Kwangwon Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 36759,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 34557,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 18,
+        "name": "\ucc3d\uc5f0 \uc774",
+        "age_group": "M35-39",
+        "raw_time_seconds": 36813,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 36426,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 19,
+        "name": "Hyungwon Moon",
+        "age_group": "M50-54",
+        "raw_time_seconds": 37040,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 33343,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 20,
+        "name": "Yong Hyo Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 37532,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 35283,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 21,
+        "name": "Dongdong Liu",
+        "age_group": "M40-44",
+        "raw_time_seconds": 37552,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 36361,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 22,
+        "name": "Hyunjin Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 37678,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 37282,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 23,
+        "name": "Young jin Choi",
+        "age_group": "M45-49",
+        "raw_time_seconds": 37779,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 35516,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 24,
+        "name": "Andrei Sajulga",
+        "age_group": "M25-29",
+        "raw_time_seconds": 37807,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 37508,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 25,
+        "name": "Stupachuk Dmitrii",
+        "age_group": "M35-39",
+        "raw_time_seconds": 37822,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 37424,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 26,
+        "name": "Jungwoo Suh",
+        "age_group": "M40-44",
+        "raw_time_seconds": 37942,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 36739,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 27,
+        "name": "Hyeontae Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38098,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 37697,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 28,
+        "name": "Jingjun Zhou",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38107,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 36899,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 29,
+        "name": "Christoph Billen",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38238,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 37836,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 30,
+        "name": "Ojin Kim",
+        "age_group": "M55-59",
+        "raw_time_seconds": 38270,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 33168,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 31,
+        "name": "Godwin Jacob Taylor",
+        "age_group": "M18-24",
+        "raw_time_seconds": 38335,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 37177,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 32,
+        "name": "Byungeun Lee",
+        "age_group": "M30-34",
+        "raw_time_seconds": 38447,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 38447,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 33,
+        "name": "Do Hyun Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 38459,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 36155,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 34,
+        "name": "Hoihang Wong",
+        "age_group": "M25-29",
+        "raw_time_seconds": 38477,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 38173,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 35,
+        "name": "Guy Dru Drury",
+        "age_group": "M55-59",
+        "raw_time_seconds": 38555,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 33415,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 36,
+        "name": "Yiseul Son",
+        "age_group": "F35-39",
+        "raw_time_seconds": 38575,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 34200,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 37,
+        "name": "\uc8fc\uc624 \ubc15",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38616,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37391,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 38,
+        "name": "Yongsik Im",
+        "age_group": "M50-54",
+        "raw_time_seconds": 38651,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 34793,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 39,
+        "name": "Wonseok Jang",
+        "age_group": "M55-59",
+        "raw_time_seconds": 38669,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 33514,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 40,
+        "name": "\ub3d9\ud638 \uc131",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38723,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37495,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 41,
+        "name": "Xingzong Liu",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38799,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37569,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 42,
+        "name": "Seongmin Bae",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38801,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38393,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 43,
+        "name": "Kyung ho Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 38806,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 36481,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 44,
+        "name": "Tze Ho Chow Kevin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38874,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37641,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 45,
+        "name": "Ingon Park",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38895,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38486,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 46,
+        "name": "Changyu Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 38928,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 38928,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 47,
+        "name": "Junghyun Park",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38929,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38520,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 48,
+        "name": "Meichang Liu",
+        "age_group": "M35-39",
+        "raw_time_seconds": 38952,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 38543,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 49,
+        "name": "Yoonhae Ahn",
+        "age_group": "F30-34",
+        "raw_time_seconds": 38959,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 34973,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 50,
+        "name": "Soongi Cho",
+        "age_group": "M40-44",
+        "raw_time_seconds": 38985,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37749,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 51,
+        "name": "MINJAE SONG",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39044,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 37806,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 52,
+        "name": "Sangtae Chio",
+        "age_group": "M50-54",
+        "raw_time_seconds": 39070,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 35170,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 53,
+        "name": "Youngjae Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 39233,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 36882,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 54,
+        "name": "\u4e43\u51cc \u9676",
+        "age_group": "M60-64",
+        "raw_time_seconds": 39256,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 32433,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 55,
+        "name": "Young Rae Jung",
+        "age_group": "M55-59",
+        "raw_time_seconds": 39263,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 34029,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 56,
+        "name": "Seongsu Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 39300,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 35377,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 57,
+        "name": "Taekeun Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39344,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 38096,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 58,
+        "name": "Seong Junhyeok",
+        "age_group": "M35-39",
+        "raw_time_seconds": 39435,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 39020,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 59,
+        "name": "Hyekyeong Seo",
+        "age_group": "F30-34",
+        "raw_time_seconds": 39438,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 35403,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 60,
+        "name": "Youngchul Kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39500,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 38247,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 61,
+        "name": "\ub958 \ud615\uace4",
+        "age_group": "M35-39",
+        "raw_time_seconds": 39557,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 39141,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 62,
+        "name": "SeongBong Hwnag",
+        "age_group": "M50-54",
+        "raw_time_seconds": 39704,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 35741,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 63,
+        "name": "\uc131\ud604 Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 39709,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 37330,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 64,
+        "name": "Youngchul Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 39803,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 35830,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 65,
+        "name": "\u9054\u4e5f \u5b89\u9f4b",
+        "age_group": "M35-39",
+        "raw_time_seconds": 39827,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 39408,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 66,
+        "name": "Junyeon Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 39857,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 38593,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 67,
+        "name": "\uc601\uade0 \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 39929,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 37537,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 68,
+        "name": "Inchul Hwang",
+        "age_group": "M50-54",
+        "raw_time_seconds": 39957,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 35969,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 69,
+        "name": "Sookjin Kang",
+        "age_group": "F35-39",
+        "raw_time_seconds": 39958,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 35426,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 70,
+        "name": "Jokyun Jeong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 40007,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 34674,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 71,
+        "name": "\ub178 \uc601\ubcf5",
+        "age_group": "M50-54",
+        "raw_time_seconds": 40014,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 36020,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 72,
+        "name": "Yuanyuan Liu",
+        "age_group": "F35-39",
+        "raw_time_seconds": 40021,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 35482,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 73,
+        "name": "Hyunjung Kim",
+        "age_group": "F45-49",
+        "raw_time_seconds": 40046,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 34043,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 74,
+        "name": "Choulkyun Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 40064,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 37664,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 75,
+        "name": "Jong Kyung Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 40143,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 37738,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 76,
+        "name": "Wang-Woo Nam",
+        "age_group": "M35-39",
+        "raw_time_seconds": 40174,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 39752,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 77,
+        "name": "Dougin Walker",
+        "age_group": "M55-59",
+        "raw_time_seconds": 40175,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 34819,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 78,
+        "name": "Dongeun Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 40210,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 37801,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 79,
+        "name": "? ?",
+        "age_group": "M50-54",
+        "raw_time_seconds": 40260,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 36242,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 80,
+        "name": "Congyu Zhu",
+        "age_group": "F40-44",
+        "raw_time_seconds": 40297,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 35086,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 81,
+        "name": "\uc885\uc2e0 \uae40",
+        "age_group": "M40-44",
+        "raw_time_seconds": 40327,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39048,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 82,
+        "name": "Yu Zhang",
+        "age_group": "M40-44",
+        "raw_time_seconds": 40529,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39244,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 83,
+        "name": "HAEHO HA",
+        "age_group": "M40-44",
+        "raw_time_seconds": 40643,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39354,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 84,
+        "name": "Wonhan Song",
+        "age_group": "M55-59",
+        "raw_time_seconds": 40709,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 35282,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 85,
+        "name": "Sunghoon Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 40717,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 38278,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 86,
+        "name": "Dong Hwan Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 40766,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 33680,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 87,
+        "name": "Sang Ho Lee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 40773,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 40344,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 88,
+        "name": "Junghun Lee",
+        "age_group": "M18-24",
+        "raw_time_seconds": 40819,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 39586,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 89,
+        "name": "Dohyoung Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 40843,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 38396,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 90,
+        "name": "Insoo Park",
+        "age_group": "M60-64",
+        "raw_time_seconds": 41069,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 33931,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 91,
+        "name": "Jong-Hun Park",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41074,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39771,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 92,
+        "name": "Ramon Miguel Abeleda",
+        "age_group": "M35-39",
+        "raw_time_seconds": 41111,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 40679,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 93,
+        "name": "\uaddc\uc6d0 \uc815",
+        "age_group": "M35-39",
+        "raw_time_seconds": 41130,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 40698,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 94,
+        "name": "Jong Hyuk Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 41180,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 35690,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 95,
+        "name": "Min Suk Jang",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41252,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 39944,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 96,
+        "name": "Jochen Nippel",
+        "age_group": "M55-59",
+        "raw_time_seconds": 41333,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 35823,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 97,
+        "name": "Xing Lu",
+        "age_group": "F30-34",
+        "raw_time_seconds": 41365,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 37133,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 98,
+        "name": "Evgeny Dekhtiar",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41396,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40083,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99,
+        "name": "CARLOS PRIETO",
+        "age_group": "M45-49",
+        "raw_time_seconds": 41413,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 38932,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 100,
+        "name": "Young Sam Kong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 41430,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 37295,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 101,
+        "name": "\ud76c\uc5f0 \uc774",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41439,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40125,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 102,
+        "name": "Jingyu Maeng",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41483,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40167,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 103,
+        "name": "Aleksei Geiman",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41534,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40217,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 104,
+        "name": "Hyeonjong You",
+        "age_group": "M60-64",
+        "raw_time_seconds": 41604,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 34373,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 105,
+        "name": "Matthew Crawford",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41643,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40322,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 106,
+        "name": "Eun-Nam Kim",
+        "age_group": "F45-49",
+        "raw_time_seconds": 41666,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 35420,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 107,
+        "name": "Hongbin Zhang",
+        "age_group": "M40-44",
+        "raw_time_seconds": 41715,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40392,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 108,
+        "name": "Aleksei Artemenko",
+        "age_group": "M30-34",
+        "raw_time_seconds": 41788,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 41788,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 109,
+        "name": "\ud604\uc9c4 \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 41813,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 39308,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 110,
+        "name": "Hyun Ik Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 41879,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 37699,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 111,
+        "name": "Jun Zhen Benjamin Chee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 41897,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 41457,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 112,
+        "name": "\ubbfc\ud68c \uad6c",
+        "age_group": "M40-44",
+        "raw_time_seconds": 42051,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 40717,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 113,
+        "name": "jae il Shin",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42057,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 39537,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 114,
+        "name": "Vitalii Ilin",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42154,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 41711,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 115,
+        "name": "\uc804\uc2dd \uc624",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42236,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 39706,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 116,
+        "name": "Jong In Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 42260,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 38042,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 117,
+        "name": "Lexter Ansaldo",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42272,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 41828,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 118,
+        "name": "\uc21c\uc601 \uc815",
+        "age_group": "F45-49",
+        "raw_time_seconds": 42300,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 35959,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 119,
+        "name": "Minjae Kang",
+        "age_group": "M18-24",
+        "raw_time_seconds": 42330,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 41051,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 120,
+        "name": "Changmin Choi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 42338,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 38112,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 121,
+        "name": "Soojung Lee",
+        "age_group": "F35-39",
+        "raw_time_seconds": 42424,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 37613,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 122,
+        "name": "Sergei Senchenko",
+        "age_group": "M50-54",
+        "raw_time_seconds": 42448,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 38211,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 123,
+        "name": "Junho Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 42452,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 41106,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 124,
+        "name": "Eunkwang Cheon",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42463,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 39919,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 125,
+        "name": "JIANGHAO SHI",
+        "age_group": "M40-44",
+        "raw_time_seconds": 42567,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 41217,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 126,
+        "name": "Yeongbok Ko",
+        "age_group": "M40-44",
+        "raw_time_seconds": 42573,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 41223,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 127,
+        "name": "Geunseok Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 42709,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 42709,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 128,
+        "name": "\uc740\ud558 \uc774",
+        "age_group": "M35-39",
+        "raw_time_seconds": 42869,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 42418,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 129,
+        "name": "Hyelim Yoon",
+        "age_group": "F45-49",
+        "raw_time_seconds": 42872,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 36445,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 130,
+        "name": "SEONGJE HAM",
+        "age_group": "M45-49",
+        "raw_time_seconds": 42952,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40379,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 131,
+        "name": "Hideki Matsumoto",
+        "age_group": "M60-64",
+        "raw_time_seconds": 42994,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 35521,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 132,
+        "name": "Jinil Jeon",
+        "age_group": "M35-39",
+        "raw_time_seconds": 43067,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 42614,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 133,
+        "name": "\uc138\uc815 \uae40",
+        "age_group": "F45-49",
+        "raw_time_seconds": 43079,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 36621,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 134,
+        "name": "Se Yoon Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43096,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40514,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 135,
+        "name": "\ud55c\uc8fc \uc774",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43106,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 38804,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 136,
+        "name": "Stephen Burns",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43111,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 38808,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 137,
+        "name": "Anthony Cunnigham",
+        "age_group": "M25-29",
+        "raw_time_seconds": 43176,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 42834,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 138,
+        "name": "\uc601\uc7ac \uc774",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43222,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40633,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 139,
+        "name": "Yun Dong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 43241,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 37476,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 140,
+        "name": "Changhyun Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43273,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40680,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 141,
+        "name": "Kugcheol Lee",
+        "age_group": "M65-69",
+        "raw_time_seconds": 43288,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 32691,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 142,
+        "name": "\uc8fc\ud658 \uc774",
+        "age_group": "M30-34",
+        "raw_time_seconds": 43307,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 43307,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 143,
+        "name": "Seungki Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43408,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39075,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 144,
+        "name": "Doojin Yoon",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43418,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 40817,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 145,
+        "name": "Yunsun Lee",
+        "age_group": "F55-59",
+        "raw_time_seconds": 43563,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 33883,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 146,
+        "name": "Ilhwan Oh",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43594,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39243,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 147,
+        "name": "Junbum Cho",
+        "age_group": "M35-39",
+        "raw_time_seconds": 43626,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 43167,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 148,
+        "name": "Kyeong Yong Park",
+        "age_group": "M55-59",
+        "raw_time_seconds": 43627,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 37811,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 149,
+        "name": "Sangseok Hong",
+        "age_group": "M30-34",
+        "raw_time_seconds": 43709,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 43709,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 150,
+        "name": "Jeonghyeon Jang",
+        "age_group": "M30-34",
+        "raw_time_seconds": 43738,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 43738,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 151,
+        "name": "Ui Jeong Jeong",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43752,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41131,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 152,
+        "name": "Byung-Soo Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 43794,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42405,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 153,
+        "name": "Changhee Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 43825,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41199,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 154,
+        "name": "Choi Changyong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 43926,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39542,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 155,
+        "name": "Kwang Soo Choi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 43961,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42567,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 156,
+        "name": "JIN GU HAN",
+        "age_group": "M35-39",
+        "raw_time_seconds": 44013,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 43550,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 157,
+        "name": "Dongwoo Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44077,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 39678,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 158,
+        "name": "Kwangnam Yoon",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44097,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42699,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 159,
+        "name": "Minsun Kim",
+        "age_group": "F60-64",
+        "raw_time_seconds": 44101,
+        "age_standard": 0.7218,
+        "age_graded_time_seconds": 31832,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 160,
+        "name": "\uc885\ucca0 \uc120",
+        "age_group": "M55-59",
+        "raw_time_seconds": 44184,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 38294,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 161,
+        "name": "Soohyun Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44197,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 42795,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 162,
+        "name": "Kenneth Amiel Taylor",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44198,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41550,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 163,
+        "name": "Mariia Mezentseva",
+        "age_group": "F40-44",
+        "raw_time_seconds": 44208,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 38491,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 164,
+        "name": "Seong Weon Seo",
+        "age_group": "M55-59",
+        "raw_time_seconds": 44258,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 38358,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 165,
+        "name": "Sang Hoon Lee",
+        "age_group": "M30-34",
+        "raw_time_seconds": 44327,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 44327,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 166,
+        "name": "Cheonseok Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44436,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43027,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 167,
+        "name": "Taewook Bihn",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44482,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 41817,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 168,
+        "name": "Sung Woo Han",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44485,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43074,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 169,
+        "name": "Yuyeon Hwang",
+        "age_group": "M60-64",
+        "raw_time_seconds": 44496,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 36762,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 170,
+        "name": "Kyun-Sam Kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 44538,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43126,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 171,
+        "name": "Dongmin Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44616,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40163,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 172,
+        "name": "\uc815\ud604 \ud55c",
+        "age_group": "M30-34",
+        "raw_time_seconds": 44626,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 44626,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 173,
+        "name": "\ud0dc\ud638 \ud669",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44752,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42071,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 174,
+        "name": "\uc724 \uae30\ud604",
+        "age_group": "M50-54",
+        "raw_time_seconds": 44847,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40371,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 175,
+        "name": "Jung Nam Kung",
+        "age_group": "F45-49",
+        "raw_time_seconds": 44866,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 38140,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 176,
+        "name": "\ucc3d\ud658 \uc774",
+        "age_group": "M45-49",
+        "raw_time_seconds": 44890,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42201,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 177,
+        "name": "Hea Jung Lee",
+        "age_group": "F45-49",
+        "raw_time_seconds": 44893,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 38163,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 178,
+        "name": "Narae Chung",
+        "age_group": "F35-39",
+        "raw_time_seconds": 45004,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 39900,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 179,
+        "name": "Seung Ho Baek",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45021,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42324,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 180,
+        "name": "Younghyoun Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45042,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44569,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 181,
+        "name": "Aydar Zakirov",
+        "age_group": "M25-29",
+        "raw_time_seconds": 45048,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 44692,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 182,
+        "name": "Chulhyun An",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45083,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42382,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 183,
+        "name": "Seungjin Ahn",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45102,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42400,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 184,
+        "name": "Youngseung Park",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45158,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44683,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 185,
+        "name": "Katsuhisa Tamai",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45174,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 44699,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 186,
+        "name": "Kyung Mook Park",
+        "age_group": "M40-44",
+        "raw_time_seconds": 45235,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43801,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 187,
+        "name": "seong gu kim",
+        "age_group": "M55-59",
+        "raw_time_seconds": 45277,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 39241,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 188,
+        "name": "Jung Mo Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 45285,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40765,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 189,
+        "name": "\u6a11 \u4e54",
+        "age_group": "M40-44",
+        "raw_time_seconds": 45302,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 43865,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 190,
+        "name": "Benjamin Kufal",
+        "age_group": "M30-34",
+        "raw_time_seconds": 45337,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 45337,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 191,
+        "name": "Seong il Hong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 45443,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 39385,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 192,
+        "name": "\uaddc\uc778 \uc7a5",
+        "age_group": "M30-34",
+        "raw_time_seconds": 45446,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 45446,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 193,
+        "name": "Sangmyeong Kang",
+        "age_group": "M60-64",
+        "raw_time_seconds": 45457,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 37556,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 194,
+        "name": "Kihong Woo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45502,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42776,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 195,
+        "name": "\ubbfc\uaddc \ubc15",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45508,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42782,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 196,
+        "name": "\uc815\uc885\uc11d \ub0a8",
+        "age_group": "M50-54",
+        "raw_time_seconds": 45538,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 40993,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 197,
+        "name": "Wonsung Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 45541,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 37625,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 198,
+        "name": "\uacbd\uadfc \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 45559,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41012,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 199,
+        "name": "Keon Hwang",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45564,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45085,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 200,
+        "name": "\uc900\uaddc \ubc15",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45585,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 42854,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 201,
+        "name": "Yuha Kim",
+        "age_group": "F40-44",
+        "raw_time_seconds": 45598,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 39702,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 202,
+        "name": "Hyo Min Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45668,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45188,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 203,
+        "name": "\ubbf8\uc120 \uae40",
+        "age_group": "F45-49",
+        "raw_time_seconds": 45710,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 38858,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 204,
+        "name": "\uc601\uc11d \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45786,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43043,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 205,
+        "name": "Byoung Hoi Kim",
+        "age_group": "M55-59",
+        "raw_time_seconds": 45798,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 39693,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 206,
+        "name": "Yunsung Ha",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45812,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45330,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 207,
+        "name": "Shogo Nishio",
+        "age_group": "M18-24",
+        "raw_time_seconds": 45851,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 44466,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 208,
+        "name": "Jongmin Han",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45852,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43105,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 209,
+        "name": "RYU JINHO",
+        "age_group": "M40-44",
+        "raw_time_seconds": 45864,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44410,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 210,
+        "name": "Go Sung Won",
+        "age_group": "M45-49",
+        "raw_time_seconds": 45896,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43146,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 211,
+        "name": "Geumbae Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 45962,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 45962,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 212,
+        "name": "Jihun Sim",
+        "age_group": "M18-24",
+        "raw_time_seconds": 45962,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 44573,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 213,
+        "name": "Nikita Mezentsev",
+        "age_group": "M35-39",
+        "raw_time_seconds": 45971,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45488,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 214,
+        "name": "Hanho Choi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46001,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41410,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 215,
+        "name": "Hyunha Seok",
+        "age_group": "F45-49",
+        "raw_time_seconds": 46119,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 39205,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 216,
+        "name": "myoungjin Baek",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46144,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44681,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 217,
+        "name": "\uc678\uc6a9 \uae40",
+        "age_group": "M60-64",
+        "raw_time_seconds": 46146,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 38125,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 218,
+        "name": "Sung Bae Hong",
+        "age_group": "M45-49",
+        "raw_time_seconds": 46158,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43393,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 219,
+        "name": "Tanaka Futoshi",
+        "age_group": "M55-59",
+        "raw_time_seconds": 46168,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40013,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 220,
+        "name": "Jinho Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46191,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41581,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 221,
+        "name": "Hansin Jeong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 46229,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40066,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 222,
+        "name": "\ucc3d\ub9cc \uc870",
+        "age_group": "M45-49",
+        "raw_time_seconds": 46240,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43470,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 223,
+        "name": "Chun Sik Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46319,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41696,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 224,
+        "name": "Byeongmin Choi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46329,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45842,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 225,
+        "name": "\u5eb7 \u5b89",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46340,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 45853,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 226,
+        "name": "Chulhee Jang",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46463,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 44990,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 227,
+        "name": "Luis Cristo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46514,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45039,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 228,
+        "name": "\ud604\uc0c1 \uc2e0",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46518,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 41875,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 229,
+        "name": "\ud0dc\ud55c \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 46545,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 43756,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 230,
+        "name": "Tanaka Kazuko",
+        "age_group": "F50-54",
+        "raw_time_seconds": 46619,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 37877,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 231,
+        "name": "Youngjin Paik",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46664,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42006,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 232,
+        "name": "\uc601\uad6d \uc1a1",
+        "age_group": "M50-54",
+        "raw_time_seconds": 46795,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42124,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 233,
+        "name": "Sunghyun Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46804,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45320,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 234,
+        "name": "KYOUNGHWAN KIM",
+        "age_group": "M45-49",
+        "raw_time_seconds": 46914,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44103,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 235,
+        "name": "Choong Hee Seo",
+        "age_group": "M55-59",
+        "raw_time_seconds": 46959,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40699,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 236,
+        "name": "\ub3c4\ud604 \uae40",
+        "age_group": "M40-44",
+        "raw_time_seconds": 46963,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45474,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 237,
+        "name": "Sangwoo Lee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 46970,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46476,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 238,
+        "name": "?? ?",
+        "age_group": "M65-69",
+        "raw_time_seconds": 46993,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 35489,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 239,
+        "name": "Juho Lee",
+        "age_group": "M30-34",
+        "raw_time_seconds": 46995,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 46995,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 240,
+        "name": "Chang Jin Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47063,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42366,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 241,
+        "name": "\uc9c0\ud638 \uc11c",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47068,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46573,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 242,
+        "name": "\uc544\ub828 \uc774",
+        "age_group": "F40-44",
+        "raw_time_seconds": 47112,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 41020,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 243,
+        "name": "Chulki Min",
+        "age_group": "M40-44",
+        "raw_time_seconds": 47143,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45648,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 244,
+        "name": "Hong Lak Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47156,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42449,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 245,
+        "name": "Jaeyeon An",
+        "age_group": "F55-59",
+        "raw_time_seconds": 47202,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 36713,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 246,
+        "name": "Yong Hwa Shin",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47218,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40923,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 247,
+        "name": "Gitak Bok",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47228,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44399,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 248,
+        "name": "Sanghoon Oh",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47232,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 40935,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 249,
+        "name": "Dmitry Lukyanov",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47259,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44428,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 250,
+        "name": "Dave Vincent Jamago",
+        "age_group": "M40-44",
+        "raw_time_seconds": 47281,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 45782,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 251,
+        "name": "\uc591\uc218 \ubc15",
+        "age_group": "M65-69",
+        "raw_time_seconds": 47315,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 35732,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 252,
+        "name": "Gilles Castagnes",
+        "age_group": "M60-64",
+        "raw_time_seconds": 47318,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 39094,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 253,
+        "name": "Kyounghee Kim",
+        "age_group": "F50-54",
+        "raw_time_seconds": 47325,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 38451,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 254,
+        "name": "Hiro Fujimori",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47336,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44500,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 255,
+        "name": "\ucda9\uacbd \uc815",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47367,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42639,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 256,
+        "name": "Sac Lee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47415,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 46917,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 257,
+        "name": "Leanne Kermack",
+        "age_group": "F30-34",
+        "raw_time_seconds": 47487,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 42629,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 258,
+        "name": "Dong Sik Park",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47496,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41164,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 259,
+        "name": "Alejandro Chung",
+        "age_group": "M30-34",
+        "raw_time_seconds": 47529,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 47529,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 260,
+        "name": "\uc2b9\ud658 \uc774",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47571,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47071,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 261,
+        "name": "YEAJIN KIM",
+        "age_group": "F40-44",
+        "raw_time_seconds": 47574,
+        "age_standard": 0.8707,
+        "age_graded_time_seconds": 41422,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 262,
+        "name": "Kwon Su Bum",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47601,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42850,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 263,
+        "name": "\ucc3d\uad6d(CHANGKOOK) \uc815(JUNG)",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47622,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41273,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 264,
+        "name": "Jooshin Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47689,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44832,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 265,
+        "name": "Myung Sik Choi",
+        "age_group": "M65-69",
+        "raw_time_seconds": 47691,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 36016,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 266,
+        "name": "\uaddc\ud6c8 \uc774",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47694,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42934,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 267,
+        "name": "\ucc2c\uc601 \ud669",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47719,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 44860,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 268,
+        "name": "Juyeok Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47740,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 42975,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 269,
+        "name": "Matthew Yaquinto",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47853,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41474,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 270,
+        "name": "Youngsoo Yoo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47855,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43079,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 271,
+        "name": "Sekwon Oh",
+        "age_group": "M55-59",
+        "raw_time_seconds": 47870,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41488,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 272,
+        "name": "Minsu Kim",
+        "age_group": "M25-29",
+        "raw_time_seconds": 47912,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 47533,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 273,
+        "name": "\ud0dc\uc6a9 \uc2ec",
+        "age_group": "M35-39",
+        "raw_time_seconds": 47929,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47425,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 274,
+        "name": "\ub0a8\ud6c8 \uc815",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47932,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45060,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 275,
+        "name": "Bong Min Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 47945,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45073,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 276,
+        "name": "Han Dongho",
+        "age_group": "M50-54",
+        "raw_time_seconds": 47955,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43169,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 277,
+        "name": "Kwanki Kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 47956,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46435,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 278,
+        "name": "Nahyun Kim",
+        "age_group": "F30-34",
+        "raw_time_seconds": 47977,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 43068,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 279,
+        "name": "\uc120\ud55c \uc2e0",
+        "age_group": "M30-34",
+        "raw_time_seconds": 48057,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 48057,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 280,
+        "name": "Sunghyo Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48058,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43261,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 281,
+        "name": "Joohwa Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 48078,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47573,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 282,
+        "name": "Soungjin Jeon",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48104,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46579,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 283,
+        "name": "Keiichi Yoshitomi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48214,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46685,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 284,
+        "name": "\uc601\ud76c \uc8fc",
+        "age_group": "F35-39",
+        "raw_time_seconds": 48221,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 42752,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 285,
+        "name": "Kwang Hyun Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48223,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45334,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 286,
+        "name": "Han Jo Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 48230,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 41800,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 287,
+        "name": "Heungtaek Lim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48238,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43423,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 288,
+        "name": "Dattatray Kale",
+        "age_group": "M35-39",
+        "raw_time_seconds": 48255,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 47748,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 289,
+        "name": "sumi kang",
+        "age_group": "F55-59",
+        "raw_time_seconds": 48269,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 37543,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 290,
+        "name": "Jihwang Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48316,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46784,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 291,
+        "name": "\uc758\uc735 \uc720",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48354,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46821,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 292,
+        "name": "Youngbin Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48357,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45460,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 293,
+        "name": "Kwon Sang Jin",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48368,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45470,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 294,
+        "name": "\uc601\uc560 \uae40",
+        "age_group": "F55-59",
+        "raw_time_seconds": 48384,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 37633,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 295,
+        "name": "Wooey Park",
+        "age_group": "F30-34",
+        "raw_time_seconds": 48394,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 43443,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 296,
+        "name": "Kwangu Heo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48399,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43568,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 297,
+        "name": "Daeik Kim",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48464,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45561,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 298,
+        "name": "Chang-Eob Cheon",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48492,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45587,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 299,
+        "name": "\uacbd\uc778 \ubc30",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48495,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 46957,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 300,
+        "name": "\ubcd1\uc6d0 \uc9c4",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48511,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45605,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 301,
+        "name": "Jorge Erminso Guzman Molina",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48556,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47016,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 302,
+        "name": "Young Hoon Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 48607,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 40159,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 303,
+        "name": "Seho Kook",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48642,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45728,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 304,
+        "name": "Gabit Mukhambetov",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48644,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 45730,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 305,
+        "name": "Yulmin Kim",
+        "age_group": "F25-29",
+        "raw_time_seconds": 48656,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 43600,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 306,
+        "name": "Sangmin Park",
+        "age_group": "M40-44",
+        "raw_time_seconds": 48726,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47181,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 307,
+        "name": "Tae-Shik Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 48745,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 40273,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 308,
+        "name": "Youngchang Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48746,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43881,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 309,
+        "name": "Dongwook Kim",
+        "age_group": "M25-29",
+        "raw_time_seconds": 48749,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 48363,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 310,
+        "name": "Seong Yong Ryu",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48751,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43885,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 311,
+        "name": "Haeil Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 48813,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 43941,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 312,
+        "name": "Joonhyung Kim",
+        "age_group": "M55-59",
+        "raw_time_seconds": 48842,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42331,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 313,
+        "name": "SUNGWUK JANG",
+        "age_group": "M45-49",
+        "raw_time_seconds": 48955,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46022,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 314,
+        "name": "You Sook Lee",
+        "age_group": "F55-59",
+        "raw_time_seconds": 48985,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 38100,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 315,
+        "name": "Youk Taek Shim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 49081,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 40550,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 316,
+        "name": "Lai Soon Ng",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49083,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46142,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 317,
+        "name": "\ub178 \uc7ac\ud638",
+        "age_group": "M35-39",
+        "raw_time_seconds": 49084,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 48568,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 318,
+        "name": "\uc815\uaddc \ubc15",
+        "age_group": "M50-54",
+        "raw_time_seconds": 49086,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 44187,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 319,
+        "name": "\ucda9\ud5cc \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 49107,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 44206,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 320,
+        "name": "Kim Hyunwoo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 49127,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 44224,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 321,
+        "name": "Noh Seho",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49137,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47579,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 322,
+        "name": "\uc900\uc5f0 \uae40",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49152,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47593,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 323,
+        "name": "Iksoo Choi",
+        "age_group": "M60-64",
+        "raw_time_seconds": 49153,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 40610,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 324,
+        "name": "Jong Yeob Shin",
+        "age_group": "M55-59",
+        "raw_time_seconds": 49203,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42644,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 325,
+        "name": "\uc815\ud654 \ubc31",
+        "age_group": "F50-54",
+        "raw_time_seconds": 49208,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 39981,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 326,
+        "name": "Jeoung Ho Baek",
+        "age_group": "M55-59",
+        "raw_time_seconds": 49260,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42693,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 327,
+        "name": "Jiho Park",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49266,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46314,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 328,
+        "name": "Reujenson Lista",
+        "age_group": "M55-59",
+        "raw_time_seconds": 49290,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 42719,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 329,
+        "name": "\uc7ac\ud604 \uc784",
+        "age_group": "M30-34",
+        "raw_time_seconds": 49325,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 49325,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 330,
+        "name": "Rodel Cuaton",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49328,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 47764,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 331,
+        "name": "\uc900\ud76c \ubc15",
+        "age_group": "M35-39",
+        "raw_time_seconds": 49378,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 48859,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 332,
+        "name": "\ud0dc\ud638 \uc774",
+        "age_group": "M30-34",
+        "raw_time_seconds": 49381,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 49381,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 333,
+        "name": "\ud76c\uc815 \uae40",
+        "age_group": "F45-49",
+        "raw_time_seconds": 49409,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 42002,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 334,
+        "name": "Jin Sung Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49418,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46457,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 335,
+        "name": "\uacbd\ub0a8 \uae40",
+        "age_group": "M35-39",
+        "raw_time_seconds": 49420,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 48901,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 336,
+        "name": "Jill Walker",
+        "age_group": "F55-59",
+        "raw_time_seconds": 49460,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 38469,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 337,
+        "name": "\ud638\ud604 \ucd5c",
+        "age_group": "M50-54",
+        "raw_time_seconds": 49569,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 44622,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 338,
+        "name": "Taekyo Han",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49662,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46687,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 339,
+        "name": "\uba85\uc219 \uc774",
+        "age_group": "F60-64",
+        "raw_time_seconds": 49673,
+        "age_standard": 0.7218,
+        "age_graded_time_seconds": 35853,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 340,
+        "name": "Yuya Nakamichi",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49676,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46700,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 341,
+        "name": "Sangphil Cho",
+        "age_group": "M45-49",
+        "raw_time_seconds": 49694,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 46717,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 342,
+        "name": "\ubbfc\uaddc \uae40",
+        "age_group": "M30-34",
+        "raw_time_seconds": 49702,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 49702,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 343,
+        "name": "KEI WUNG LEE",
+        "age_group": "M60-64",
+        "raw_time_seconds": 49736,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 41091,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 344,
+        "name": "Mendelf Billedo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 49831,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48251,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 345,
+        "name": "Ilfat Khairullin",
+        "age_group": "M25-29",
+        "raw_time_seconds": 49876,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 49481,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 346,
+        "name": "Jongjoon Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 49881,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 49881,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 347,
+        "name": "\ub3c4\ud604 \uc7a5",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50007,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48421,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 348,
+        "name": "Yongrae Cho",
+        "age_group": "M35-39",
+        "raw_time_seconds": 50011,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 49485,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 349,
+        "name": "Hyojoo Jang",
+        "age_group": "F30-34",
+        "raw_time_seconds": 50012,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 44895,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 350,
+        "name": "Roman Logov",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50036,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48449,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 351,
+        "name": "\uc544\uc601 \uc774",
+        "age_group": "F30-34",
+        "raw_time_seconds": 50071,
+        "age_standard": 0.8977,
+        "age_graded_time_seconds": 44948,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 352,
+        "name": "\ucda9\ud6c8 \uc804",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50142,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48552,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 353,
+        "name": "Zhihong Chen",
+        "age_group": "F50-54",
+        "raw_time_seconds": 50170,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 40763,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 354,
+        "name": "Hyungbae Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50242,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45227,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 355,
+        "name": "\ubc15 \ubcd1\ub0a8",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50245,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45230,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 356,
+        "name": "Geunchan Seo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50279,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47267,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 357,
+        "name": "HANEAL LEE",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50280,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48686,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 358,
+        "name": "\uc11d\ubc30 \uc804",
+        "age_group": "M65-69",
+        "raw_time_seconds": 50307,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 37991,
+        "qualified_2025": false,
+        "qualified_2026": true
+      },
+      {
+        "place": 359,
+        "name": "Ja Rim Shin",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50307,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 48712,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 360,
+        "name": "\uacbd\ubb38 \uac15",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50307,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43601,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 361,
+        "name": "Yongmin Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 50324,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 50324,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 362,
+        "name": "\ud604\uc6d0 \uc784",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50368,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47350,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 363,
+        "name": "Hiroyuki Ajioka",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50393,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43675,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 364,
+        "name": "Taeil Kim",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50543,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43805,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 365,
+        "name": "Chung Guk Seo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50601,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45551,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 366,
+        "name": "Junbum Bae",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50606,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47574,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 367,
+        "name": "Changho Hong",
+        "age_group": "M65-69",
+        "raw_time_seconds": 50635,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 38239,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 368,
+        "name": "Ko Jae",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50637,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43887,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 369,
+        "name": "Geumhoe Moon",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50638,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43887,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 370,
+        "name": "\ubcd1\uc815 \ucd5c",
+        "age_group": "M60-64",
+        "raw_time_seconds": 50715,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 41900,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 371,
+        "name": "Kiyang Heo",
+        "age_group": "M55-59",
+        "raw_time_seconds": 50736,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 43972,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 372,
+        "name": "Mohan Pawar",
+        "age_group": "M35-39",
+        "raw_time_seconds": 50764,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 50230,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 373,
+        "name": "Byeongik Heo",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50811,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45740,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 374,
+        "name": "\uc11d\ud0dc \ucd5c",
+        "age_group": "M45-49",
+        "raw_time_seconds": 50849,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 47803,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 375,
+        "name": "Sunhyo Lee",
+        "age_group": "M50-54",
+        "raw_time_seconds": 50863,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45786,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 376,
+        "name": "Seung Hun Han",
+        "age_group": "M40-44",
+        "raw_time_seconds": 50947,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49331,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 377,
+        "name": "Geraldine Abuan",
+        "age_group": "F55-59",
+        "raw_time_seconds": 50972,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 39646,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 378,
+        "name": "Dong Hun Ha",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51065,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49446,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 379,
+        "name": "Wonsik Shin",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51091,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 45992,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 380,
+        "name": "\uc2b9\uc911 \uc591",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51123,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 50586,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 381,
+        "name": "\ud669 \uc7ac\uaddc",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51152,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48087,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 382,
+        "name": "Qingwen Meng",
+        "age_group": "F50-54",
+        "raw_time_seconds": 51269,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 41656,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 383,
+        "name": "Tae Dong Noh",
+        "age_group": "M55-59",
+        "raw_time_seconds": 51273,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 44438,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 384,
+        "name": "Sungmin Cho",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51326,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48251,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 385,
+        "name": "Wookyeong Jeong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51428,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46295,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 386,
+        "name": "Hongchul Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51438,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 50897,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 387,
+        "name": "hyunki kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51455,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 49823,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 388,
+        "name": "\uacbd\ube48 \uc784",
+        "age_group": "M35-39",
+        "raw_time_seconds": 51598,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51056,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 389,
+        "name": "Ryunhee Ko",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51599,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46449,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 390,
+        "name": "Eun-Gyung Lee",
+        "age_group": "F55-59",
+        "raw_time_seconds": 51682,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 40198,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 391,
+        "name": "Eui In Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 51730,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 42739,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 392,
+        "name": "Kysook Kim",
+        "age_group": "F55-59",
+        "raw_time_seconds": 51741,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 40244,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 393,
+        "name": "Donald Kim",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51743,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50102,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 394,
+        "name": "Kyungjin Oh",
+        "age_group": "M40-44",
+        "raw_time_seconds": 51825,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 50182,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 395,
+        "name": "Sungsoo Huh",
+        "age_group": "M50-54",
+        "raw_time_seconds": 51831,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 46658,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 396,
+        "name": "Jeong Cheol Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 51843,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48737,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 397,
+        "name": "Thianny Abadia",
+        "age_group": "F35-39",
+        "raw_time_seconds": 51875,
+        "age_standard": 0.8866,
+        "age_graded_time_seconds": 45992,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 398,
+        "name": "Robert Jonah Rivera",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52000,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 48885,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 399,
+        "name": "Sang Myeong Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52035,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45098,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 400,
+        "name": "Cheolkyoung Park",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52141,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45190,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 401,
+        "name": "Do Hyung` Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52149,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49025,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 402,
+        "name": "Changnam Kang",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52199,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49072,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 403,
+        "name": "Jihyeon Mun",
+        "age_group": "F45-49",
+        "raw_time_seconds": 52280,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 44443,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 404,
+        "name": "Younghwan Bu",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52305,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47084,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 405,
+        "name": "Jongnam Roh",
+        "age_group": "M60-64",
+        "raw_time_seconds": 52370,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 43268,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 406,
+        "name": "Haesoo Lee",
+        "age_group": "M35-39",
+        "raw_time_seconds": 52406,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51855,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 407,
+        "name": "Chang-Woo Choi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 52421,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 51870,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 408,
+        "name": "Bu Hyun Ham",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52432,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49291,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 409,
+        "name": "\ud638\uacbd \ud55c",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52509,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45509,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 410,
+        "name": "Daeho Kang",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52531,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47288,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 411,
+        "name": "\ucc2c\uc77c \uc815",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52546,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49398,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 412,
+        "name": "Chang-Ki Youn",
+        "age_group": "M45-49",
+        "raw_time_seconds": 52579,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49429,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 413,
+        "name": "Hansun Choi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52650,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47395,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 414,
+        "name": "\uc601\uc218 \ucd5c",
+        "age_group": "F55-59",
+        "raw_time_seconds": 52664,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 40962,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 415,
+        "name": "Sungsoo Kang",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52675,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47418,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 416,
+        "name": "Min Cheol Jeong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52700,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45675,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 417,
+        "name": "\uc218\uc5b5 \uc774",
+        "age_group": "M55-59",
+        "raw_time_seconds": 52700,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45675,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 418,
+        "name": "MYUNG CHUN JO",
+        "age_group": "M60-64",
+        "raw_time_seconds": 52705,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 43544,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 419,
+        "name": "Namgwan Jeong",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52796,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47526,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 420,
+        "name": "Sung Hwa Kim",
+        "age_group": "F50-54",
+        "raw_time_seconds": 52846,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 42937,
+        "qualified_2025": true,
+        "qualified_2026": false
+      },
+      {
+        "place": 421,
+        "name": "Yuko Fujimoto",
+        "age_group": "F50-54",
+        "raw_time_seconds": 52910,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 42989,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 422,
+        "name": "Sung Jun Kim",
+        "age_group": "M50-54",
+        "raw_time_seconds": 52942,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 47658,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 423,
+        "name": "\ud0dc\uaddc \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53005,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 49830,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 424,
+        "name": "Sangsam Han",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53035,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45965,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 425,
+        "name": "Donggyoo Park",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53039,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45968,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 426,
+        "name": "Richard Bysouth",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53045,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 45974,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 427,
+        "name": "Tak Gyu Lim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 53152,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 43914,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 428,
+        "name": "Chang Gyu Hwang",
+        "age_group": "M60-64",
+        "raw_time_seconds": 53274,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 44014,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 429,
+        "name": "\uc7a5 \uc601\uadfc",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53349,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46237,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 430,
+        "name": "\uc131\uc2dd \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 53416,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 48085,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 431,
+        "name": "Seung Hee Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53453,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46327,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 432,
+        "name": "\uc7ac\uad50 \ucd5c",
+        "age_group": "M50-54",
+        "raw_time_seconds": 53464,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 48128,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 433,
+        "name": "Youn Gi Park",
+        "age_group": "M60-64",
+        "raw_time_seconds": 53533,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 44228,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 434,
+        "name": "Yongduk Jung",
+        "age_group": "M55-59",
+        "raw_time_seconds": 53540,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46403,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 435,
+        "name": "Sang Kyu Jang",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53547,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50339,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 436,
+        "name": "Young-Dae Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 53579,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 53579,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 437,
+        "name": "\ub3d9\uc77c \uc7a5",
+        "age_group": "M60-64",
+        "raw_time_seconds": 53654,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 44328,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 438,
+        "name": "Namjo Choi",
+        "age_group": "M50-54",
+        "raw_time_seconds": 53706,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 48346,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 439,
+        "name": "YOHAN MIN",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53752,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 52048,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 440,
+        "name": "\ud604\uc11d \uae40",
+        "age_group": "M45-49",
+        "raw_time_seconds": 53755,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 50535,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 441,
+        "name": "Eungyu Choi",
+        "age_group": "M40-44",
+        "raw_time_seconds": 53877,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 52169,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 442,
+        "name": "\uc2b9\ucc2c \uc774",
+        "age_group": "M30-34",
+        "raw_time_seconds": 53966,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 53966,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 443,
+        "name": "SEUNGYEON YEOM",
+        "age_group": "M40-44",
+        "raw_time_seconds": 54007,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 52294,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 444,
+        "name": "Kyungsuk Kim",
+        "age_group": "F55-59",
+        "raw_time_seconds": 54028,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 42022,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 445,
+        "name": "Dong Oh Jang",
+        "age_group": "M50-54",
+        "raw_time_seconds": 54041,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 48647,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 446,
+        "name": "Taek Sang Ryu",
+        "age_group": "M60-64",
+        "raw_time_seconds": 54136,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 44727,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 447,
+        "name": "Junho Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54221,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 46993,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 448,
+        "name": "Misook Chae",
+        "age_group": "F55-59",
+        "raw_time_seconds": 54226,
+        "age_standard": 0.7778,
+        "age_graded_time_seconds": 42176,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 449,
+        "name": "Will Zhu",
+        "age_group": "M35-39",
+        "raw_time_seconds": 54237,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53667,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 450,
+        "name": "Min Ho Yeom",
+        "age_group": "M50-54",
+        "raw_time_seconds": 54353,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 48928,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 451,
+        "name": "\uc0c1\uaddc \uc774",
+        "age_group": "M35-39",
+        "raw_time_seconds": 54386,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 53814,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 452,
+        "name": "DONGJAE YOO",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54459,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47199,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 453,
+        "name": "\ud64d\ud6c8 \ubc15",
+        "age_group": "M50-54",
+        "raw_time_seconds": 54686,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 49228,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 454,
+        "name": "Kwangseob Eom",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54767,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47466,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 455,
+        "name": "\uc9c4\ud64d \ucd5c",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54768,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47467,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 456,
+        "name": "Jeongho Yoo",
+        "age_group": "M45-49",
+        "raw_time_seconds": 54769,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 51488,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 457,
+        "name": "JungHyun Paik",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54774,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47472,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 458,
+        "name": "\uc5f0\uc6b0 \uc774",
+        "age_group": "M55-59",
+        "raw_time_seconds": 54856,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47543,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 459,
+        "name": "Myung Jin Yoon",
+        "age_group": "F50-54",
+        "raw_time_seconds": 55003,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 44689,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 460,
+        "name": "Sy Chieh Lee",
+        "age_group": "M45-49",
+        "raw_time_seconds": 55078,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 51778,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 461,
+        "name": "Kim Taehoon",
+        "age_group": "M55-59",
+        "raw_time_seconds": 55118,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 47770,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 462,
+        "name": "Jung Hwa Cho",
+        "age_group": "F50-54",
+        "raw_time_seconds": 55133,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 44795,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 463,
+        "name": "Hoseok Chae",
+        "age_group": "M50-54",
+        "raw_time_seconds": 55253,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 49738,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 464,
+        "name": "Sangin Nam",
+        "age_group": "M65-69",
+        "raw_time_seconds": 55391,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 41831,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 465,
+        "name": "Hwa Young Lee",
+        "age_group": "M40-44",
+        "raw_time_seconds": 55462,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53703,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 466,
+        "name": "\ub2ec\uace4 \uae40",
+        "age_group": "M60-64",
+        "raw_time_seconds": 55571,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 45912,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 467,
+        "name": "\ub2e4\uc131 \uc1a1",
+        "age_group": "M25-29",
+        "raw_time_seconds": 55709,
+        "age_standard": 0.9921,
+        "age_graded_time_seconds": 55268,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 468,
+        "name": "BOMOON JUNG",
+        "age_group": "M40-44",
+        "raw_time_seconds": 55749,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 53981,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 469,
+        "name": "\ubc94\uad6c \uc2ec",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55857,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55270,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 470,
+        "name": "\u5609 \u674e",
+        "age_group": "M35-39",
+        "raw_time_seconds": 55954,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55366,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 471,
+        "name": "Sung Moon Yang",
+        "age_group": "M60-64",
+        "raw_time_seconds": 56177,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 46413,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 472,
+        "name": "Thai Tri Hung",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56189,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 54407,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 473,
+        "name": "Moosung Byun",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56219,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 50608,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 474,
+        "name": "Kiran Shahu",
+        "age_group": "M35-39",
+        "raw_time_seconds": 56298,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 55706,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 475,
+        "name": "\uae30\uc601 \ubc15",
+        "age_group": "M45-49",
+        "raw_time_seconds": 56321,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 52947,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 476,
+        "name": "Chul Hoi Jeong",
+        "age_group": "M60-64",
+        "raw_time_seconds": 56356,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 46561,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 477,
+        "name": "Danilo Zapanta",
+        "age_group": "M55-59",
+        "raw_time_seconds": 56413,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 48893,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 478,
+        "name": "Akshay Awati",
+        "age_group": "M30-34",
+        "raw_time_seconds": 56461,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 56461,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 479,
+        "name": "Joonho Cha",
+        "age_group": "M50-54",
+        "raw_time_seconds": 56689,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51031,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 480,
+        "name": "BOEUN KIM",
+        "age_group": "M55-59",
+        "raw_time_seconds": 56691,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 49134,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 481,
+        "name": "Jong Bin Yoon",
+        "age_group": "M40-44",
+        "raw_time_seconds": 56825,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55023,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 482,
+        "name": "Tae Seung Song",
+        "age_group": "M60-64",
+        "raw_time_seconds": 56901,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 47011,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 483,
+        "name": "Yang Ngee Yeo",
+        "age_group": "F45-49",
+        "raw_time_seconds": 56938,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 48402,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 484,
+        "name": "\uc9c0\uc601 \ud669",
+        "age_group": "F50-54",
+        "raw_time_seconds": 56942,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 46265,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 485,
+        "name": "Jaegong Choi",
+        "age_group": "M35-39",
+        "raw_time_seconds": 57098,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 56498,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 486,
+        "name": "Kyounghoon Han",
+        "age_group": "M50-54",
+        "raw_time_seconds": 57193,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51485,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 487,
+        "name": "Jeonghyeon Kim",
+        "age_group": "F25-29",
+        "raw_time_seconds": 57280,
+        "age_standard": 0.8961,
+        "age_graded_time_seconds": 51328,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 488,
+        "name": "\uc8fc\ubbfc \uc774",
+        "age_group": "M40-44",
+        "raw_time_seconds": 57454,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 55632,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 489,
+        "name": "Jung Daehwa",
+        "age_group": "M50-54",
+        "raw_time_seconds": 57622,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51871,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 490,
+        "name": "\uacbd\ubb34 \ubc31",
+        "age_group": "M50-54",
+        "raw_time_seconds": 57658,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 51903,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 491,
+        "name": "Jungyoon Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 57706,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57100,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 492,
+        "name": "Do-Joon Kim",
+        "age_group": "M35-39",
+        "raw_time_seconds": 58087,
+        "age_standard": 0.9895,
+        "age_graded_time_seconds": 57477,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 493,
+        "name": "Geunbae Yoo",
+        "age_group": "M60-64",
+        "raw_time_seconds": 58259,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 48133,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 494,
+        "name": "\uc18c\uc815 \uc774",
+        "age_group": "F65-69",
+        "raw_time_seconds": 58280,
+        "age_standard": 0.6828,
+        "age_graded_time_seconds": 39793,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 495,
+        "name": "\uc6b0\uc11d \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58329,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 52507,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 496,
+        "name": "\ubb38\uc11d \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58379,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 52552,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 497,
+        "name": "\uc911\ub3c8 \ucd5c",
+        "age_group": "M65-69",
+        "raw_time_seconds": 58383,
+        "age_standard": 0.7552,
+        "age_graded_time_seconds": 44090,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 498,
+        "name": "Archibald Navarro Majam",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58419,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54919,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 499,
+        "name": "Binwen Huang",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58429,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 54929,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 500,
+        "name": "Jinho Cho",
+        "age_group": "M18-24",
+        "raw_time_seconds": 58473,
+        "age_standard": 0.9698,
+        "age_graded_time_seconds": 56707,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 501,
+        "name": "Satoshi Ishihara",
+        "age_group": "M70-74",
+        "raw_time_seconds": 58811,
+        "age_standard": 0.6876,
+        "age_graded_time_seconds": 40438,
+        "qualified_2025": true,
+        "qualified_2026": true
+      },
+      {
+        "place": 502,
+        "name": "Manuel Henry II Villacruz",
+        "age_group": "M40-44",
+        "raw_time_seconds": 58865,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 56998,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 503,
+        "name": "\uc815\ud6c8 \uacfd",
+        "age_group": "M45-49",
+        "raw_time_seconds": 58878,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 55351,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 504,
+        "name": "Byungju Kim",
+        "age_group": "F45-49",
+        "raw_time_seconds": 58892,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 50064,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 505,
+        "name": "Ivan I. Fojas",
+        "age_group": "M50-54",
+        "raw_time_seconds": 58920,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53039,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 506,
+        "name": "Ramoncito Gonzales",
+        "age_group": "M40-44",
+        "raw_time_seconds": 59092,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 57218,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 507,
+        "name": "So Young Park",
+        "age_group": "F50-54",
+        "raw_time_seconds": 59166,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 48072,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 508,
+        "name": "Sangho Lee",
+        "age_group": "M55-59",
+        "raw_time_seconds": 59182,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 51293,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 509,
+        "name": "\ubbf8\uc219 \uc870",
+        "age_group": "F60-64",
+        "raw_time_seconds": 59218,
+        "age_standard": 0.7218,
+        "age_graded_time_seconds": 42743,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 510,
+        "name": "\uc774 \uc740\ud76c",
+        "age_group": "F45-49",
+        "raw_time_seconds": 59381,
+        "age_standard": 0.8501,
+        "age_graded_time_seconds": 50479,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 511,
+        "name": "Kwangyoul Park",
+        "age_group": "M50-54",
+        "raw_time_seconds": 59482,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 53545,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 512,
+        "name": "Mira Kim",
+        "age_group": "F50-54",
+        "raw_time_seconds": 59677,
+        "age_standard": 0.8125,
+        "age_graded_time_seconds": 48487,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 513,
+        "name": "Geonwoo Jeong",
+        "age_group": "M55-59",
+        "raw_time_seconds": 59904,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 51918,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 514,
+        "name": "Phil Sang Jung",
+        "age_group": "M55-59",
+        "raw_time_seconds": 60350,
+        "age_standard": 0.8667,
+        "age_graded_time_seconds": 52305,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 515,
+        "name": "Bong Hyeon Kim",
+        "age_group": "M60-64",
+        "raw_time_seconds": 60500,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 49985,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 516,
+        "name": "Pyongjun Jeon",
+        "age_group": "M50-54",
+        "raw_time_seconds": 60625,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 54574,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 517,
+        "name": "\uc77c\uc601 \uc815",
+        "age_group": "M45-49",
+        "raw_time_seconds": 61146,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 57483,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 518,
+        "name": "\ub300\ud604 \uae40",
+        "age_group": "M50-54",
+        "raw_time_seconds": 61276,
+        "age_standard": 0.9002,
+        "age_graded_time_seconds": 55160,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 519,
+        "name": "\uc131\ud0dc \uae40",
+        "age_group": "M30-34",
+        "raw_time_seconds": 61389,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 61389,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 520,
+        "name": "Kwangwoo Son",
+        "age_group": "M45-49",
+        "raw_time_seconds": 61634,
+        "age_standard": 0.9401,
+        "age_graded_time_seconds": 57942,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 521,
+        "name": "Sang Woo Joo",
+        "age_group": "M40-44",
+        "raw_time_seconds": 61691,
+        "age_standard": 0.9683,
+        "age_graded_time_seconds": 59735,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99999,
+        "name": "Jin-Ha Kim",
+        "age_group": "M30-34",
+        "raw_time_seconds": 60536,
+        "age_standard": 1.0,
+        "age_graded_time_seconds": 60536,
+        "qualified_2025": false,
+        "qualified_2026": false
+      },
+      {
+        "place": 99999,
+        "name": "\ud64d\uadfc \uae40",
+        "age_group": "M60-64",
+        "raw_time_seconds": 60943,
+        "age_standard": 0.8262,
+        "age_graded_time_seconds": 50351,
+        "qualified_2025": false,
+        "qualified_2026": false
+      }
+    ]
+  },
+  "last_updated": "2025-07-06T22:16:19.492567",
+  "url": "https://www.ironman.com/races/im-gurye/results",
+  "participant_count": 523
+}
