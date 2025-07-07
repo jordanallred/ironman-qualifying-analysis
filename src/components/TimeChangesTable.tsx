@@ -22,11 +22,13 @@ export default function TimeChangesTable({ data }: TimeChangesTableProps) {
     defaultSort: { key: 'ageGroup', direction: 'asc' }
   });
 
-  // Format time from seconds to HH:MM:SS
+  // Format time from seconds to HH:MM:SS (rounded to nearest 15 seconds for readability)
   const formatTime = (seconds: number) => {
-    const hours = Math.floor(seconds / 3600);
-    const minutes = Math.floor((seconds % 3600) / 60);
-    const remainingSeconds = seconds % 60;
+    // Round to nearest 15 seconds to avoid crazy decimals
+    const roundedSeconds = Math.round(seconds / 15) * 15;
+    const hours = Math.floor(roundedSeconds / 3600);
+    const minutes = Math.floor((roundedSeconds % 3600) / 60);
+    const remainingSeconds = roundedSeconds % 60;
     return `${hours}:${minutes.toString().padStart(2, '0')}:${remainingSeconds.toString().padStart(2, '0')}`;
   };
 
@@ -101,8 +103,8 @@ export default function TimeChangesTable({ data }: TimeChangesTableProps) {
                 {row.timeChange !== null ? (
                   <div className="flex flex-col space-y-1">
                     <span className={`font-medium ${
-                      row.timeChange > 0 ? 'text-red-600' : 
-                      row.timeChange < 0 ? 'text-green-600' : 'text-gray-500'
+                      row.timeChange > 0 ? 'text-green-600' : 
+                      row.timeChange < 0 ? 'text-red-600' : 'text-gray-500'
                     }`}>
                       {row.timeChange > 0 ? '+' : ''}{Math.round(row.timeChange / 60)}min
                     </span>
@@ -117,10 +119,10 @@ export default function TimeChangesTable({ data }: TimeChangesTableProps) {
               <TableCell>
                 {row.timePercentChange !== null ? (
                   <span className={`font-medium ${
-                    row.timePercentChange > 0 ? 'text-red-600' : 
-                    row.timePercentChange < 0 ? 'text-green-600' : 'text-gray-500'
+                    row.timePercentChange > 0 ? 'text-green-600' : 
+                    row.timePercentChange < 0 ? 'text-red-600' : 'text-gray-500'
                   }`}>
-                    {row.timePercentChange > 0 ? '+' : ''}{row.timePercentChange.toFixed(2)}%
+                    {row.timePercentChange > 0 ? '+' : ''}{Math.round(row.timePercentChange * 100) / 100}%
                   </span>
                 ) : (
                   <span className="text-gray-400">-</span>
