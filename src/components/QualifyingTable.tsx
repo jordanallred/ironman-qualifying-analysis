@@ -39,15 +39,15 @@ export default function QualifyingTable({ analysis }: QualifyingTableProps) {
   const formatGenderBreakdown = (men: number, women: number, ageGroup: string, isChange: boolean = false) => {
     const isMaleOnly = ageGroup.startsWith('M');
     const isFemaleOnly = ageGroup.startsWith('F');
-    const prefix = isChange && men > 0 ? '+' : '';
-    const prefixW = isChange && women > 0 ? '+' : '';
     
-    if (isMaleOnly) {
-      return `(${prefix}${men}M)`;
-    } else if (isFemaleOnly) {
-      return `(${prefixW}${women}F)`;
+    // Since age groups already indicate gender (M35-39, F40-44), 
+    // don't show redundant gender breakdown for single-gender age groups
+    if (isMaleOnly || isFemaleOnly) {
+      return ''; // Remove redundant gender indicators
     } else {
       // Mixed age group (shouldn't happen in Ironman but just in case)
+      const prefix = isChange && men > 0 ? '+' : '';
+      const prefixW = isChange && women > 0 ? '+' : '';
       return `(${prefix}${men}M / ${prefixW}${women}F)`;
     }
   };
