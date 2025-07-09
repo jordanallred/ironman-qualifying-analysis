@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import RaceCard from '@/components/RaceCard';
 import GlobalStats from '@/components/GlobalStats';
@@ -42,40 +41,29 @@ interface RacesResponse {
 }
 
 export default function HomePage() {
-  const router = useRouter();
-  const searchParams = useSearchParams();
-  
   const [races, setRaces] = useState<Race[]>([]);
   const [filteredRaces, setFilteredRaces] = useState<Race[]>([]);
   const [summary, setSummary] = useState<RacesResponse['summary'] | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [searchQuery, setSearchQuery] = useState(searchParams?.get('search') || '');
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     fetchRaces();
   }, []);
 
-  // Filter races based on search query and update URL
+  // Filter races based on search query
   useEffect(() => {
     if (!searchQuery.trim()) {
       setFilteredRaces(races);
-      // Remove search param if empty
-      const params = new URLSearchParams(searchParams?.toString());
-      params.delete('search');
-      router.replace(`?${params.toString()}`, { scroll: false });
     } else {
       const filtered = races.filter(race =>
         race.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
         race.location.toLowerCase().includes(searchQuery.toLowerCase())
       );
       setFilteredRaces(filtered);
-      // Update search param
-      const params = new URLSearchParams(searchParams?.toString());
-      params.set('search', searchQuery);
-      router.replace(`?${params.toString()}`, { scroll: false });
     }
-  }, [races, searchQuery, router, searchParams]);
+  }, [races, searchQuery]);
 
   const fetchRaces = async () => {
     try {
