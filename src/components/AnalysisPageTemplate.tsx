@@ -11,7 +11,10 @@ import {
   Heading,
   Text,
   Card,
-  CardContent
+  CardContent,
+  SkeletonStatCard,
+  SkeletonTable,
+  SkeletonChart
 } from '@/components/ui';
 
 interface AnalysisData {
@@ -55,11 +58,44 @@ export default function AnalysisPageTemplate({
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center">
-          <LoadingSpinner size="lg" className="mx-auto mb-4" />
-          <Text variant="muted">Loading analysis...</Text>
+      <div className="min-h-screen bg-white">
+        {/* Header Section Skeleton */}
+        <Section background="gradient" padding="md">
+          <Container>
+            <nav className="flex items-center space-x-2 text-sm mb-3">
+              <div className="h-4 w-16 bg-white bg-opacity-20 rounded animate-pulse" />
+              <span className="text-white">/</span>
+              <div className="h-4 w-32 bg-white bg-opacity-20 rounded animate-pulse" />
+            </nav>
+            <div className="h-8 w-64 bg-white bg-opacity-20 rounded animate-pulse" />
+          </Container>
+        </Section>
+
+        {/* Sticky View Toggle Skeleton */}
+        <div className="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
+          <Container>
+            <div className="flex justify-center py-2">
+              <div className="h-8 w-72 bg-gray-100 rounded-md animate-pulse" />
+            </div>
+          </Container>
         </div>
+
+        <Section padding="lg">
+          <Container>
+            {/* Key Stats Skeleton */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+              <SkeletonStatCard />
+              <SkeletonStatCard />
+              <SkeletonStatCard />
+            </div>
+
+            {/* Main Content Skeleton */}
+            <div className="space-y-8">
+              <SkeletonChart />
+              <SkeletonTable rows={8} cols={6} />
+            </div>
+          </Container>
+        </Section>
       </div>
     );
   }

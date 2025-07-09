@@ -12,7 +12,9 @@ import {
   LoadingSpinner, 
   ErrorState,
   Heading,
-  Text
+  Text,
+  SkeletonCard,
+  SkeletonStatCard
 } from '@/components/ui';
 
 interface Race {
@@ -87,11 +89,53 @@ export default function HomePage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center">
-          <LoadingSpinner size="lg" className="mx-auto mb-4" />
-          <Text variant="muted">Loading race data...</Text>
-        </div>
+      <div className="min-h-screen bg-white">
+        {/* Header Section Skeleton */}
+        <Section background="gradient" padding="lg">
+          <Container>
+            <div className="text-center max-w-4xl mx-auto">
+              <div className="space-y-6">
+                <div className="space-y-4">
+                  <div className="h-12 bg-white bg-opacity-20 rounded-lg mx-auto w-96 animate-pulse" />
+                  <div className="h-6 bg-white bg-opacity-20 rounded-lg mx-auto w-80 animate-pulse" />
+                </div>
+                <div className="h-4 bg-white bg-opacity-20 rounded-lg mx-auto w-96 animate-pulse" />
+              </div>
+              
+              {/* Global Stats Skeleton */}
+              <div className="mt-12">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+                  <SkeletonStatCard />
+                  <SkeletonStatCard />
+                  <SkeletonStatCard />
+                </div>
+              </div>
+            </div>
+          </Container>
+        </Section>
+
+        {/* Main Content Skeleton */}
+        <Section padding="lg">
+          <Container>
+            <div className="mb-8">
+              <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-8 gap-6">
+                <div>
+                  <div className="h-8 bg-gray-200 rounded-lg w-48 mb-3 animate-pulse" />
+                  <div className="h-4 bg-gray-200 rounded-lg w-72 animate-pulse" />
+                </div>
+                <div className="h-10 bg-gray-200 rounded-lg w-32 animate-pulse" />
+              </div>
+              <div className="h-10 bg-gray-200 rounded-lg max-w-xl animate-pulse" />
+            </div>
+
+            {/* Race Cards Skeleton */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {Array.from({ length: 9 }).map((_, i) => (
+                <SkeletonCard key={i} />
+              ))}
+            </div>
+          </Container>
+        </Section>
       </div>
     );
   }

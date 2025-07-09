@@ -25,6 +25,15 @@ export { default as Badge } from './Badge';
 export { default as LoadingSpinner } from './LoadingSpinner';
 export { default as ErrorState } from './ErrorState';
 
+// Skeleton Components
+export { 
+  Skeleton, 
+  SkeletonCard, 
+  SkeletonStatCard, 
+  SkeletonTable, 
+  SkeletonChart 
+} from './Skeleton';
+
 // Typography Components
 export { Heading, Text } from './Typography';
 
