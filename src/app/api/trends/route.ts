@@ -26,7 +26,7 @@ export async function GET() {
       }, { status: 404 });
     }
     
-    // Validate race data
+    // Validate race data - only include races with BOTH 2025 and 2026 allocations
     const validRaces = races.filter(race => {
       const analysis = race.analysis;
       if (!analysis) return false;
@@ -35,6 +35,13 @@ export async function GET() {
       if (analysis.totalParticipants <= 0) return false;
       if (analysis.totalSlots <= 0) return false;
       if (!analysis.ageGroupAnalysis) return false;
+      
+      // CRITICAL: Only include races that continue from 2025 to 2026
+      // Exclude discontinued races that skew trends
+      if (!race.totalSlots2026 || race.totalSlots2026 <= 0) {
+        console.warn(`Race ${race.name}: discontinued in 2026 - excluding from trends`);
+        return false;
+      }
       
       // Check that participants match results count
       if (race.results.length !== analysis.totalParticipants) {
@@ -77,8 +84,11 @@ export async function GET() {
       womenParticipants: number;
       menSlots2025: number;
       womenSlots2025: number;
-      menSlots2026: number;
-      womenSlots2026: number;
+      // Note: 2026 has no gender-specific slots (age-graded system)
+      totalTimes2025: number;
+      totalTimes2026: number;
+      timeCount2025: number;
+      timeCount2026: number;
     }> = {};
     
     const raceDistanceBreakdown = {
@@ -135,15 +145,11 @@ export async function GET() {
             womenParticipants: 0,
             menSlots2025: 0,
             womenSlots2025: 0,
-            menSlots2026: 0,
-            womenSlots2026: 0,
-            // Add time tracking
+            // Note: 2026 has no gender-specific slots (age-graded system)
             totalTimes2025: 0,
             totalTimes2026: 0,
             timeCount2025: 0,
-            timeCount2026: 0,
-            avgTime2025: null,
-            avgTime2026: null
+            timeCount2026: 0
           };
         }
         
@@ -152,10 +158,10 @@ export async function GET() {
         trend.slots2026 += data.system_2026?.total || 0;
         trend.difference += data.difference?.total || 0;
         
+        // Only 2025 has gender-specific slot allocations
         trend.menSlots2025 += data.system_2025?.men || 0;
         trend.womenSlots2025 += data.system_2025?.women || 0;
-        trend.menSlots2026 += data.system_2026?.men || 0;
-        trend.womenSlots2026 += data.system_2026?.women || 0;
+        // 2026 is age-graded (no gender quotas), so no gender-specific slot tracking
         
         // Add participant counts from results
         const participantData = ageGroupParticipants[ageGroup];
@@ -165,16 +171,19 @@ export async function GET() {
           trend.womenParticipants += participantData.women;
         }
         
-        // Calculate average qualifying times
+        // Calculate average qualifying times (only if age group has slots in that system)
         const time2025 = data.system_2025?.qualifying_times?.cutoff_time_seconds;
         const time2026 = data.system_2026?.qualifying_times?.cutoff_time_seconds;
+        const slots2025 = data.system_2025?.total || 0;
+        const slots2026 = data.system_2026?.total || 0;
         
-        if (time2025) {
+        // Only include qualifying times for age groups that actually have slots
+        if (time2025 && slots2025 > 0) {
           trend.totalTimes2025 += time2025;
           trend.timeCount2025++;
         }
         
-        if (time2026) {
+        if (time2026 && slots2026 > 0) {
           trend.totalTimes2026 += time2026;
           trend.timeCount2026++;
         }
