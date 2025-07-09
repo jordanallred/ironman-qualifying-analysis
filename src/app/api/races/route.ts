@@ -16,7 +16,6 @@ export async function GET(request: NextRequest) {
       },
       include: {
         analysis: true,
-        results: true, // Include results for real-time calculation
         _count: {
           select: { results: true }
         }
@@ -48,80 +47,12 @@ export async function GET(request: NextRequest) {
       races = allRaces.sort((a, b) => a.date.getTime() - b.date.getTime());
     }
 
-    // Calculate real-time qualifying numbers for races with results
-    const { IronmanAnalyzer } = await import('@/lib/ironman-analyzer');
-    const analyzer = new IronmanAnalyzer();
-    
-    // Transform for API response with real-time calculations
+    // Transform for API response using cached analysis values
     const racesResponse = races.map(race => {
-      let system2025Qualified = null;
-      let system2026Qualified = null;
-      let slotChange = null;
-
-      // Calculate real-time for races with results
-      if (race.results && race.results.length > 0) {
-        try {
-          // Calculate 2025 system
-          const formattedResults = race.results.map(result => ({
-            place: result.place.toString(),
-            name: result.athleteName,
-            age_group: result.ageGroup,
-            gender: result.ageGroup.startsWith('M') ? 'M' : 'F',
-            time: result.finishTime,
-            country: result.country || 'Unknown',
-            time_seconds: analyzer.parseTimeToSeconds(result.finishTime),
-            age_graded_time: analyzer.calculateAgeGradedTime(
-              analyzer.parseTimeToSeconds(result.finishTime),
-              result.ageGroup.startsWith('M') ? 'M' : 'F',
-              result.ageGroup
-            )
-          }));
-
-          // 2025 system calculation
-          const system2025Result = analyzer.calculate2025System(
-            formattedResults,
-            race.menSlots || 0,
-            race.womenSlots || 0
-          );
-          system2025Qualified = system2025Result.qualifiers.length;
-
-          // 2026 system calculation (simplified version from the individual race API)
-          const totalSlots2026 = race.totalSlots2026 || race.totalSlots;
-          const ageGroups = [...new Set(race.results.map(r => r.ageGroup))];
-          
-          // Age group winners
-          const ageGroupWinners = new Set();
-          ageGroups.forEach(ageGroup => {
-            const ageGroupResults = race.results
-              .filter(r => r.ageGroup === ageGroup && r.timeSeconds > 0)
-              .sort((a, b) => a.timeSeconds - b.timeSeconds);
-            
-            if (ageGroupResults.length > 0) {
-              ageGroupWinners.add(ageGroupResults[0].id);
-            }
-          });
-
-          // Performance pool for remaining slots
-          const remainingSlots2026 = Math.max(0, totalSlots2026 - ageGroupWinners.size);
-          const nonWinners = race.results
-            .filter(r => !ageGroupWinners.has(r.id) && r.ageGradedTime > 0)
-            .sort((a, b) => a.ageGradedTime - b.ageGradedTime);
-
-          system2026Qualified = ageGroupWinners.size + Math.min(remainingSlots2026, nonWinners.length);
-          slotChange = system2026Qualified - system2025Qualified;
-
-        } catch (error) {
-          // Fallback to database values if calculation fails
-          system2025Qualified = race.analysis?.system2025TotalQualified || null;
-          system2026Qualified = race.analysis?.system2026TotalQualified || null;
-          slotChange = race.analysis ? (race.analysis.system2026TotalQualified - race.analysis.system2025TotalQualified) : null;
-        }
-      } else {
-        // Use database values for races without results
-        system2025Qualified = race.analysis?.system2025TotalQualified || null;
-        system2026Qualified = race.analysis?.system2026TotalQualified || null;
-        slotChange = race.analysis ? (race.analysis.system2026TotalQualified - race.analysis.system2025TotalQualified) : null;
-      }
+      // Use cached analysis values from database
+      const system2025Qualified = race.analysis?.system2025TotalQualified || null;
+      const system2026Qualified = race.analysis?.system2026TotalQualified || null;
+      const slotChange = race.analysis ? (race.analysis.system2026TotalQualified - race.analysis.system2025TotalQualified) : null;
 
       return {
         id: race.id,
@@ -162,10 +93,15 @@ export async function GET(request: NextRequest) {
       netSlotChange: totalQualifiers2026 - totalQualifiers2025
     };
     
-    return NextResponse.json({
+    const response = NextResponse.json({
       races: racesResponse,
       summary
     });
+    
+    // Cache for 5 minutes since race data doesn't change frequently
+    response.headers.set('Cache-Control', 'public, max-age=300, stale-while-revalidate=600');
+    
+    return response;
     
   } catch (error) {
     console.error('Error fetching races:', error);

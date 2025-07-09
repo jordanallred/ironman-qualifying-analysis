@@ -272,7 +272,7 @@ export async function GET() {
     const topWinners = ageGroupChanges.filter(ag => ag.difference > 0).slice(0, 5);
     const topLosers = ageGroupChanges.filter(ag => ag.difference < 0).slice(-5).reverse();
     
-    return NextResponse.json({
+    const response = NextResponse.json({
       overallTrends,
       raceDistanceBreakdown,
       ageGroupTrends: ageGroupChanges,
@@ -280,6 +280,11 @@ export async function GET() {
       topLosers,
       lastUpdated: new Date().toISOString()
     });
+    
+    // Cache for 10 minutes since trends data is expensive to calculate
+    response.headers.set('Cache-Control', 'public, max-age=600, stale-while-revalidate=1200');
+    
+    return response;
     
   } catch (error) {
     console.error('Error fetching trends:', error);
