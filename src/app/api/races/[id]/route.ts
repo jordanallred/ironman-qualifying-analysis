@@ -69,17 +69,43 @@ export async function GET(
     const existingAgeGroupAnalysis = race.analysis.ageGroupAnalysis || {};
 
     const calculate2025QualifyingTimes = () => {
-      // For 2025: Use race-specific slot allocation per age group
-      const allResults = race.results
-        .filter(r => r.timeSeconds > 0)
-        .sort((a, b) => a.timeSeconds - b.timeSeconds);
+      // For 2025: Get slowest qualifier's time from the calculated qualifiers
+      if (race.results.length === 0) return null;
       
-      if (allResults.length === 0 || race.totalSlots === 0) return null;
-      
-      const cutoffIndex = Math.min(race.totalSlots - 1, allResults.length - 1);
-      const cutoffTime = allResults[cutoffIndex]?.timeSeconds;
-      
-      return cutoffTime ? { cutoff_time_seconds: cutoffTime } : null;
+      try {
+        // Use the analyzer's calculation for 2025 system
+        const { IronmanAnalyzer } = require('@/lib/ironman-analyzer');
+        const analyzer = new IronmanAnalyzer();
+        
+        const formattedResults = race.results.map(result => ({
+          place: result.place,
+          name: result.athleteName,
+          age_group: result.ageGroup,
+          gender: result.ageGroup.startsWith('M') ? 'M' : 'F',
+          time: result.finishTime,
+          country: result.country || 'Unknown',
+          time_seconds: result.timeSeconds,
+          age_graded_time: result.ageGradedTime
+        }));
+
+        const system2025Result = analyzer.calculate2025System(
+          formattedResults,
+          race.menSlots || 0,
+          race.womenSlots || 0
+        );
+        
+        if (system2025Result.qualifiers.length === 0) return null;
+        
+        // Get slowest qualifier's time
+        const slowestQualifier = system2025Result.qualifiers
+          .filter(q => q.time_seconds > 0)
+          .sort((a, b) => b.time_seconds - a.time_seconds)[0];
+        
+        return slowestQualifier ? { cutoff_time_seconds: slowestQualifier.time_seconds } : null;
+      } catch (error) {
+        console.error('Error calculating 2025 qualifying times:', error);
+        return null;
+      }
     };
 
     // 2026 System Implementation - OFFICIAL IRONMAN RULES
@@ -126,19 +152,18 @@ export async function GET(
       qualified2026.add(athlete.id);
     });
     
-    // Calculate qualifying times for 2026 system (age-graded) - now that we have actual qualifiers
+    // Calculate qualifying times for 2026 system - get slowest qualifier's raw time
     const calculate2026QualifyingTimes = () => {
-      // For 2026: Get the actual slowest qualifier's age-graded time
-      const actualQualifiers = race.results.filter(r => qualified2026.has(r.id) && r.ageGradedTime > 0);
+      // For 2026: Get the slowest qualifier's raw time (not age-graded)
+      const actualQualifiers = race.results.filter(r => qualified2026.has(r.id) && r.timeSeconds > 0);
       
       if (actualQualifiers.length === 0) return null;
       
-      // Find the slowest qualifier's age-graded time
-      const slowestQualifier = actualQualifiers.reduce((prev, curr) => 
-        curr.ageGradedTime > prev.ageGradedTime ? curr : prev
-      );
+      // Find the slowest qualifier's raw time
+      const slowestQualifier = actualQualifiers
+        .sort((a, b) => b.timeSeconds - a.timeSeconds)[0]; // Sort descending to get slowest
       
-      return { cutoff_time_seconds: slowestQualifier.ageGradedTime };
+      return { cutoff_time_seconds: slowestQualifier.timeSeconds };
     };
     
     // Build age group analysis using existing data but add qualifying times
@@ -157,42 +182,19 @@ export async function GET(
       const cutoff2025 = slots2025 > 0 && ageGroupSorted.length > 0 ? 
         ageGroupSorted[Math.min(slots2025 - 1, ageGroupSorted.length - 1)]?.timeSeconds : null;
       
-      // For 2026: Calculate qualifying time using dual-path logic
+      // For 2026: Calculate qualifying time - get slowest qualifier's raw time in this age group
       const qualifiers2026 = ageGroupResults.filter(r => qualified2026.has(r.id));
       const slots2026 = qualifiers2026.length;
       
-      // Calculate 2026 qualifying time: slower of (1) age group winner time or (2) last performance pool qualifier time
+      // Get 2026 qualifying time: slowest qualifier's raw time in this age group
       let cutoff2026 = null;
-      if (ageGroupResults.length > 0) {
-        // Path 1: Age group winner time
-        const ageGroupWinner = ageGroupResults
+      if (qualifiers2026.length > 0) {
+        // Get the slowest (highest) time among qualifiers in this age group
+        const slowestQualifier = qualifiers2026
           .filter(r => r.timeSeconds > 0)
-          .sort((a, b) => a.timeSeconds - b.timeSeconds)[0];
-        const agWinnerTime = ageGroupWinner?.timeSeconds || Infinity;
+          .sort((a, b) => b.timeSeconds - a.timeSeconds)[0]; // Sort descending to get slowest
         
-        // Path 2: Convert performance pool age-graded time to this age group's equivalent
-        let performancePoolTimeForAgeGroup = Infinity;
-        if (nonWinners.length >= remainingSlots2026 && remainingSlots2026 > 0) {
-          const lastPerformancePoolQualifier = nonWinners[remainingSlots2026 - 1];
-          const lastPerformancePoolAgeGradedTime = lastPerformancePoolQualifier.ageGradedTime;
-          
-          // Get age group standard for conversion
-          const ageGroupStandard = await prisma.ageGroupStandard.findUnique({
-            where: { ageGroup }
-          });
-          
-          if (ageGroupStandard && lastPerformancePoolAgeGradedTime) {
-            performancePoolTimeForAgeGroup = lastPerformancePoolAgeGradedTime / ageGroupStandard.multiplier;
-          }
-        }
-        
-        // The qualifying time is the slower (higher) of these two paths
-        if (agWinnerTime !== Infinity || performancePoolTimeForAgeGroup !== Infinity) {
-          cutoff2026 = Math.max(
-            agWinnerTime === Infinity ? 0 : agWinnerTime,
-            performancePoolTimeForAgeGroup === Infinity ? 0 : performancePoolTimeForAgeGroup
-          );
-        }
+        cutoff2026 = slowestQualifier?.timeSeconds || null;
       }
       
       ageGroupAnalysis[ageGroup] = {
