@@ -16,7 +16,7 @@ interface TimeChangesTableProps {
   data: TimeChangesData[];
 }
 
-export default function TimeChangesTable({ data }: TimeChangesTableProps) {
+export default function TimeChangesTable({ data }: TimeChangesTableProps) { 
   const { sortedData, sortConfig, handleSort } = useSorting({
     data,
     defaultSort: { key: 'ageGroup', direction: 'asc' }
