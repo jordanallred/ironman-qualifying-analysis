@@ -195,9 +195,9 @@ export async function GET() {
         // Calculate 2026 qualifying time: get the slowest qualifier in this age group for 2026 system
         if (slots2026 > 0) {
           // For 2026, we need to check which athletes actually qualified under the age-graded system
-          // This is complex, so for now let's use a simplified approach based on age-graded performance
+          // Sort by age-graded time to find qualifiers, then use their RAW time for consistent comparison
           const ageGroupResults = race.results
-            .filter(r => r.ageGroup === ageGroup && r.ageGradedTime > 0)
+            .filter(r => r.ageGroup === ageGroup && r.ageGradedTime > 0 && r.timeSeconds > 0)
             .sort((a, b) => a.ageGradedTime - b.ageGradedTime);
           
           if (ageGroupResults.length > 0) {
