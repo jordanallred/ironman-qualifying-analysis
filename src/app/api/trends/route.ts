@@ -171,21 +171,44 @@ export async function GET() {
           trend.womenParticipants += participantData.women;
         }
         
-        // Calculate average qualifying times (only if age group has slots in that system)
-        const time2025 = data.system_2025?.qualifying_times?.cutoff_time_seconds;
-        const time2026 = data.system_2026?.qualifying_times?.cutoff_time_seconds;
+        // Calculate qualifying times from actual race results (more reliable than stored analysis)
         const slots2025 = data.system_2025?.total || 0;
         const slots2026 = data.system_2026?.total || 0;
         
-        // Only include qualifying times for age groups that actually have slots
-        if (time2025 && slots2025 > 0) {
-          trend.totalTimes2025 += time2025;
-          trend.timeCount2025++;
+        // Calculate 2025 qualifying time: get the slowest qualifier in this age group
+        if (slots2025 > 0) {
+          const ageGroupResults = race.results
+            .filter(r => r.ageGroup === ageGroup && r.timeSeconds > 0)
+            .sort((a, b) => a.timeSeconds - b.timeSeconds);
+          
+          if (ageGroupResults.length > 0) {
+            const cutoffIndex = Math.min(slots2025 - 1, ageGroupResults.length - 1);
+            const cutoffTime = ageGroupResults[cutoffIndex]?.timeSeconds;
+            
+            if (cutoffTime) {
+              trend.totalTimes2025 += cutoffTime;
+              trend.timeCount2025++;
+            }
+          }
         }
         
-        if (time2026 && slots2026 > 0) {
-          trend.totalTimes2026 += time2026;
-          trend.timeCount2026++;
+        // Calculate 2026 qualifying time: get the slowest qualifier in this age group for 2026 system
+        if (slots2026 > 0) {
+          // For 2026, we need to check which athletes actually qualified under the age-graded system
+          // This is complex, so for now let's use a simplified approach based on age-graded performance
+          const ageGroupResults = race.results
+            .filter(r => r.ageGroup === ageGroup && r.ageGradedTime > 0)
+            .sort((a, b) => a.ageGradedTime - b.ageGradedTime);
+          
+          if (ageGroupResults.length > 0) {
+            const cutoffIndex = Math.min(slots2026 - 1, ageGroupResults.length - 1);
+            const cutoffResult = ageGroupResults[cutoffIndex];
+            
+            if (cutoffResult?.timeSeconds) {
+              trend.totalTimes2026 += cutoffResult.timeSeconds;
+              trend.timeCount2026++;
+            }
+          }
         }
       }
     }
