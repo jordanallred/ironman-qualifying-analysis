@@ -102,6 +102,7 @@ export default function TimeChangesTable({ data }: TimeChangesTableProps) {
               <TableCell>
                 {row.timeChange !== null ? (
                   <div className="flex flex-col space-y-1">
+                    {/* Positive changes (slower times) = easier to qualify = GREEN */}
                     <span className={`font-medium ${
                       row.timeChange > 0 ? 'text-green-600' : 
                       row.timeChange < 0 ? 'text-red-600' : 'text-gray-500'
