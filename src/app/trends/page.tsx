@@ -112,13 +112,14 @@ export default function TrendsPage() {
     },
     age_group_analysis: trendsData.ageGroupTrends.reduce((acc, ag) => {
       acc[ag.ageGroup] = {
+        participants: ag.participantCount, // Add participant count
         system_2025: { 
           total: ag.slots2025,
-          qualifying_times: ag.avgTime2025 ? { cutoff_time_seconds: ag.avgTime2025 } : null
+          qualifying_times: ag.avgTime2025 ? { cutoff_time_seconds: Math.round(ag.avgTime2025) } : null
         },
         system_2026: { 
           total: ag.slots2026,
-          qualifying_times: ag.avgTime2026 ? { cutoff_time_seconds: ag.avgTime2026 } : null
+          qualifying_times: ag.avgTime2026 ? { cutoff_time_seconds: Math.round(ag.avgTime2026) } : null
         },
         difference: { total: ag.difference }
       };
